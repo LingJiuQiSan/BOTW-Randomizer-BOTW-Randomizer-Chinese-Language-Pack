@@ -4236,7 +4236,7 @@ entries:
       - control:
           kind: set_colour
           colour: red
-      - text: 削岩棒
+      - text: 削岩棒(Drillshaft)
   Weapon_Spear_032:
     contents:
       - text: "拥有 - "
