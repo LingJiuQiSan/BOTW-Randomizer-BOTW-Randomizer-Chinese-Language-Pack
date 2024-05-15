@@ -1,0 +1,544 @@
+---
+group_count: 77
+atr1_unknown: 0
+entries:
+  Armor_001_Head:
+    contents:
+      - text: "获得 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 海利亚兜帽(Hylian Hood)
+  Armor_001_Lower:
+    contents:
+      - text: "获得 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 海利亚裤子(Hylian Trousers)
+  Armor_001_Upper:
+    contents:
+      - text: "获得 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 海利亚服(Hylian Tunic)
+  Armor_006_Head:
+    contents:
+      - text: "获得 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 卓拉头盔(Zora Helm)
+  Armor_006_Lower:
+    contents:
+      - text: "获得 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 卓拉护胫(Zora Greaves)
+  Armor_006_Upper:
+    contents:
+      - text: "获得 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 卓拉铠甲(Zora Armor)
+  Armor_008_Head:
+    contents:
+      - text: "获得 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 热沙护额(Desert Voe Headband)
+  Armor_008_Lower:
+    contents:
+      - text: "获得 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 热沙裤子(Desert Voe Trousers)
+  Armor_008_Upper:
+    contents:
+      - text: "获得 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 热沙护肩(Desert Voe Spaulder)
+  Armor_009_Head:
+    contents:
+      - text: "获得 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 防雪羽饰(Snowquill Headdress)
+  Armor_009_Lower:
+    contents:
+      - text: "获得 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 利特的羽绒裤(Snowquill Trousers)
+  Armor_009_Upper:
+    contents:
+      - text: "获得 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 利特的羽绒服(Snowquill Tunic)
+  Armor_011_Head:
+    contents:
+      - text: "获得 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 耐火石盔(Flamebreaker Helm)
+  Armor_011_Lower:
+    contents:
+      - text: "获得 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 耐火石鞋(Flamebreaker Boots)
+  Armor_011_Upper:
+    contents:
+      - text: "获得 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 耐火石铠(Flamebreaker Armor)
+  Armor_012_Head:
+    contents:
+      - text: "获得 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 潜行面罩(Stealth Mask)
+  Armor_012_Lower:
+    contents:
+      - text: "获得 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 潜行紧身裤(Stealth Tights)
+  Armor_012_Upper:
+    contents:
+      - text: "获得 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 潜行紧身服(Stealth Chest Guard)
+  Armor_014_Head:
+    contents:
+      - text: "获得 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "攀登头巾(Climber's Bandanna)"
+  Armor_014_Lower:
+    contents:
+      - text: "获得 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 攀登鞋(Climbing Boots)
+  Armor_014_Upper:
+    contents:
+      - text: "获得 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 攀登护手(Climbing Gear)
+  Armor_017_Head:
+    contents:
+      - text: "获得 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 夜光面罩(Radiant Mask)
+  Armor_017_Lower:
+    contents:
+      - text: "获得 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 夜光紧身裤(Radiant Tights)
+  Armor_017_Upper:
+    contents:
+      - text: "获得 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 夜光紧身服(Radiant Shirt)
+  Armor_020_Head:
+    contents:
+      - text: "获得 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "海利亚士兵头盔(Soldier's Helm)"
+  Armor_020_Lower:
+    contents:
+      - text: "获得 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "海利亚士兵护胫(Soldier's Greaves)"
+  Armor_020_Upper:
+    contents:
+      - text: "获得 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "海利亚士兵铠甲(Soldier's Armor)"
+  Armor_021_Head:
+    contents:
+      - text: "获得 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 古代兵装·头盔(Ancient Helm)
+  Armor_021_Lower:
+    contents:
+      - text: "获得 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 古代兵装·下身铠(Ancient Greaves)
+  Armor_021_Upper:
+    contents:
+      - text: "获得 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 古代兵装·上身铠(Ancient Cuirass)
+  Armor_022_Head:
+    contents:
+      - text: "获得 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 波克布林面罩(Bokoblin Mask)
+  Armor_024_Head:
+    contents:
+      - text: "获得 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 钻石头饰(Diamond Circlet)
+  Armor_025_Head:
+    contents:
+      - text: "获得 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 红宝石头饰(Ruby Circlet)
+  Armor_026_Head:
+    contents:
+      - text: "获得 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 蓝宝石头饰(Sapphire Circlet)
+  Armor_027_Head:
+    contents:
+      - text: "获得 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 黄玉耳坠(Topaz Earrings)
+  Armor_028_Head:
+    contents:
+      - text: "获得 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 蛋白石耳坠(Opal Earrings)
+  Armor_029_Head:
+    contents:
+      - text: "获得 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 琥珀耳坠(Amber Earrings)
+  Armor_043_Lower:
+    contents:
+      - text: "获得 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 老旧的裤子(Well-Worn Trousers)
+  Armor_043_Upper:
+    contents:
+      - text: "获得 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 老旧的衬衫(Old Shirt)
+  Armor_044_Upper:
+    contents:
+      - text: "获得 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 防寒服(Warm Doublet)
+  Armor_045_Head:
+    contents:
+      - text: "获得 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 莫力布林面罩(Moblin Mask)
+  Armor_046_Head:
+    contents:
+      - text: "获得 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 橡胶头盔(Rubber Helm)
+  Armor_046_Lower:
+    contents:
+      - text: "获得 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 橡胶紧身裤(Rubber Tights)
+  Armor_046_Upper:
+    contents:
+      - text: "获得 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 橡胶紧身服(Rubber Armor)
+  Armor_048_Head:
+    contents:
+      - text: "获得 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 蛮族头盔(Barbarian Helm)
+  Armor_048_Lower:
+    contents:
+      - text: "获得 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 蛮族短裤(Barbarian Leg Wraps)
+  Armor_048_Upper:
+    contents:
+      - text: "获得 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 蛮族服(Barbarian Armor)
+  Armor_049_Lower:
+    contents:
+      - text: "获得 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 沙地靴(Sand Boots)
+  Armor_053_Head:
+    contents:
+      - text: "获得 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 淑女面罩(Gerudo Veil)
+  Armor_053_Lower:
+    contents:
+      - text: "获得 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 淑女衣服(Gerudo Sirwal)
+  Armor_053_Upper:
+    contents:
+      - text: "获得 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 淑女面罩(Gerudo Top)
+  Armor_055_Head:
+    contents:
+      - text: "获得 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 蜥蜴战士面罩(Lizalfos Mask)
+  Armor_056_Head:
+    contents:
+      - text: "获得 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 莱尼尔面罩(Lynel Mask)
+  Armor_115_Head:
+    contents:
+      - text: "获得 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 雷鸣头盔(Thunder Helm)
+  Armor_116_Upper:
+    contents:
+      - text: "获得 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "英杰服(Champion's Tunic)"
+  Armor_140_Lower:
+    contents:
+      - text: "获得 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 雪地靴(Snow Boots)
+  Armor_141_Lower:
+    contents:
+      - text: "获得 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 雪地靴(Snow Boots)
+  Armor_160_Head:
+    contents:
+      - text: "获得 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 黑暗头套(Dark Hood)
+  Armor_160_Lower:
+    contents:
+      - text: "获得 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 黑暗裤子(Dark Trousers)
+  Armor_160_Upper:
+    contents:
+      - text: "获得 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 黑暗外衣(Dark Tunic)
+  Armor_170_Upper:
+    contents:
+      - text: "获得 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 它的衬衫(Nintendo Switch Shirt)
+  Armor_171_Head:
+    contents:
+      - text: "获得 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 幻影头盔(Phantom Helmet)
+  Armor_171_Lower:
+    contents:
+      - text: "获得 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 幻影护胫(Phantom Greaves)
+  Armor_171_Upper:
+    contents:
+      - text: "获得 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 幻影铠甲(Phantom Armor)
+  Armor_172_Head:
+    contents:
+      - text: "获得 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "魔吉拉的面具(Majora's Mask)"
+  Armor_173_Head:
+    contents:
+      - text: "获得 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "米多娜的王冠(Midna's Helmet)"
+  Armor_174_Head:
+    contents:
+      - text: "获得 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "汀空的头巾(Tingle's Hood)"
+  Armor_174_Lower:
+    contents:
+      - text: "获得 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "汀空的裤子(Tingle's Tights)"
+  Armor_174_Upper:
+    contents:
+      - text: "获得 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "汀空的衣服(Tingle's Shirt)"
+  Armor_175_Upper:
+    contents:
+      - text: "获得 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 蓝色大虾衬衫(Island Lobster Shirt)
+  Armor_176_Head:
+    contents:
+      - text: "获得 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 克洛格的面具(Korok Mask)
+  Armor_179_Lower:
+    contents:
+      - text: "获得 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 近卫兵的靴子(Royal Guard Boots)
+  Armor_179_Upper:
+    contents:
+      - text: "获得 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 近卫兵的衣服(Royal Guard Uniform)
+  Armor_180_Lower:
+    contents:
+      - text: "获得 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 幻影盖侬胫甲(Phantom Ganon Greaves)
+  Armor_180_Upper:
+    contents:
+      - text: "获得 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 幻影盖侬铠甲(Phantom Ganon Armor)
+  Armor_185_Lower:
+    contents:
+      - text: "获得 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 打捞员裤子(Salvager Trousers)
+  Armor_185_Upper:
+    contents:
+      - text: "获得 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 打捞员上衣(Salvager Vest)
+

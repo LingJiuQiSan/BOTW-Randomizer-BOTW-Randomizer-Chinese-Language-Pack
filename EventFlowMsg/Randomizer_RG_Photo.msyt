@@ -1,0 +1,803 @@
+---
+group_count: 114
+atr1_unknown: 0
+entries:
+  Animal_Bear_A:
+    contents:
+      - text: "给拍照 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 食蜂熊(Honeyvore Bear)
+  Animal_Bear_B:
+    contents:
+      - text: "给拍照 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 帝灰熊(Grizzlemaw Bear)
+  Animal_Boar_A:
+    contents:
+      - text: "给拍照 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 森林野猪(Woodland Boar)
+  Animal_Boar_B:
+    contents:
+      - text: "给拍照 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 赤獠野猪(Red-Tusked Boar)
+  Animal_Bull_A:
+    contents:
+      - text: "给拍照 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 湿地水牛(Water Buffalo)
+  Animal_Cassowary_A:
+    contents:
+      - text: "给拍照 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 奥尔汀鸵鸟(Eldin Ostrich)
+  Animal_Cow_A:
+    contents:
+      - text: "给拍照 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 哈特诺牛(Hateno Cow)
+  Animal_Crow_A:
+    contents:
+      - text: "给拍照 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 山鸦(Mountain Crow)
+  Animal_Deer_A:
+    contents:
+      - text: "给拍照 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 山鹿(Mountain Buck)
+  Animal_Doe_A:
+    contents:
+      - text: "给拍照 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 山鹿（雌）(Mountain Doe)
+  Animal_Dog_A:
+    contents:
+      - text: "给拍照 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 海利亚猎犬(Hylian Retriever)
+  Animal_Elk_A:
+    contents:
+      - text: "给拍照 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 塔邦挞驼鹿(Tabantha Moose)
+  Animal_Fox_A:
+    contents:
+      - text: "给拍照 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 平原狐
+  Animal_Fox_B:
+    contents:
+      - text: "给拍照 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 雪狐(Snowcoat Fox)
+  Animal_Goat_A:
+    contents:
+      - text: "给拍照 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 白山羊(White Goat)
+  Animal_Gull_A:
+    contents:
+      - text: "给拍照 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 海滨鸥(Seagull)
+  Animal_Hawk_A:
+    contents:
+      - text: "给拍照 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 岛鹰(Islander Hawk)
+  Animal_Heron_A:
+    contents:
+      - text: "给拍照 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 青羽鹭(Blue-Winged Heron)
+  Animal_Heron_B:
+    contents:
+      - text: "给拍照 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 桃鹭(Pink Heron)
+  Animal_Kokko_A:
+    contents:
+      - text: "给拍照 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 咕咕鸡(Cucco)
+  Animal_LittleBird_A:
+    contents:
+      - text: "给拍照 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 普雀(Common Sparrow)
+  Animal_LittleBird_B:
+    contents:
+      - text: "给拍照 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 红雀(Red Sparrow)
+  Animal_LittleBird_C:
+    contents:
+      - text: "给拍照 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 青波雀(Blue Sparrow)
+  Animal_LittleBird_D:
+    contents:
+      - text: "给拍照 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 五彩雀(Rainbow Sparrow)
+  Animal_LittleBird_E:
+    contents:
+      - text: "给拍照 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 沙雀(Sand Sparrow)
+  Animal_LittleBird_F:
+    contents:
+      - text: "给拍照 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 金雀(Golden Sparrow)
+  Animal_Pigeon_A:
+    contents:
+      - text: "给拍照 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 凡鸽(Wood Pigeon)
+  Animal_Pigeon_B:
+    contents:
+      - text: "给拍照 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 虹鸽(Rainbow Pigeon)
+  Animal_Ptarmigan_A:
+    contents:
+      - text: "给拍照 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 白鸽(White Pigeon)
+  Animal_Ptarmigan_B:
+    contents:
+      - text: "给拍照 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 火焰鸽(Hotfeather Pigeon)
+  Animal_Rhino_A:
+    contents:
+      - text: "给拍照 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 大角犀牛(Great-Horned Rhinoceros)
+  Animal_RupeeRabbit_A:
+    contents:
+      - text: "给拍照 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 卢咪(Blupee)
+  Animal_Sheep_A:
+    contents:
+      - text: "给拍照 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: Highland Sheep
+  Animal_Squirrel_A:
+    contents:
+      - text: "给拍照 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 尾立松鼠(Bushy-Tailed Squirrel)
+  Animal_SunazarashiSP_C:
+    contents:
+      - text: "给拍照 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 帕特丽夏(Patricia)
+  Animal_Sunazarashi_A:
+    contents:
+      - text: "给拍照 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 沙海象(Sand Seal)
+  Animal_WildDuck_A:
+    contents:
+      - text: "给拍照 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 白星鸭(Bright-Chested Duck)
+  Animal_WildGoat_A:
+    contents:
+      - text: "给拍照 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 黑背山羊(Mountain Goat)
+  Animal_Wolf_A:
+    contents:
+      - text: "给拍照 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 山贼狼(Maraudo Wolf)
+  Animal_Wolf_B:
+    contents:
+      - text: "给拍照 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 荒原土狼(Wasteland Coyote)
+  Animal_Wolf_C:
+    contents:
+      - text: "给拍照 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 雪原狼(Cold-Footed Wolf)
+  Enemy_AirOctarock:
+    contents:
+      - text: "给拍照 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 天空八爪怪(Sky Octorok)
+  Enemy_Assassin_Junior:
+    contents:
+      - text: "给拍照 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 依盖队 成员(Yiga Footsoldier)
+  Enemy_Assassin_Middle:
+    contents:
+      - text: "给拍照 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 伊盖队 干部(Yiga Blademaster)
+  Enemy_Bokoblin_Bone_Junior:
+    contents:
+      - text: "给拍照 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 骷髅波克布林(Stalkoblin)
+  Enemy_Bokoblin_Dark:
+    contents:
+      - text: "给拍照 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 白银波克布林(Silver Bokoblin)
+  Enemy_Bokoblin_Gold:
+    contents:
+      - text: "给拍照 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 黄金波克布林(Golden Bokoblin)
+  Enemy_Bokoblin_Junior:
+    contents:
+      - text: "给拍照 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 波克布林(Bokoblin)
+  Enemy_Bokoblin_Middle:
+    contents:
+      - text: "给拍照 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 蓝色波克布林(Blue Bokoblin)
+  Enemy_Bokoblin_Senior:
+    contents:
+      - text: "给拍照 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 海色波克布林(Black Bokoblin)
+  Enemy_Chuchu_Electric_Junior:
+    contents:
+      - text: "给拍照 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 电丘丘(Electric Chuchu)
+  Enemy_Chuchu_Fire_Junior:
+    contents:
+      - text: "给拍照 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 火丘丘(Fire Chuchu)
+  Enemy_Chuchu_Ice_Junior:
+    contents:
+      - text: "给拍照 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 冰丘丘(Ice Chuchu)
+  Enemy_Chuchu_Junior:
+    contents:
+      - text: "给拍照 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 丘丘(Chuchu)
+  Enemy_GanonGrudge:
+    contents:
+      - text: "给拍照 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 厄咒波克布林(Cursed Bokoblin)
+  Enemy_GanonGrudge_01:
+    contents:
+      - text: "给拍照 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 厄咒莫力布林(Cursed Moblin)
+  Enemy_GanonGrudge_02:
+    contents:
+      - text: "给拍照 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 厄咒蜥蜴战士(Cursed Lizalfos)
+  Enemy_Giant_Bone:
+    contents:
+      - text: "给拍照 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 骷髅西诺克斯(Stalnox)
+  Enemy_Giant_Junior:
+    contents:
+      - text: "给拍照 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 西诺克斯(Hinox)
+  Enemy_Giant_Middle:
+    contents:
+      - text: "给拍照 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 蓝色西诺克斯(Blue Hinox)
+  Enemy_Giant_Senior:
+    contents:
+      - text: "给拍照 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 黑色西诺克斯(Black Hinox)
+  Enemy_Golem_Fire:
+    contents:
+      - text: "给拍照 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 熔岩巨人(Igneo Talus)
+  Enemy_Golem_Ice:
+    contents:
+      - text: "给拍照 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 冰岩巨人(Frost Talus)
+  Enemy_Golem_Junior:
+    contents:
+      - text: "给拍照 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 岩石巨人(Stone Talus)
+  Enemy_Golem_Little:
+    contents:
+      - text: "给拍照 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 岩石人(Stone Pebblit)
+  Enemy_Golem_Little_Fire:
+    contents:
+      - text: "给拍照 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 熔岩人(Igneo Pebblit)
+  Enemy_Golem_Little_Ice:
+    contents:
+      - text: "给拍照 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 冰岩人(Frost Pebblit)
+  Enemy_Golem_Middle:
+    contents:
+      - text: "给拍照 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 岩石巨人（夜光）(Stone Talus (Luminous))
+  Enemy_Golem_Senior:
+    contents:
+      - text: "给拍照 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 岩石巨人（稀有）(Stone Talus (Rare))
+  Enemy_Guardian_A:
+    contents:
+      - text: "给拍照 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 守护者（步行型）(Guardian Stalker)
+  Enemy_Guardian_A_Fixed_Moss:
+    contents:
+      - text: "给拍照 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 腐蚀守护者(Decayed Guardian)
+  Enemy_Guardian_B:
+    contents:
+      - text: "给拍照 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 守护者（炮台型）(Guardian Turret)
+  Enemy_Guardian_C:
+    contents:
+      - text: "给拍照 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 守护者（飞行型）(Guardian Skywatcher)
+  Enemy_Guardian_Mini_Baby:
+    contents:
+      - text: "给拍照 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 小型守护者(Guardian Scout I)
+  Enemy_Guardian_Mini_Junior:
+    contents:
+      - text: "给拍照 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 小型守护者（初阶）(Guardian Scout II)
+  Enemy_Guardian_Mini_Middle:
+    contents:
+      - text: "给拍照 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 小型守护者（高阶）(Guardian Scout III)
+  Enemy_Guardian_Mini_Senior:
+    contents:
+      - text: "给拍照 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 小型守护者（终阶）(Guardian Scout IV)
+  Enemy_Keese:
+    contents:
+      - text: "给拍照 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 蝙蝠Keese)
+  Enemy_Keese_Electric:
+    contents:
+      - text: "给拍照 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 电蝙蝠(Electric Keese)
+  Enemy_Keese_Fire:
+    contents:
+      - text: "给拍照 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 火蝙蝠(Fire Keese)
+  Enemy_Keese_Ice:
+    contents:
+      - text: "给拍照 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 冰蝙蝠(Ice Keese)
+  Enemy_Lizalfos_Bone_Junior:
+    contents:
+      - text: "给拍照 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 骷髅蜥蜴战士(Stalizalfos)
+  Enemy_Lizalfos_Dark:
+    contents:
+      - text: "给拍照 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 白银蜥蜴战士(Silver Lizalfos)
+  Enemy_Lizalfos_Electric:
+    contents:
+      - text: "给拍照 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 电麻蜥蜴战士(Electric Lizalfos)
+  Enemy_Lizalfos_Fire:
+    contents:
+      - text: "给拍照 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 喷火蜥蜴战士(Fire-Breath Lizalfos)
+  Enemy_Lizalfos_Gold:
+    contents:
+      - text: "给拍照 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 黄金蜥蜴战士(Golden Lizalfos)
+  Enemy_Lizalfos_Ice:
+    contents:
+      - text: "给拍照 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 吐雹蜥蜴战士(Ice-Breath Lizalfos)
+  Enemy_Lizalfos_Junior:
+    contents:
+      - text: "给拍照 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 蜥蜴战士(Lizalfos)
+  Enemy_Lizalfos_Middle:
+    contents:
+      - text: "给拍照 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 蓝色蜥蜴战士(Blue Lizalfos)
+  Enemy_Lizalfos_Senior:
+    contents:
+      - text: "给拍照 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 黑色蜥蜴战士(Black Lizalfos)
+  Enemy_Lynel_Dark:
+    contents:
+      - text: "给拍照 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 白银莱尼尔(Silver Lynel)
+  Enemy_Lynel_Gold:
+    contents:
+      - text: "给拍照 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 黄金莱尼尔(Golden Lynel)
+  Enemy_Lynel_Junior:
+    contents:
+      - text: "给拍照 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 莱尼尔(Lynel)
+  Enemy_Lynel_Middle:
+    contents:
+      - text: "给拍照 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 蓝鬃莱尼尔(Blue-Maned Lynel)
+  Enemy_Lynel_Senior:
+    contents:
+      - text: "给拍照 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 白鬃莱尼尔(White-Maned Lynel)
+  Enemy_Moriblin_Bone_Junior:
+    contents:
+      - text: "给拍照 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 骷髅莫力布林(Stalmoblin)
+  Enemy_Moriblin_Dark:
+    contents:
+      - text: "给拍照 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 白银莫力布林(Silver Moblin)
+  Enemy_Moriblin_Gold:
+    contents:
+      - text: "给拍照 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 黄金莫力布林(Golden Moblin)
+  Enemy_Moriblin_Junior:
+    contents:
+      - text: "给拍照 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 莫力布林(Moblin)
+  Enemy_Moriblin_Middle:
+    contents:
+      - text: "给拍照 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 蓝色莫力布林(Blue Moblin)
+  Enemy_Moriblin_Senior:
+    contents:
+      - text: "给拍照 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 黑色莫力布林(Black Moblin)
+  Enemy_Octarock:
+    contents:
+      - text: "给拍照 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 水八爪怪(Water Octorok)
+  Enemy_Octarock_Desert:
+    contents:
+      - text: "给拍照 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 宝八爪怪(Treasure Octorok)
+  Enemy_Octarock_Forest:
+    contents:
+      - text: "给拍照 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 森八爪怪(Forest Octorok)
+  Enemy_Octarock_Snow:
+    contents:
+      - text: "给拍照 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 雪八爪怪(Snow Octorok)
+  Enemy_Octarock_Stone:
+    contents:
+      - text: "给拍照 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 岩八爪怪(Rock Octorok)
+  Enemy_Sandworm:
+    contents:
+      - text: "给拍照 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 莫尔德拉吉克(Molduga)
+  Enemy_Wizzrobe_Electric:
+    contents:
+      - text: "给拍照 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 电击长袍魔法师(Electric Wizzrobe)
+  Enemy_Wizzrobe_Electric_Senior:
+    contents:
+      - text: "给拍照 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 雷电长袍魔法师(Thunder Wizzrobe)
+  Enemy_Wizzrobe_Fire:
+    contents:
+      - text: "给拍照 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 火焰长袍魔法师(Fire Wizzrobe)
+  Enemy_Wizzrobe_Fire_Senior:
+    contents:
+      - text: "给拍照 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 陨石长袍魔法师(Meteo Wizzrobe)
+  Enemy_Wizzrobe_Ice:
+    contents:
+      - text: "给拍照 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 冰雪长袍魔法师(Ice Wizzrobe)
+  Enemy_Wizzrobe_Ice_Senior:
+    contents:
+      - text: "给拍照 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 冰冻长袍魔法师(Blizzrobe)
+  RemainsFire_Drone_A_01:
+    contents:
+      - text: "给拍照 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 普尔培拉(Sentry)
+

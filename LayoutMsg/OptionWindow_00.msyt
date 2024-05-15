@@ -1,0 +1,17 @@
+---
+group_count: 31
+atr1_unknown: 0
+entries:
+  "0047":
+    contents:
+      - text: Toy-Con VR 护目镜
+  "0048":
+    contents:
+      - text: 使用VR眼镜进行游戏。
+  "0049":
+    contents:
+      - text: "开"
+  "0050":
+    contents:
+      - text: "关"
+

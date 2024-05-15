@@ -1,0 +1,1160 @@
+---
+group_count: 165
+atr1_unknown: 0
+entries:
+  AdeyaVillage:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 阿德亚村遗迹(Deya Village Ruins)
+  AkkareBigBridge:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 阿卡莱大桥(Akkala Span)
+  AkkareGarrison:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 阿卡莱练兵场遗迹(Akkala Parade Ground Ruins)
+  AkkareZhai:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 阿卡莱堡垒遗迹(Akkala Citadel Ruins)
+  AkkareZhaiBridge:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 阿卡莱堡垒联络桥遗迹(Akkala Bridge Ruins)
+  AncientLabo:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 阿卡莱古代研究所(Akkala Ancient Tech Lab)
+  AnoleTunnel:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 马尔鼓坑道(Gorko Tunnel)
+  Assassin:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 依盖队基地(Yiga Clan Hideout)
+  BigBrotherBridge:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 双子哥哥桥(Big Twin Bridge)
+  BigTree:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 腐朽的千年古树(Ancient Tree Stump)
+  BlindForest:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 德依布朗遗迹(Thyphlo Ruins)
+  BraveFountain:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 勇气之泉(Spring of Courage)
+  BrosRock:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "兄弟岩(Warbler's Nest)"
+  CelebrationPark:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 祭奠场遗迹(Sacred Ground Ruins)
+  CentralExchange:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 交易所遗迹(Exchange Ruins)
+  ChirakaVillage:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 科彭嘉村遗迹(Goponga Village Ruins)
+  Cohorint:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 塞哈特诺岛(Eventide Island)
+  Cokiri:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 克洛格森林(Korok Forest)
+  Corosseo:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 竞技场遗迹(Coliseum Ruins)
+  DeathMountainHatago:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 山麓驿站(Foothill Stable)
+  DeathMountain_Entrance:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 死亡之山登山口(Maw of Death Mountain)
+  DodoraBridge:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "拉鲁特大桥(Luto's Crossing)"
+  DragonMarsh:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 龙骨沼泽(Dragon Bone Mire)
+  EastDam:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 东部的蓄水湖(East Reservoir Lake)
+  EastGerudoRuins:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 东格鲁德遗迹(East Gerudo Ruins)
+  EastPostTownRuin:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 东部的驿站村废墟(East Post Ruins)
+  Execution:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 监狱遗迹(Castle Town Prison)
+  EzzuBridge:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 伊格尔斯桥(Eagus Bridge)
+  FaronHatago000:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 双子驿站(Dueling Peaks Stable)
+  FaronHatago001:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 湖畔驿站(Lakeside Stable)
+  FaronHatago002:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 高原驿站(Highland Stable)
+  FironeForestEntrance:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 费罗尼树海入口(Faron Woods)
+  FlamingoSpa:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "明弗拉的秘泉(Goflam's Secret Hot Spring)"
+  FloriaBridge:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 花柔莉亚桥(Floria Bridge)
+  FlowerSandbank:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 花之中州(Floret Sandbar)
+  ForestHatago:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 森林驿站(Woodland Stable)
+  FrontGatePosttown:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 门前驿站村遗迹(Gatepost Town Ruins)
+  GameBalling:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "彭多的小屋(Pondo's Lodge)"
+  GameBitalockGolf:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 库库甲谷球场(Tanagar Canyon Course)
+  GameGutsCriff:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 毅力崖(Gut Check Rock)
+  GameMarathon:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 马拉松报名处(Footrace Check-In)
+  GameShiledSurf:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "丝莱米的小屋(Selmie's Spot)"
+  GameYabusame:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 骑射演武报名处(Mounted Archery Camp)
+  GameZarashiRace:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 沙海象拉力赛报名处(Sand-Seal Rally)
+  GarakishiVillage:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 夏特村落遗迹(Shadow Hamlet Ruins)
+  GatakaraGarrison:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 科摩罗驻军地遗迹(Kolomo Garrison Ruins)
+  Gerudo:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 格鲁德小镇(Gerudo Town)
+  GerudoCanyon_Entrance:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 格鲁德峡谷入口(Gerudo Canyon Pass)
+  GerudoDesert_Entrance:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 格鲁德沙漠入口(Gerudo Desert Gateway)
+  GerudoFossil:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 格鲁德大化石(Gerudo Great Skeleton)
+  GerudoHatago:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 格鲁德峡谷驿站(Gerudo Canyon Stable)
+  Goron:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 鼓隆城(Goron City)
+  GoronBridge:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 鼓隆桥(Stolock Bridge)
+  GutinizaPlainTomb:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 古奇尼扎平原(Guchini Plain Barrows)
+  HachijoBridge:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 阿乌尔桥(Owlan Bridge)
+  Hateno:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 哈特诺村(Hateno Village)
+  HatenoGate:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 哈特诺堡垒(Fort Hateno)
+  HatenoLabo:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 哈特诺古代研究所(Hateno Ancient Tech Lab)
+  HeburaFossil:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 海布拉大化石(Hebra Great Skeleton)
+  HeburaLodge:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 冰冻山麓(Hebra Trailhead Lodge)
+  HopesPlateau:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 初始台地(Great Plateau)
+  HyralBridge:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 海利亚大桥(Bridge of Hylia)
+  HyruleCastle:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 海拉鲁城堡(Hyrule Castle)
+  HyruleCastle_Hall_1:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 二殿(Second Gatehouse)
+  HyruleCastle_Hall_2:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 三殿(First Gatehouse)
+  HyruleCastle_Room_0:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 观察室(Observation Room)
+  HyruleCastle_Room_1:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 食堂(Dining Hall)
+  HyruleCastle_Room_10:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 东坑道(East Passage)
+  HyruleCastle_Room_11:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 西坑道(West Passage)
+  HyruleCastle_Room_2:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "训练所(Guards' Chamber)"
+  HyruleCastle_Room_3:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 图书馆(Library)
+  HyruleCastle_Room_5:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 牢房(Lockup)
+  HyruleCastle_Room_6:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "塞尔达的房间(Princess Zelda's Room)"
+  HyruleCastle_Room_7:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 船坞(Docks)
+  HyruleCastle_Room_8:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "塞尔达的研究室(Princess Zelda's Study)"
+  HyruleCastle_Room_9:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "国王的书房(King's Study)"
+  HyruleCentralPlace:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 中央广场遗迹(Central Square)
+  HyruleDepthHatago:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 平原外围的驿站(Outskirt Stable)
+  HyruleGarrison:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 海拉鲁驻军地遗迹(Hyrule Garrison Ruins)
+  HyruleGround:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 海拉鲁大地(Hyrule Kingdom)
+  HyruleLabo:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 王室古代研究所遗迹(Royal Ancient Lab Ruins)
+  HyrulePark:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 海拉鲁森林公园遗迹(Hyrule Forest Park)
+  HyrulePlace:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 海拉鲁军事演习场遗迹(Military Training Camp)
+  HyruleTemple:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 海拉鲁大圣堂遗迹(Hyrule Cathedral)
+  HyruleTower:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 城邑监视塔遗迹(Castle Town Watchtower)
+  HyruleWater:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 蓄水池遗迹(Water Reservoir)
+  HyruleWestHatago:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 玛丽塔驿站(Serenne Stable)
+  IceHouse:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 北部冰屋(Northern Icehouse)
+  JogoBridge:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 莱波纳桥(Rebonae Bridge)
+  JokuBridge:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 莫约里桥(Proxim Bridge)
+  Kakariko:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 卡卡利科村(Kakariko Village)
+  KaturaCastle:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 贤者之神殿遗迹(Sage Temple Ruins)
+  KingValley:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 忘却神殿(Forgotten Temple)
+  KingfisherSpa:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "泽卡瓦米的秘泉(Sherfin's Secret Hot Spring)"
+  KochuBridge:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 卡卡利科桥(Kakariko Bridge)
+  KumSpa:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 库姆的秘泉(Sturnida Secret Hot Spring)
+  KunaiBridge:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 亚阔湖(Aquame Bridge)
+  LakeFloria:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 花柔莉亚湖(Lake Floria)
+  LakeHylia:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 海利亚湖(Lake Hylia)
+  LanayruEastEntrance:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 拉聂尔神道东口(Lanayru Road - East Gate)
+  LanayruWestEntrance:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 拉聂尔神道西口(Lanayru Road - West Gate)
+  LeMarbeBridge:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 杰德桥(Jeddo Bridge)
+  LightningPlateau:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 雷之台地(Thundra Plateau)
+  LittleBrotherBridge:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 双子弟弟桥(Little Twin Bridge)
+  LomeiIslands:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 洛美岛(Lomei Labyrinth Island)
+  LostForest:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 迷失的森林(Lost Woods)
+  MaronSpring:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 马泷之泉(Malanya Spring)
+  MarritaExchange:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 玛丽塔交易所遗迹(Maritta Exchange Ruins)
+  MasazuBridge:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 欧荷利桥(Moat Bridge)
+  MinakkareBridge:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 南阿卡莱桥(Sokkala Bridge)
+  MinakkareBridgeEast:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 东南阿卡莱桥(East Sokkala Bridge)
+  MinakkareBridgeWest:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 西南阿卡莱桥(West Sokkala Bridge)
+  Mine:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 废弃的北部矿坑(Abandoned North Mine)
+  NantanCastle:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 南洛美城堡遗迹(South Lomei Labyrinth)
+  NishojiBridge:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 古利奥桥(Gleeok Bridge)
+  NorthHatelHatago:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 湿地驿站(Wetland Stable)
+  Oasis:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 卡拉卡拉集市(Kara Kara Bazaar)
+  OrdinBridge:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 奥尔汀桥(Bridge of Eldin)
+  OrdinFossil:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 奥尔汀大化石(Eldin Great Skeleton)
+  OsanjoBridge:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 芬萨桥(Helmhead Bridge)
+  PostTownRuin:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 海拉鲁驿站村废墟(Outpost Ruins)
+  PowerFountain:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 力量之泉(Spring of Power)
+  RemainsElectric:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 神兽瓦·娜波力斯(Divine Beast Vah Naboris)
+  RemainsFire:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 神兽瓦·鲁达尼亚(Divine Beast Vah Rudania)
+  RemainsWater:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 神兽瓦·露塔(Divine Beast Vah Ruta)
+  RemainsWind:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 神兽瓦·梅德(Divine Beast Vah Medoh)
+  RirikendoBridge:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 欧兰桥(Oren Bridge)
+  Rito:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 利特村(ito Village)
+  RitoHatago:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 利特驿站(Rito Stable)
+  RiverSideHatago:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 河畔驿站(Riverside Stable)
+  RonronCity:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 麦贝镇遗迹(Mabe Village Ruins)
+  SaihokuCastle:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 北洛美城堡遗迹(North Lomei Labyrinth)
+  SarjonBridge:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 撒戎桥(Sarjon Bridge)
+  ShichijoBridge:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 荷奈尔桥(Horwell Bridge)
+  ShigonDam:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 拉聂尔神道中央广场(Lanayru Promenade)
+  ShijoBridge:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 马兹拉桥(Orsedd Bridge)
+  ShinyarkiVillage:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 劳鲁村落遗迹(Rauru Settlement Ruins)
+  SnowStatue:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 第八位英雄的雕像(Statue of the Eighth Heroine)
+  SojijiPark:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 撒丁公园遗迹(Sanidin Park Ruins)
+  SotonkaBridge:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 泰斯塔桥(Manhala Bridge)
+  SouthGerudoLegacy:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "刑场遗迹(Arbiter's Grounds)"
+  SouthMine:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 南部采矿场(Southern Mine)
+  StartPoint:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 复苏神庙(Shrine of Resurrection)
+  StonePillers:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 古代石柱群(ncient Columns)
+  SusukadiBridge:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 达尔布尔桥(Inogo Bridge)
+  TabantaBridge:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 塔邦挞大桥(Tabantha Great Bridge)
+  TabantaBridgeHatago:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 塔邦挞大桥驿站(Tabantha Bridge Stable)
+  TabantaCrater:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 吉萨的环形山(isa Crater)
+  TabantaHatago:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 雪原驿站(Snowfield Stable)
+  TabantaVillage:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 塔邦挞村遗迹(Tabantha Village Ruins)
+  TamourHatago:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 东阿卡莱驿站(East Akkala Stable)
+  TaserakaBridge:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 密斯密桥(Thims Bridge)
+  Taura:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 沃托里村(Lurelin Village)
+  TimesShrine:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 时光之神殿遗迹(Temple of Time)
+  ToriaBridge:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 波奇桥(Boneyard Bridge)
+  TotsugeBridge:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 卡洛克桥(Carok Bridge)
+  TurasuBridge:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 马神桥(Horse God Bridge)
+  UMiiVillage:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 一始村(Tarrey Town)
+  ValleyVillage:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 飞行训练场(Flight Range)
+  WeaponCureSpring:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 大精灵之泉(Great Fairy Fountain)
+  WetGarrison:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 湿地的驻军地遗迹(Moor Garrison Ruins)
+  WhiteZora:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "卓拉领地(Zora's Domain)"
+  XekuBridge:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 德谷多吊桥(Digdogg Suspension Bridge)
+  YashinoLegacy:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 雅西诺遗迹(Palmorae Ruins)
+  ZonauLegacy:
+    contents:
+      - text: "发现 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 左纳乌遗迹群(Zonai Ruins)
+

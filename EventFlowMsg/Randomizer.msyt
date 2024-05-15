@@ -1,0 +1,541 @@
+---
+group_count: 55
+atr1_unknown: 0
+entries:
+  "0003":
+    attributes: ""
+    contents:
+      - text: "是的，改变。"
+  "0004":
+    attributes: ""
+    contents:
+      - text: "不，不要改变。"
+  "0005":
+    attributes: ""
+    contents:
+      - control:
+          kind: set_colour
+          colour: light_green1
+      - text: 简单模式
+  "0006":
+    attributes: ""
+    contents:
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 高级模式
+  "0007":
+    attributes: ""
+    contents:
+      - text: x2.0速度
+  "0008":
+    attributes: ""
+    contents:
+      - text: x1.0速度
+  "0009":
+    attributes: ""
+    contents:
+      - text: x0.5速度
+  "0010":
+    attributes: ""
+    contents:
+      - text: 返回
+  AskChangeCycleSpeed:
+    attributes: NPC_DRCVoice
+    contents:
+      - control:
+          kind: animation
+          name: Activate
+      - text: "你想要"
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "更改随机mod的循环速度\n"
+      - control:
+          kind: reset_colour
+      - text: "吗？"
+      - control:
+          kind: choice
+          choice_labels:
+            - 3
+            - 4
+          selected_index: 0
+          cancel_index: 1
+          unknown: 6
+  BGM_OFF:
+    attributes: EventSystemActor
+    contents:
+      - text: "动态背景音乐\n现已禁用"
+  BGM_ON:
+    attributes: EventSystemActor
+    contents:
+      - text: "动态背景音乐\n现已启用"
+  BGM_ON_NEW:
+    attributes: EventSystemActor
+    contents:
+      - text: "正在播放\n新的背景音乐"
+  CurrentCycleSpeed:
+    attributes: NPC_DRCVoice
+    contents:
+      - control:
+          kind: animation
+          name: Activate
+      - text: "帧延迟已经被设置为"
+      - control:
+          kind: set_colour
+          colour: light_green1
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_Cycle_AmountFromShopForSpeed
+      - control:
+          kind: reset_colour
+      - text: "帧"
+  CycleSpeed:
+    attributes: NPC_DRCVoice
+    contents:
+      - control:
+          kind: animation
+          name: Activate
+      - text: 请选择一个帧延迟。
+  CycleSpeedReference:
+    attributes: NPC_DRCVoice
+    contents:
+      - control:
+          kind: animation
+          name: Activate
+      - text: "请设置一个"
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 帧延迟
+      - control:
+          kind: reset_colour
+      - text: "来更改随机mod的循环"
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 速度
+      - control:
+          kind: reset_colour
+      - text: "\n\n"
+      - control:
+          kind: animation
+          name: Activate
+      - text: "例子：\n\n\n"
+      - control:
+          kind: animation
+          name: Activate
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x0.5速度
+      - control:
+          kind: reset_colour
+      - text: "=60帧\n"
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x1.0速度
+      - control:
+          kind: reset_colour
+      - text: "=30帧（标准）\n"
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x2.0速度
+      - control:
+          kind: reset_colour
+      - text: "=15帧\n"
+      - control:
+          kind: animation
+          name: Activate
+      - text: "小贴士："
+      - control:
+          kind: pause
+          length: long
+      - text: "如果你想要设置"
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 0帧延迟
+      - control:
+          kind: reset_colour
+      - text: "以设置"
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 最快速度
+      - control:
+          kind: reset_colour
+      - text: "，"
+      - control:
+          kind: pause
+          length: short
+      - text: "只需要什么都不买\n然后退出界面。"
+  Debug_Choose_1:
+    attributes: EventSystemActor
+    contents:
+      - text: 1 - 伤害治疗
+  Debug_Choose_10:
+    attributes: EventSystemActor
+    contents:
+      - text: 10 - BGM
+  Debug_Choose_1_1:
+    attributes: EventSystemActor
+    contents:
+      - text: 1.1 - 最大心心耐力
+  Debug_Choose_2:
+    attributes: EventSystemActor
+    contents:
+      - text: 2 - 获得物品
+  Debug_Choose_3:
+    attributes: EventSystemActor
+    contents:
+      - text: 3 - 钱
+  Debug_Choose_4:
+    attributes: EventSystemActor
+    contents:
+      - text: 4 - 色调
+  Debug_Choose_5:
+    attributes: EventSystemActor
+    contents:
+      - text: 5 - 禁令
+  Debug_Choose_6:
+    attributes: EventSystemActor
+    contents:
+      - text: 6 - 怪物生成
+  Debug_Choose_7:
+    attributes: EventSystemActor
+    contents:
+      - text: 7 - 拿走物品
+  Debug_Choose_8:
+    attributes: EventSystemActor
+    contents:
+      - text: 8 - 时间
+  Debug_Choose_9:
+    attributes: EventSystemActor
+    contents:
+      - text: 9 - 传送
+  Debug_Choose_Special:
+    attributes: EventSystemActor
+    contents:
+      - text: 11 - 特殊
+  Debug_Cycle_Count:
+    attributes: EventSystemActor
+    contents:
+      - text: "随机数量"
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_Cycle_Count
+  Debug_Cycle_Total_Count:
+    attributes: EventSystemActor
+    contents:
+      - text: "随机数量"
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_Cycle_Count_Triggered_Total
+  FD_EasyMenu:
+    attributes: NPC_DRCVoice
+    contents:
+      - control:
+          kind: animation
+          name: Activate
+      - text: "设置关于"
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 随机mod循环
+      - control:
+          kind: reset_colour
+      - text: "的"
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 速度
+      - control:
+          kind: reset_colour
+      - text: "。"
+      - control:
+          kind: choice
+          choice_labels:
+            - 7
+            - 8
+            - 9
+            - 10
+          selected_index: 1
+          cancel_index: 3
+          unknown: 8
+  FD_SubMenu:
+    attributes: NPC_DRCVoice
+    contents:
+      - control:
+          kind: animation
+          name: Activate
+      - control:
+          kind: set_colour
+          colour: light_green1
+      - text: 简单
+      - control:
+          kind: reset_colour
+      - text: "或"
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 高级
+      - control:
+          kind: reset_colour
+      - text: "模式？"
+      - control:
+          kind: choice
+          choice_labels:
+            - 5
+            - 6
+            - 10
+          selected_index: 0
+          cancel_index: 2
+          unknown: 6
+  GoalNameString:
+    attributes: EventSystemActor
+    contents:
+      - control:
+          kind: variable
+          variable_kind: 1
+          name: Randomizer_GoalName_NotReady
+  HowManyGoals:
+    attributes: NPC_DRCVoice
+    contents:
+      - control:
+          kind: animation
+          name: Activate
+      - text: "今天会有多少目标？\n你可以选择"
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 至多100个
+      - control:
+          kind: reset_colour
+      - text: "。"
+  Online:
+    attributes: NPC_DRCVoice
+    contents:
+      - control:
+          kind: auto_advance
+          frames: 90
+      - control:
+          kind: animation
+          name: Activate
+      - text: "正在加载无限排列……\n\n\n"
+      - control:
+          kind: auto_advance
+          frames: 30
+      - control:
+          kind: animation
+          name: Activate
+      - text: "完成。\n\n\n"
+      - control:
+          kind: auto_advance
+          frames: 90
+      - control:
+          kind: animation
+          name: Activate
+      - text: "正在加载无限组合……\n\n\n"
+      - control:
+          kind: auto_advance
+          frames: 30
+      - control:
+          kind: animation
+          name: Activate
+      - text: "完成。\n\n\n"
+      - control:
+          kind: auto_advance
+          frames: 60
+      - control:
+          kind: animation
+          name: Activate
+      - text: "随机mod已启动\n\n\n"
+      - control:
+          kind: auto_advance
+          frames: 75
+      - control:
+          kind: animation
+          name: Activate
+      - text: "让我们开始派对吧。"
+      - control:
+          kind: auto_advance
+          frames: 60
+  RickRoll_1:
+    attributes: NPC_DRCVoice
+    contents:
+      - control:
+          kind: animation
+          name: Activate
+      - text: 检测到致命错误……
+      - control:
+          kind: auto_advance
+          frames: 10
+  RickRoll_10:
+    attributes: EventSystemActor
+    contents:
+      - text: "瑞克摇成功。\n继续随机mod……"
+  RickRoll_2:
+    attributes: NPC_DRCVoice
+    contents:
+      - control:
+          kind: animation
+          name: Activate
+      - text: 检测到不可纠正的错误……
+      - control:
+          kind: auto_advance
+          frames: 15
+  RickRoll_3:
+    attributes: NPC_DRCVoice
+    contents:
+      - control:
+          kind: animation
+          name: Activate
+      - text: 检测到系统错误……
+      - control:
+          kind: auto_advance
+          frames: 5
+  RickRoll_4:
+    attributes: NPC_DRCVoice
+    contents:
+      - control:
+          kind: animation
+          name: Activate
+      - text: 已启动自动修复。
+      - control:
+          kind: auto_advance
+          frames: 60
+  RickRoll_5:
+    attributes: NPC_DRCVoice
+    contents:
+      - control:
+          kind: animation
+          name: Activate
+      - text: 正在尝试清除系统驱动器...
+      - control:
+          kind: auto_advance
+          frames: 120
+  RickRoll_6:
+    attributes: NPC_DRCVoice
+    contents:
+      - control:
+          kind: animation
+          name: Activate
+      - text: 失败。
+      - control:
+          kind: auto_advance
+          frames: 30
+  RickRoll_7:
+    attributes: NPC_DRCVoice
+    contents:
+      - control:
+          kind: animation
+          name: Activate
+      - text: 找到未损坏的文件。
+      - control:
+          kind: auto_advance
+          frames: 65
+  RickRoll_8:
+    attributes: NPC_DRCVoice
+    contents:
+      - control:
+          kind: animation
+          name: Activate
+      - text: 加载中……
+      - control:
+          kind: auto_advance
+          frames: 150
+  RickRoll_9:
+    attributes: NPC_DRCVoice
+    contents:
+      - control:
+          kind: animation
+          name: Activate
+      - text: 成功……
+      - control:
+          kind: auto_advance
+          frames: 20
+  StringTest:
+    attributes: EventSystemActor
+    contents:
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RandomValue_Cmn
+  Unlock_Randomizer:
+    attributes: EventSystemActor
+    contents:
+      - text: 随机mod现在已经开始运行
+  Unlock_Randomizer_Time:
+    attributes: EventSystemActor
+    contents:
+      - control:
+          kind: animation
+          name: Activate
+      - text: "干得漂亮！"
+      - control:
+          kind: pause
+          frames: 25
+      - text: "随机mod现在能\n"
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 更改世界时间
+      - control:
+          kind: reset_colour
+      - text: "。"
+  Unlock_Randomizer_Warp:
+    attributes: EventSystemActor
+    contents:
+      - control:
+          kind: animation
+          name: Activate
+      - text: "干得漂亮！"
+      - control:
+          kind: pause
+          frames: 25
+      - text: "随机mod现在能\n"
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 让你随处传送
+      - control:
+          kind: reset_colour
+      - text: "。"
+  WaikuCredits:
+    attributes: EventSystemActor
+    contents:
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: "随机mod由Waikuteru制作\n\n\nyoutube.com/waikuteru\npatreon.com/waikuteru\ndiscord.gg/ZU5cPYbYWZ"
+  Warp_Count_1:
+    attributes: EventSystemActor
+    contents:
+      - text: "1"
+  Warp_Count_2:
+    attributes: EventSystemActor
+    contents:
+      - text: "2"
+  Warp_Count_3:
+    attributes: EventSystemActor
+    contents:
+      - text: "3"
+  Warp_Count_4:
+    attributes: EventSystemActor
+    contents:
+      - text: "4"
+  Warp_Count_5:
+    attributes: EventSystemActor
+    contents:
+      - text: "5"
+  Warp_Start:
+    attributes: EventSystemActor
+    contents:
+      - text: 10秒后传送...
+

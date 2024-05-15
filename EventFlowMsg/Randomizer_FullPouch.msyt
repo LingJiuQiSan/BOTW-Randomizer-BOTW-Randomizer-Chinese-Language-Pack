@@ -1,0 +1,123 @@
+---
+group_count: 7
+atr1_unknown: 0
+entries:
+  "0000":
+    attributes: ""
+    contents:
+      - text: 腾出空间
+  "0001":
+    attributes: ""
+    contents:
+      - text: "不，给我材料。"
+  Armor:
+    attributes: NPC_DRCVoice
+    contents:
+      - control:
+          kind: animation
+          name: Activate
+      - text: "我正在尝试给你"
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 盔甲
+      - control:
+          kind: reset_colour
+      - text: "，\n但是你的背包已经满了，是否要腾出空间？"
+      - control:
+          kind: choice
+          choice_labels:
+            - 0
+            - 1
+          selected_index: 0
+          cancel_index: 1
+          unknown: 6
+  Bow:
+    attributes: NPC_DRCVoice
+    contents:
+      - control:
+          kind: animation
+          name: Activate
+      - text: "我正在尝试给你"
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 一把弓
+      - control:
+          kind: reset_colour
+      - text: "，\n但是你的背包已经满了，是否要腾出空间？"
+      - control:
+          kind: choice
+          choice_labels:
+            - 0
+            - 1
+          selected_index: 0
+          cancel_index: 1
+          unknown: 6
+  Dish:
+    attributes: NPC_DRCVoice
+    contents:
+      - control:
+          kind: animation
+          name: Activate
+      - text: "我正在尝试给你"
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 一份菜肴
+      - control:
+          kind: reset_colour
+      - text: "，\n但是你的背包已经满了，是否要腾出空间？"
+      - control:
+          kind: choice
+          choice_labels:
+            - 0
+            - 1
+          selected_index: 0
+          cancel_index: 1
+          unknown: 6
+  Shield:
+    attributes: NPC_DRCVoice
+    contents:
+      - control:
+          kind: animation
+          name: Activate
+      - text: "我正在尝试给你"
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 一个盾
+      - control:
+          kind: reset_colour
+      - text: "，\n但是你的背包已经满了，是否要腾出空间？"
+      - control:
+          kind: choice
+          choice_labels:
+            - 0
+            - 1
+          selected_index: 0
+          cancel_index: 1
+          unknown: 6
+  Weapon:
+    attributes: NPC_DRCVoice
+    contents:
+      - control:
+          kind: animation
+          name: Activate
+      - text: "我正在尝试给你"
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 一把武器
+      - control:
+          kind: reset_colour
+      - text: "，\n但是你的背包已经满了，是否要腾出空间？"
+      - control:
+          kind: choice
+          choice_labels:
+            - 0
+            - 1
+          selected_index: 0
+          cancel_index: 1
+          unknown: 6
+

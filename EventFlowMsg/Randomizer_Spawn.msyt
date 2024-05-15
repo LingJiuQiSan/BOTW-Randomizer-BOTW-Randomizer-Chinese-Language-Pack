@@ -1,0 +1,211 @@
+---
+group_count: 35
+atr1_unknown: 0
+entries:
+  ALL_ON:
+    attributes: EventSystemActor
+    contents:
+      - text: "所有怪物现在能随处生成"
+  ALL_ON_0_1:
+    attributes: NPC_DRCVoice
+    contents:
+      - control:
+          kind: animation
+          name: Activate
+      - text: "小心！"
+      - control:
+          kind: pause
+          frames: 30
+      - control:
+          kind: animation
+          name: Activate
+      - text: 他要我去--
+  ALL_ON_0_2:
+    attributes: NPC_PublicVoice_Waikuteru
+    contents:
+      - text: 闭嘴！
+  ALL_ON_1:
+    attributes: NPC_DRCVoice
+    contents:
+      - control:
+          kind: animation
+          name: Activate
+      - text: 不！
+      - control:
+          kind: pause
+          frames: 30
+      - control:
+          kind: animation
+          name: Activate
+      - text: " 不要让我做那个！"
+  ALL_ON_2:
+    attributes: NPC_PublicVoice_Waikuteru
+    contents:
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "现在就去做！"
+      - control:
+          kind: pause
+          frames: 30
+      - text: "服从我！"
+      - control:
+          kind: pause
+          frames: 30
+      - text: 你是我的作品！
+  ALL_ON_3:
+    attributes: NPC_DRCVoice
+    contents:
+      - control:
+          kind: animation
+          name: Activate
+      - text: "但是……"
+      - control:
+          kind: animation
+          name: Activate
+      - text: "这些"
+      - control:
+          kind: set_colour
+          colour: red
+      - text: boss
+      - control:
+          kind: reset_colour
+      - text: "也一样吗？！"
+  ALL_ON_3_1:
+    attributes: NPC_PublicVoice_Waikuteru
+    contents:
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "当然！"
+      - control:
+          kind: pause
+          frames: 30
+      - text: 终于做了！
+  ALL_ON_3_2:
+    attributes: NPC_DRCVoice
+    contents:
+      - control:
+          kind: animation
+          name: Activate
+      - text: "……"
+      - control:
+          kind: animation
+          name: Activate
+      - text: "我别无选择。"
+      - control:
+          kind: pause
+          frames: 45
+      - control:
+          kind: animation
+          name: Activate
+      - text: 请忘掉我
+  ALL_ON_4:
+    attributes: EventSystemActor
+    contents:
+      - text: "所有怪物现在能随处生成"
+  Enemy_Bokoblin_OFF:
+    attributes: EventSystemActor
+    contents:
+      - text: "波克布林不再能随处生成"
+  Enemy_Bokoblin_ON:
+    attributes: EventSystemActor
+    contents:
+      - text: "波克布林现在能随处生成"
+  Enemy_Chuchu_OFF:
+    attributes: EventSystemActor
+    contents:
+      - text: "丘丘不再能随处生成"
+  Enemy_Chuchu_ON:
+    attributes: EventSystemActor
+    contents:
+      - text: "丘丘现在能随处生成"
+  Enemy_Giant_OFF:
+    attributes: EventSystemActor
+    contents:
+      - text: "西诺克斯不再能随处生成"
+  Enemy_Giant_ON:
+    attributes: EventSystemActor
+    contents:
+      - text: "西诺克斯现在能随处生成"
+  Enemy_Golem_OFF:
+    attributes: EventSystemActor
+    contents:
+      - text: "岩石巨人不再能随处生成"
+  Enemy_Golem_ON:
+    attributes: EventSystemActor
+    contents:
+      - text: "岩石巨人现在能随处生成"
+  Enemy_Guardian_Mini_OFF:
+    attributes: EventSystemActor
+    contents:
+      - text: "小型守护者不再能随处生成"
+  Enemy_Guardian_Mini_ON:
+    attributes: EventSystemActor
+    contents:
+      - text: "小型守护者现在能随处生成"
+  Enemy_Guardian_OFF:
+    attributes: EventSystemActor
+    contents:
+      - text: "守护者不再能随处生成"
+  Enemy_Guardian_ON:
+    attributes: EventSystemActor
+    contents:
+      - text: "守护者现在能随处生成"
+  Enemy_Keese_OFF:
+    attributes: EventSystemActor
+    contents:
+      - text: "蝙蝠不再能随处生成"
+  Enemy_Keese_ON:
+    attributes: EventSystemActor
+    contents:
+      - text: "蝙蝠现在能随处生成"
+  Enemy_Lizalfos_OFF:
+    attributes: EventSystemActor
+    contents:
+      - text: "蜥蜴战士不再能随处生成"
+  Enemy_Lizalfos_ON:
+    attributes: EventSystemActor
+    contents:
+      - text: "蜥蜴战士现在能随处生成"
+  Enemy_Lynel_OFF:
+    attributes: EventSystemActor
+    contents:
+      - text: "莱尼尔不再能随处生成"
+  Enemy_Lynel_ON:
+    attributes: EventSystemActor
+    contents:
+      - text: "莱尼尔现在能随处生成"
+  Enemy_Moriblin_OFF:
+    attributes: EventSystemActor
+    contents:
+      - text: "莫力布林不再能随处生成"
+  Enemy_Moriblin_ON:
+    attributes: EventSystemActor
+    contents:
+      - text: "莫力布林现在能随处生成"
+  Enemy_Octarock_OFF:
+    attributes: EventSystemActor
+    contents:
+      - text: "八爪怪不再能随处生成"
+  Enemy_Octarock_ON:
+    attributes: EventSystemActor
+    contents:
+      - text: "八爪怪现在能随处生成"
+  Enemy_Sandworm_OFF:
+    attributes: EventSystemActor
+    contents:
+      - text: "莫尔德拉吉克不再能随处生成"
+  Enemy_Sandworm_ON:
+    attributes: EventSystemActor
+    contents:
+      - text: "莫尔德拉吉克现在能随处生成"
+  Enemy_Wizzrobe_OFF:
+    attributes: EventSystemActor
+    contents:
+      - text: "魔法师不再能随处生成"
+  Enemy_Wizzrobe_ON:
+    attributes: EventSystemActor
+    contents:
+      - text: "魔法师现在能随处生成"
+

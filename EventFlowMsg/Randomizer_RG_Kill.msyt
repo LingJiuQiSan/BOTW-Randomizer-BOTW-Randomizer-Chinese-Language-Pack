@@ -1,0 +1,881 @@
+---
+group_count: 73
+atr1_unknown: 0
+entries:
+  Enemy_AirOctarock:
+    contents:
+      - text: "击杀 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Kill_Enemy_AirOctarock
+      - text: " 天空八爪怪(Sky Octorok)"
+  Enemy_Assassin_Junior:
+    contents:
+      - text: "击杀 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Kill_Enemy_Assassin_Junior
+      - text: " 伊盖队 成员(Yiga Footsoldier)"
+  Enemy_Assassin_Middle:
+    contents:
+      - text: "击杀 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Kill_Enemy_Assassin_Middle
+      - text: " 伊盖队 干部(Yiga Blademaster)"
+  Enemy_Bokoblin_Bone_Junior:
+    contents:
+      - text: "击杀 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Kill_Enemy_Bokoblin_Bone_Junior
+      - text: " 骷髅波克布林(Stalkoblin)"
+  Enemy_Bokoblin_Dark:
+    contents:
+      - text: "击杀 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Kill_Enemy_Bokoblin_Dark
+      - text: " 白银波克布林(Silver Bokoblin)"
+  Enemy_Bokoblin_Gold:
+    contents:
+      - text: "击杀 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Kill_Enemy_Bokoblin_Gold
+      - text: " 黄金波克布林(Golden Bokoblin)"
+  Enemy_Bokoblin_Junior:
+    contents:
+      - text: "击杀 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Kill_Enemy_Bokoblin_Junior
+      - text: " 波克布林(Bokoblin)"
+  Enemy_Bokoblin_Middle:
+    contents:
+      - text: "击杀 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Kill_Enemy_Bokoblin_Middle
+      - text: " 蓝色波克布林(Blue Bokoblin)"
+  Enemy_Bokoblin_Senior:
+    contents:
+      - text: "击杀 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Kill_Enemy_Bokoblin_Senior
+      - text: " 黑色波克布林(Black Bokoblin)"
+  Enemy_Chuchu_Electric_Junior:
+    contents:
+      - text: "击杀 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Kill_Enemy_Chuchu_Electric_Junior
+      - text: " 电丘丘(Electric Chuchu)"
+  Enemy_Chuchu_Fire_Junior:
+    contents:
+      - text: "击杀 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Kill_Enemy_Chuchu_Fire_Junior
+      - text: " 火丘丘(Fire Chuchu)"
+  Enemy_Chuchu_Ice_Junior:
+    contents:
+      - text: "击杀 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Kill_Enemy_Chuchu_Ice_Junior
+      - text: " 冰丘丘(Ice Chuchu)"
+  Enemy_Chuchu_Junior:
+    contents:
+      - text: "击杀 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Kill_Enemy_Chuchu_Junior
+      - text: " 丘丘(Chuchu)"
+  Enemy_GanonGrudge:
+    contents:
+      - text: "击杀 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Kill_Enemy_GanonGrudge
+      - text: " 厄咒波克布林(Cursed Bokoblin)"
+  Enemy_GanonGrudge_01:
+    contents:
+      - text: "击杀 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Kill_Enemy_GanonGrudge_01
+      - text: " 厄咒莫力布林(Cursed Moblin)"
+  Enemy_GanonGrudge_02:
+    contents:
+      - text: "击杀 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Kill_Enemy_GanonGrudge_02
+      - text: " 厄咒蜥蜴战士(Cursed Lizalfos)"
+  Enemy_Giant_Bone:
+    contents:
+      - text: "击杀 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Kill_Enemy_Giant_Bone
+      - text: " 骷髅西诺克斯(Stalnox)"
+  Enemy_Giant_Junior:
+    contents:
+      - text: "击杀 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Kill_Enemy_Giant_Junior
+      - text: " 西诺克斯(Hinox)"
+  Enemy_Giant_Middle:
+    contents:
+      - text: "击杀 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Kill_Enemy_Giant_Middle
+      - text: " 蓝色西诺克斯(Blue Hinox)"
+  Enemy_Giant_Senior:
+    contents:
+      - text: "击杀 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Kill_Enemy_Giant_Senior
+      - text: " 黑色西诺克斯(Black Hinox)"
+  Enemy_Golem_Fire:
+    contents:
+      - text: "击杀 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Kill_Enemy_Golem_Fire
+      - text: " 熔岩巨人(Igneo Talus)"
+  Enemy_Golem_Ice:
+    contents:
+      - text: "击杀 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Kill_Enemy_Golem_Ice
+      - text: " 冰岩巨人(Frost Talus)"
+  Enemy_Golem_Junior:
+    contents:
+      - text: "击杀 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Kill_Enemy_Golem_Junior
+      - text: " 岩石巨人(Stone Talus)"
+  Enemy_Golem_Little:
+    contents:
+      - text: "击杀 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Kill_Enemy_Golem_Little
+      - text: " 岩石人(Stone Pebblit)"
+  Enemy_Golem_Little_Fire:
+    contents:
+      - text: "击杀 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Kill_Enemy_Golem_Little_Fire
+      - text: " 熔岩人(Igneo Pebblit)"
+  Enemy_Golem_Little_Ice:
+    contents:
+      - text: "击杀 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Kill_Enemy_Golem_Little_Ice
+      - text: " 冰岩人(Frost Pebblit)"
+  Enemy_Golem_Middle:
+    contents:
+      - text: "击杀 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Kill_Enemy_Golem_Middle
+      - text: " 岩石巨人（夜光）(Stone Talus (Luminous))"
+  Enemy_Golem_Senior:
+    contents:
+      - text: "击杀 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Kill_Enemy_Golem_Senior
+      - text: " 岩石巨人（稀有）(Stone Talus (Rare))"
+  Enemy_Guardian_A:
+    contents:
+      - text: "击杀 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Kill_Enemy_Guardian_A
+      - text: " 守护者（步行型）(Guardian Stalker)"
+  Enemy_Guardian_A_Fixed_Moss:
+    contents:
+      - text: "击杀 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Kill_Enemy_Guardian_A_Fixed_Moss
+      - text: " 腐蚀守护者(Decayed Guardian)"
+  Enemy_Guardian_B:
+    contents:
+      - text: "击杀 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Kill_Enemy_Guardian_B
+      - text: " 守护者（炮台型）(Guardian Turret)"
+  Enemy_Guardian_C:
+    contents:
+      - text: "击杀 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Kill_Enemy_Guardian_C
+      - text: " 守护者（飞行型）(Guardian Skywatcher)"
+  Enemy_Guardian_Mini_Baby:
+    contents:
+      - text: "击杀 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Kill_Enemy_Guardian_Mini_Baby
+      - text: " 小型守护者(Guardian Scout I)"
+  Enemy_Guardian_Mini_Junior:
+    contents:
+      - text: "击杀 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Kill_Enemy_Guardian_Mini_Junior
+      - text: " 小型守护者（初阶）(Guardian Scout II)"
+  Enemy_Guardian_Mini_Middle:
+    contents:
+      - text: "击杀 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Kill_Enemy_Guardian_Mini_Middle
+      - text: " 小型守护者（高阶）(Guardian Scout III)"
+  Enemy_Guardian_Mini_Senior:
+    contents:
+      - text: "击杀 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Kill_Enemy_Guardian_Mini_Senior
+      - text: " 小型守护者（终阶）(Guardian Scout IV)"
+  Enemy_Keese:
+    contents:
+      - text: "击杀 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Kill_Enemy_Keese
+      - text: " 蝙蝠(Keese)"
+  Enemy_Keese_Electric:
+    contents:
+      - text: "击杀 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Kill_Enemy_Keese_Electric
+      - text: " 电蝙蝠(Electric Keese)"
+  Enemy_Keese_Fire:
+    contents:
+      - text: "击杀 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Kill_Enemy_Keese_Fire
+      - text: " 火蝙蝠(Fire Keese)"
+  Enemy_Keese_Ice:
+    contents:
+      - text: "击杀 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Kill_Enemy_Keese_Ice
+      - text: " 冰蝙蝠(Ice Keese)"
+  Enemy_Lizalfos_Bone_Junior:
+    contents:
+      - text: "击杀 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Kill_Enemy_Lizalfos_Bone_Junior
+      - text: " 骷髅蜥蜴战士(Stalizalfos)"
+  Enemy_Lizalfos_Dark:
+    contents:
+      - text: "击杀 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Kill_Enemy_Lizalfos_Dark
+      - text: " 白银蜥蜴战士(Silver Lizalfos)"
+  Enemy_Lizalfos_Electric:
+    contents:
+      - text: "击杀 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Kill_Enemy_Lizalfos_Electric
+      - text: " 电麻蜥蜴战士(Electric Lizalfos)"
+  Enemy_Lizalfos_Fire:
+    contents:
+      - text: "击杀 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Kill_Enemy_Lizalfos_Fire
+      - text: " 喷火蜥蜴战士(Fire-Breath Lizalfos)"
+  Enemy_Lizalfos_Gold:
+    contents:
+      - text: "击杀 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Kill_Enemy_Lizalfos_Gold
+      - text: " 黄金蜥蜴战士(Golden Lizalfos)"
+  Enemy_Lizalfos_Ice:
+    contents:
+      - text: "击杀 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Kill_Enemy_Lizalfos_Ice
+      - text: " 吐雹蜥蜴战士(Ice-Breath Lizalfos)"
+  Enemy_Lizalfos_Junior:
+    contents:
+      - text: "击杀 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Kill_Enemy_Lizalfos_Junior
+      - text: " 蜥蜴战士(Lizalfos)"
+  Enemy_Lizalfos_Middle:
+    contents:
+      - text: "击杀 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Kill_Enemy_Lizalfos_Middle
+      - text: " 蓝色蜥蜴战士(Blue Lizalfos)"
+  Enemy_Lizalfos_Senior:
+    contents:
+      - text: "击杀 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Kill_Enemy_Lizalfos_Senior
+      - text: " 黑色蜥蜴战士(Black Lizalfos)"
+  Enemy_Lynel_Dark:
+    contents:
+      - text: "击杀 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Kill_Enemy_Lynel_Dark
+      - text: " 白银莱尼尔(Silver Lynel)"
+  Enemy_Lynel_Gold:
+    contents:
+      - text: "击杀 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Kill_Enemy_Lynel_Gold
+      - text: " 黄金莱尼尔(Golden Lynel)"
+  Enemy_Lynel_Junior:
+    contents:
+      - text: "击杀 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Kill_Enemy_Lynel_Junior
+      - text: " 莱尼尔(Lynel)"
+  Enemy_Lynel_Middle:
+    contents:
+      - text: "击杀 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Kill_Enemy_Lynel_Middle
+      - text: " 蓝鬃莱尼尔(Blue-Maned Lynel)"
+  Enemy_Lynel_Senior:
+    contents:
+      - text: "击杀 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Kill_Enemy_Lynel_Senior
+      - text: " 白鬃莱尼尔(White-Maned Lynel)"
+  Enemy_Moriblin_Bone_Junior:
+    contents:
+      - text: "击杀 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Kill_Enemy_Moriblin_Bone_Junior
+      - text: " 骷髅莫力布林(Stalmoblin)"
+  Enemy_Moriblin_Dark:
+    contents:
+      - text: "击杀 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Kill_Enemy_Moriblin_Dark
+      - text: " 白银莫力布林(Silver Moblin)"
+  Enemy_Moriblin_Gold:
+    contents:
+      - text: "击杀 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Kill_Enemy_Moriblin_Gold
+      - text: " 黄金莫力布林(Golden Moblin)"
+  Enemy_Moriblin_Junior:
+    contents:
+      - text: "击杀 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Kill_Enemy_Moriblin_Junior
+      - text: " 莫力布林(Moblin)"
+  Enemy_Moriblin_Middle:
+    contents:
+      - text: "击杀 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Kill_Enemy_Moriblin_Middle
+      - text: " 蓝色莫力布林(Blue Moblin)"
+  Enemy_Moriblin_Senior:
+    contents:
+      - text: "击杀 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Kill_Enemy_Moriblin_Senior
+      - text: " 黑色莫力布林(Black Moblin)"
+  Enemy_Octarock:
+    contents:
+      - text: "击杀 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Kill_Enemy_Octarock
+      - text: " 水八爪怪(Water Octorok)"
+  Enemy_Octarock_Desert:
+    contents:
+      - text: "击杀 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Kill_Enemy_Octarock_Desert
+      - text: " 宝八爪怪(Treasure Octorok)"
+  Enemy_Octarock_Forest:
+    contents:
+      - text: "击杀 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Kill_Enemy_Octarock_Forest
+      - text: " 森八爪怪(Forest Octorok)"
+  Enemy_Octarock_Snow:
+    contents:
+      - text: "击杀 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Kill_Enemy_Octarock_Snow
+      - text: " 雪八爪怪(Snow Octorok)"
+  Enemy_Octarock_Stone:
+    contents:
+      - text: "击杀 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Kill_Enemy_Octarock_Stone
+      - text: " 岩八爪怪(Rock Octorok)"
+  Enemy_Sandworm:
+    contents:
+      - text: "击杀 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Kill_Enemy_Sandworm
+      - text: " 莫尔德拉吉克(Molduga)"
+  Enemy_Wizzrobe_Electric:
+    contents:
+      - text: "击杀 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Kill_Enemy_Wizzrobe_Electric
+      - text: " 电击长袍魔法师(Electric Wizzrobe)"
+  Enemy_Wizzrobe_Electric_Senior:
+    contents:
+      - text: "击杀 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Kill_Enemy_Wizzrobe_Electric_Senior
+      - text: " 雷电长袍魔法师(Thunder Wizzrobe)"
+  Enemy_Wizzrobe_Fire:
+    contents:
+      - text: "击杀 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Kill_Enemy_Wizzrobe_Fire
+      - text: " 火焰长袍魔法师(Fire Wizzrobe)"
+  Enemy_Wizzrobe_Fire_Senior:
+    contents:
+      - text: "击杀 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Kill_Enemy_Wizzrobe_Fire_Senior
+      - text: " 陨石长袍魔法师(Meteo Wizzrobe)"
+  Enemy_Wizzrobe_Ice:
+    contents:
+      - text: "击杀 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Kill_Enemy_Wizzrobe_Ice
+      - text: " 冰雪长袍魔法师(Ice Wizzrobe)"
+  Enemy_Wizzrobe_Ice_Senior:
+    contents:
+      - text: "击杀 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Kill_Enemy_Wizzrobe_Ice_Senior
+      - text: " 冰冻长袍魔法师(Blizzrobe)"
+  RemainsFire_Drone_A_01:
+    contents:
+      - text: "击杀 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Kill_RemainsFire_Drone_A_01
+      - text: " 普尔培拉(Sentry)"
+

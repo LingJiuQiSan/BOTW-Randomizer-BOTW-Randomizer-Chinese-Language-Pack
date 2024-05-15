@@ -1,0 +1,133 @@
+---
+group_count: 13
+atr1_unknown: 0
+entries:
+  "0000":
+    attributes: ""
+    contents:
+      - text: "是的，我要解释"
+  "0001":
+    attributes: ""
+    contents:
+      - text: "不，我不需要解释。"
+  Bombardement:
+    attributes: EventSystemActor
+    contents:
+      - text: 小心！开始轰炸！
+  Event_OFF:
+    attributes: EventSystemActor
+    contents:
+      - text: 特殊事件结束了
+  HowTo:
+    attributes: NPC_DRCVoice
+    contents:
+      - control:
+          kind: animation
+          name: Activate
+      - control:
+          kind: animation
+          name: Activate
+      - text: "特殊事件对象\n"
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 从地上生成或从空中掉落
+      - control:
+          kind: reset_colour
+      - text: "。\n\n"
+      - control:
+          kind: animation
+          name: Activate
+      - text: "为了允许特殊事件对象\n有新的生成点，您必须\n"
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 走遍主世界
+      - control:
+          kind: reset_colour
+      - text: ".\n"
+      - control:
+          kind: animation
+          name: Activate
+      - text: "特殊事件会持续"
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 3分钟
+      - control:
+          kind: reset_colour
+      - text: "。"
+  LootDrops:
+    attributes: EventSystemActor
+    contents:
+      - text: "战利品箱即将到来！\n里面会是什么？"
+  MainField:
+    attributes: NPC_DRCVoice
+    contents:
+      - control:
+          kind: animation
+          name: Activate
+      - text: "请务必在特殊世界结束前访问主世界！"
+  Need_HowTo:
+    attributes: NPC_DRCVoice
+    contents:
+      - control:
+          kind: animation
+          name: Activate
+      - text: 你需要解释吗？
+      - control:
+          kind: choice
+          choice_labels:
+            - 0
+            - 1
+          selected_index: 0
+          cancel_index: 1
+          unknown: 6
+  SkyviewEggs:
+    attributes: EventSystemActor
+    contents:
+      - text: "天际蛋被发现了，赶紧收集起它们吧！"
+  StartNow:
+    attributes: NPC_DRCVoice
+    contents:
+      - control:
+          kind: animation
+          name: Activate
+      - text: "特殊事件将要开始了……\n"
+      - control:
+          kind: pause
+          frames: 45
+      - control:
+          kind: animation
+          name: Activate
+      - text: "会发生什么呢？"
+      - control:
+          kind: pause
+          frames: 30
+      - control:
+          kind: animation
+          name: Activate
+      - text: "让我们来看看吧！\n"
+  Treasure:
+    attributes: EventSystemActor
+    contents:
+      - text: "您将获得宝贵的财富！"
+  Woah_1:
+    attributes: NPC_DRCVoice
+    contents:
+      - control:
+          kind: animation
+          name: Activate
+      - text: "一个"
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 特殊事件
+      - control:
+          kind: reset_colour
+      - text: "被触发。\n"
+  YoshiEggs:
+    attributes: EventSystemActor
+    contents:
+      - text: 耀西蛋正在地上滚来滚去！
+

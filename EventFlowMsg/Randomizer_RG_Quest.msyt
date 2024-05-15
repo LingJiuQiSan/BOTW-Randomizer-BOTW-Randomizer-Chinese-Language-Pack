@@ -1,0 +1,544 @@
+---
+group_count: 77
+atr1_unknown: 0
+entries:
+  Bottle_Mes:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 信息瓶的行踪(Special Delivery)
+  Carnivorous_Boy:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 爱吃肉的男子？！(A Rare Find)
+  CompleteDungeon:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 来自导师的褒奖(A Gift from the Monks)
+  FironeMini_GiantHorse:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 巨大马匹捕捉大作战(Hunt for the Giant Horse)
+  FironeMini_HeartPond:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 潜行草之爱情告白(A Gift of Nightshade)
+  FironeMini_HorseEnemy:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "骑马的鲁莽者(The Horseback Hoodlums)"
+  FironeMini_TerribleThunder:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 害怕打雷(Thunder Magnet)
+  GerudoMiniJewel:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 你喜欢宝石吗？(Tools of the Trade)
+  Gerudo_Ch_FindingValetta:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 寻找芭乐塔(The Search for Barta)
+  Gerudo_Ch_Helmet:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 格鲁德至宝 雷鸣头盔！(The Thunder Helm)
+  Gerudo_Ch_Poison:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 谁是犯人？！(The Mystery Polluter)
+  Gerudo_Ch_SandWarm:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 莫尔德拉吉克的肝脏(Medicinal Molduga)
+  Gerudo_Ch_SecretClub:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "秘密俱乐部里的秘密(The Secret Club's Secret)"
+  Gerudo_Ch_SnowBoots:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 被遗忘的剑(The Forgotten Sword)
+  Gerudo_Ch_SnowMT:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 第八位英雄(The Eighth Heroine)
+  Gerudo_HorseBuyer:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 我要买下这匹马！(Good-Sized Horse)
+  Gerudo_tsukamidake:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 速速蘑菇ＧｏＧｏ！(Rushroom Rush!)
+  Giant_ZoraMini:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 拉尔斯池塘之巨人讨伐(The Giant of Ralis Pond)
+  GoronCityMini_BeatGolem:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 继承衣钵之道(The Road to Respect)
+  GoronMini_ImportGem:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 宝石进口商(The Jewel Trade)
+  GoronMini_WallCrackTBox:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "死亡之山的秘密(Death Mountain's Secret)"
+  HateeluMini_Treasure:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "勇者的存款？(The Hero's Cache)"
+  HatenoMini_BlueFire:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "另一位研究者(Robbie's Research)"
+  HatenoMini_CameraBoy:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 照相机和希卡感应器(Sunshroom Sensing)
+  HatenoMini_DevilSeal:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "容器商者(The Statue's Bargain)"
+  HatenoMini_GoatThief:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 可恶的偷羊贼(The Sheep Rustlers)
+  HatenoMini_LoveInsects:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 送给爱人的礼物(A Gift for My Beloved)
+  HatenoMini_MyHome:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 幸福搬运匠(Hylian Homeowner)
+  HatenoMini_WeaponMania:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 年轻的武器迷(The Weapon Connoisseur)
+  Hateno_SheikPad_PowerUp:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 释放 更大的力量(Slated for Upgrades)
+  HigakkareMini_StrangeMan:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 寻求！可疑者信息(A Shady Customer)
+  HutagoHatago_Ch_001:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 捕捉野生马匹(Wild Horses)
+  HyruleDepthMini_WhiteHorse:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 王族白马(The Royal White Stallion)
+  HyrulePlainMini_Balloon:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 飘起来吧！气球！(Balloon Flight)
+  Kakariko_Ch_004:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "萤火虫之光(By Firefly's Light)"
+  Kakariko_Ch_005:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 和普莉珂玩吧！(Playtime with Cottla)
+  Kakariko_Ch_006:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 用燃烧的箭头刺穿它(Arrows of Burning Heat)
+  Kakariko_Ch_Cooking2:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 珂珂娜的厨房２(Cooking with Koko)
+  Kakariko_Ch_Cooking3:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: Koko Cuisine
+  Kakariko_Ch_Cooking4:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "珂珂娜的厨房３(Koko's Specialty)"
+  Kakariko_Cha_001:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "珂珂娜的厨房(Koko's Kitchen)"
+  Kakariko_Cha_003:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 消失的咕咕鸡(Flown the Coop)
+  KorokMini_KorokShiren:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 克洛格试练(The Korok Trials)
+  KorokMini_RiddleShiren:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 海拉鲁猜谜试练(Riddles of Hyrule)
+  KorokMini_RodShiren:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 冰之杖试练(A Freezing Rod)
+  KorokMini_UMAShiren:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 闪闪发光的卢咪试练(Legendary Rabbit Trial)
+  MarittaMini_BigWhales:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 巨鲸化石(Leviathan Bones)
+  MinakkareMini_Dragonfly:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "小妹妹的大愿望(Little Sister's Big Request)"
+  MinamihateeluMini_touzoku:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "拉姆达大盗的财宝(Misko, the Great Bandit)"
+  My_Hero:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 我的勇者！(My Hero)
+  Oasis_Drug_Challenge:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 避暑药(An Ice Guy)
+  OldKorok_Help:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 重要的沙球(The Priceless Maracas)
+  OneHundred:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 格鲁德峡谷失踪事件(Missing in Action)
+  RinelSearch:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 莱尼尔调查(Lynel Safari)
+  RitoMini_Cook:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 新娘舍华求实(The Apple of My Eye)
+  RitoMini_Flint:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 新郎挽回名誉(The Spark of Romance)
+  RitoMini_IceGolem:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "暴风谷里的冰岩巨人(Face the Frost Talus)"
+  RitoUmayadoMini_HotRecipe:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 寒冷时要吃咖喱！(Curry for What Ails You)
+  Rito_KeelSearch:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 寻找奇尔！(Find Kheel)
+  RiversideMini_CastleWeapon:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "沉睡在海拉鲁城堡的武器(The Royal Guard's Gear)"
+  RiversideMini_RoyalRecipe:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 王族秘传的食谱(A Royal Recipe)
+  SanrokuMini_Lizard:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 捉住耐火蜥！(Fireproof Lizard Roundup)
+  SetugenUmayadoMini_Umahonephoto:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "骨马照片(Stalhorse: Pictured!)"
+  TabantaBridgeMini_Sundial:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 进献给大精灵(A Gift for the Great Fairy)
+  UMiiMini_GiveCake:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "儿女不知父母心(A Parent's Love)"
+  UMiiMini_MakeVillage:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 欣欣向荣吧！樱达建筑店(From the Ground Up)
+  UMiiMini_RichmansHobby:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 暴发户的玩法(Hobbies of the Rich)
+  UotoriMini_RecipeSea:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "今日晚餐(What's for Dinner?)"
+  UotoriMini_RecoverBay:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 被夺走的渔场(Take Back the Sea)
+  UotoriMini_SinkTreasure:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 沉入海中的财宝(Sunken Treasure)
+  ZoraMini_DiveChallenge:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 陶醉在跳水中的男人(Diving is Beauty!)
+  ZoraMini_FlowedWife:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 被冲走的妻子(A Wife Washed Away)
+  ZoraMini_HarvestingStone:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 夜光石收集(Luminous Stone Gathering)
+  ZoraMini_ReliefSearch:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 寻找卓拉石碑(Zora Stone Monuments)
+  Zora_FlogMini:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 雨天的青蛙(Frog Catching)
+  bf2_collabo:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "联动：异度神剑２([Xenoblade Chronicles 2])"
+  isso_treasure_mini:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 沉入水底的宝贝(Riverbed Reward)
+

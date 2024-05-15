@@ -1,0 +1,1677 @@
+---
+group_count: 116
+atr1_unknown: 0
+entries:
+  "0000":
+    attributes: ""
+    contents:
+      - text: 检查目标。
+  "0001":
+    attributes: ""
+    contents:
+      - text: 更改设置。
+  "0002":
+    attributes: ""
+    contents:
+      - text: 调试菜单
+  "0003":
+    attributes: ""
+    contents:
+      - text: 什么都不做。
+  "0004":
+    attributes: ""
+    contents:
+      - text: 随机mod循环速度。
+  "0005":
+    attributes: ""
+    contents:
+      - text: 杂项。
+  "0006":
+    attributes: ""
+    contents:
+      - control:
+          kind: set_colour
+          colour: light_green1
+      - text: 启用。
+  "0007":
+    attributes: ""
+    contents:
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 禁用。
+  "0008":
+    attributes: ""
+    contents:
+      - control:
+          kind: set_colour
+          colour: orange
+      - text: 跳过。
+  "0009":
+    attributes: ""
+    contents:
+      - text: 返回设置。
+  "0010":
+    attributes: ""
+    contents:
+      - text: 恢复初始设置。
+  "0011":
+    attributes: ""
+    contents:
+      - text: 返回。
+  "0012":
+    attributes: ""
+    contents:
+      - text: 统计数据。
+  "0013":
+    attributes: ""
+    contents:
+      - text: 杂项。
+  "0014":
+    attributes: ""
+    contents:
+      - text: 保存。
+  "0015":
+    attributes: ""
+    contents:
+      - text: 加载。
+  "0016":
+    attributes: ""
+    contents:
+      - text: 启用调试模式
+  "0017":
+    attributes: ""
+    contents:
+      - text: 定制选择。
+  "0018":
+    attributes: ""
+    contents:
+      - control:
+          kind: set_colour
+          colour: light_green1
+      - text: 启用所有设置。
+  "0019":
+    attributes: ""
+    contents:
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 禁用所有设置。
+  "0020":
+    attributes: ""
+    contents:
+      - text: 关闭调试模式。
+  "0021":
+    attributes: ""
+    contents:
+      - text: "6"
+  "0022":
+    attributes: ""
+    contents:
+      - text: "2"
+  "0023":
+    attributes: ""
+    contents:
+      - text: "8"
+  "0024":
+    attributes: ""
+    contents:
+      - text: "1"
+  "0025":
+    attributes: ""
+    contents:
+      - text: "8"
+  "0026":
+    attributes: ""
+    contents:
+      - text: "4"
+  "0027":
+    attributes: ""
+    contents:
+      - text: "7"
+  "0028":
+    attributes: ""
+    contents:
+      - text: "5"
+  "0029":
+    attributes: ""
+    contents:
+      - text: "1"
+  "0030":
+    attributes: ""
+    contents:
+      - text: "8"
+  "0031":
+    attributes: ""
+    contents:
+      - text: "6"
+  "0032":
+    attributes: ""
+    contents:
+      - text: "4"
+  "0033":
+    attributes: ""
+    contents:
+      - text: "3"
+  "0034":
+    attributes: ""
+    contents:
+      - text: "6"
+  "0035":
+    attributes: ""
+    contents:
+      - text: "9"
+  "0036":
+    attributes: ""
+    contents:
+      - text: "1"
+  "0037":
+    attributes: ""
+    contents:
+      - text: 调试模式
+  "0038":
+    attributes: ""
+    contents:
+      - text: 位置
+  "0039":
+    attributes: ""
+    contents:
+      - text: 保存/加载
+  "0040":
+    attributes: ""
+    contents:
+      - text: 预设
+  "0041":
+    attributes: ""
+    contents:
+      - text: 鼓隆城
+  "0042":
+    attributes: ""
+    contents:
+      - text: 格鲁德小镇
+  "0043":
+    attributes: ""
+    contents:
+      - text: 利特村
+  "0044":
+    attributes: ""
+    contents:
+      - text: 查看下一页
+  "0045":
+    attributes: ""
+    contents:
+      - text: "卓拉领地"
+  "0046":
+    attributes: ""
+    contents:
+      - text: 哈特诺村
+  "0047":
+    attributes: ""
+    contents:
+      - text: 克洛格森林
+  "0048":
+    attributes: ""
+    contents:
+      - text: 卡卡利科村
+  "0049":
+    attributes: ""
+    contents:
+      - text: 一始村
+  "0050":
+    attributes: ""
+    contents:
+      - text: 沃托里村
+  "0051":
+    attributes: ""
+    contents:
+      - text: 返回调试菜单.
+  CheckGoals_WrongMode:
+    attributes: NPC_DRCVoice
+    contents:
+      - control:
+          kind: animation
+          name: Activate
+      - text: "此功能仅在目标模式下可用。"
+  Debug:
+    attributes: NPC_DRCVoice
+    contents:
+      - control:
+          kind: animation
+          name: Activate
+      - text: 选择.
+      - control:
+          kind: choice
+          choice_labels:
+            - 14
+            - 15
+            - 16
+            - 20
+          selected_index: 0
+          cancel_index: 3
+          unknown: 8
+  DebugMenu:
+    attributes: NPC_DRCVoice
+    contents:
+      - control:
+          kind: animation
+          name: Activate
+      - text: 选择.
+      - control:
+          kind: choice
+          choice_labels:
+            - 37
+            - 38
+            - 11
+          selected_index: 0
+          cancel_index: 2
+          unknown: 8
+  DebugMenu_Code_A:
+    attributes: NPC_DRCVoice
+    contents:
+      - control:
+          kind: animation
+          name: Activate
+      - text: 输入访问代码。
+      - control:
+          kind: choice
+          choice_labels:
+            - 21
+            - 22
+            - 23
+            - 24
+          selected_index: 0
+          cancel_index: 4
+          unknown: 8
+  DebugMenu_Code_B:
+    attributes: NPC_DRCVoice
+    contents:
+      - control:
+          kind: animation
+          name: Activate
+      - text: 输入访问代码。
+      - control:
+          kind: choice
+          choice_labels:
+            - 25
+            - 26
+            - 27
+            - 28
+          selected_index: 0
+          cancel_index: 4
+          unknown: 8
+  DebugMenu_Code_C:
+    attributes: NPC_DRCVoice
+    contents:
+      - control:
+          kind: animation
+          name: Activate
+      - text: 输入访问代码。
+      - control:
+          kind: choice
+          choice_labels:
+            - 29
+            - 30
+            - 31
+            - 32
+          selected_index: 0
+          cancel_index: 4
+          unknown: 8
+  DebugMenu_Code_Correct:
+    attributes: NPC_DRCVoice
+    contents:
+      - control:
+          kind: animation
+          name: Activate
+      - text: "已授予访问权限。\n欢迎，Waikuteru！"
+  DebugMenu_Code_D:
+    attributes: NPC_DRCVoice
+    contents:
+      - control:
+          kind: animation
+          name: Activate
+      - text: 输入访问代码。
+      - control:
+          kind: choice
+          choice_labels:
+            - 33
+            - 34
+            - 35
+            - 36
+          selected_index: 0
+          cancel_index: 4
+          unknown: 8
+  DebugMenu_Code_Wrong:
+    attributes: NPC_DRCVoice
+    contents:
+      - control:
+          kind: animation
+          name: Activate
+      - text: "拒绝访问。\n你不是Waikuteru。"
+  DebugMenu_Mode:
+    attributes: NPC_DRCVoice
+    contents:
+      - control:
+          kind: animation
+          name: Activate
+      - text: 启用或禁用调试模式？
+      - control:
+          kind: choice
+          choice_labels:
+            - 16
+            - 20
+            - 11
+          selected_index: 0
+          cancel_index: 2
+          unknown: 8
+  DebugMenu_PosPresets_1:
+    attributes: NPC_DRCVoice
+    contents:
+      - control:
+          kind: animation
+          name: Activate
+      - text: 选择位置。
+      - control:
+          kind: choice
+          choice_labels:
+            - 41
+            - 42
+            - 43
+            - 44
+          selected_index: 0
+          cancel_index: 4
+          unknown: 8
+  DebugMenu_PosPresets_2:
+    attributes: NPC_DRCVoice
+    contents:
+      - control:
+          kind: animation
+          name: Activate
+      - text: 选择位置。
+      - control:
+          kind: choice
+          choice_labels:
+            - 45
+            - 46
+            - 47
+            - 44
+          selected_index: 0
+          cancel_index: 4
+          unknown: 8
+  DebugMenu_PosPresets_3:
+    attributes: NPC_DRCVoice
+    contents:
+      - control:
+          kind: animation
+          name: Activate
+      - text: 选择位置。
+      - control:
+          kind: choice
+          choice_labels:
+            - 48
+            - 49
+            - 50
+            - 51
+          selected_index: 0
+          cancel_index: 3
+          unknown: 8
+  DebugMenu_Position:
+    attributes: NPC_DRCVoice
+    contents:
+      - control:
+          kind: animation
+          name: Activate
+      - text: 保存/加载或预设？
+      - control:
+          kind: choice
+          choice_labels:
+            - 14
+            - 15
+            - 11
+          selected_index: 0
+          cancel_index: 2
+          unknown: 8
+  DebugMenu_Position_Choose:
+    attributes: NPC_DRCVoice
+    contents:
+      - control:
+          kind: animation
+          name: Activate
+      - text: 保存/加载位置？
+      - control:
+          kind: choice
+          choice_labels:
+            - 39
+            - 40
+            - 11
+          selected_index: 0
+          cancel_index: 2
+          unknown: 8
+  Debug_AccessDenied:
+    attributes: NPC_DRCVoice
+    contents:
+      - control:
+          kind: animation
+          name: Activate
+      - text: "拒绝访问。\n你不是Waikuteru。"
+  Debug_Position:
+    attributes: NPC_DRCVoice
+    contents:
+      - control:
+          kind: animation
+          name: Activate
+      - text: Choose.
+      - control:
+          kind: choice
+          choice_labels:
+            - 14
+            - 15
+            - 16
+            - 20
+          selected_index: 0
+          cancel_index: 4
+          unknown: 8
+  Options_Choose:
+    attributes: NPC_DRCVoice
+    contents:
+      - control:
+          kind: animation
+          name: Activate
+      - text: 选择一个类别。
+      - control:
+          kind: choice
+          choice_labels:
+            - 4
+            - 5
+            - 10
+            - 11
+          selected_index: 0
+          cancel_index: 3
+          unknown: 8
+  Options_Choose_Cycle:
+    attributes: NPC_DRCVoice
+    contents:
+      - control:
+          kind: animation
+          name: Activate
+      - text: 选择你的方法。
+      - control:
+          kind: choice
+          choice_labels:
+            - 17
+            - 18
+            - 19
+            - 11
+          selected_index: 0
+          cancel_index: 3
+          unknown: 8
+  Options_Choose_Misc:
+    attributes: NPC_DRCVoice
+    contents:
+      - control:
+          kind: animation
+          name: Activate
+      - text: 选择你的方法。
+      - control:
+          kind: choice
+          choice_labels:
+            - 17
+            - 18
+            - 19
+            - 11
+          selected_index: 0
+          cancel_index: 3
+          unknown: 8
+  Options_Disable_All_Cycle_Options:
+    attributes: NPC_DRCVoice
+    contents:
+      - control:
+          kind: animation
+          name: Activate
+      - text: "现已禁用所有随机mod循环选项。"
+  Options_Disable_All_Misc_Options:
+    attributes: NPC_DRCVoice
+    contents:
+      - control:
+          kind: animation
+          name: Activate
+      - text: "现已禁用所有杂项设置。"
+  Options_Disable_Cycle:
+    attributes: NPC_DRCVoice
+    contents:
+      - control:
+          kind: animation
+          name: Activate
+      - text: "尚未选择任何一个循环选项。\n随机mdo循环现已禁用。"
+  Options_Enable_All_Cycle_Options:
+    attributes: NPC_DRCVoice
+    contents:
+      - control:
+          kind: animation
+          name: Activate
+      - text: "现已启用所有随机mod循环选项。"
+  Options_Enable_All_Misc_Options:
+    attributes: NPC_DRCVoice
+    contents:
+      - control:
+          kind: animation
+          name: Activate
+      - text: "现已启用所有杂项设置。"
+  Options_Misc_AutoSave_OFF:
+    attributes: NPC_DRCVoice
+    contents:
+      - control:
+          kind: animation
+          name: Activate
+      - text: "每次循环触发后自动保存。\n当前选项："
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 禁用
+      - control:
+          kind: reset_colour
+      - text: " - 默认："
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 禁用
+      - control:
+          kind: choice
+          choice_labels:
+            - 6
+            - 7
+            - 8
+            - 9
+          selected_index: 0
+          cancel_index: 3
+          unknown: 8
+  Options_Misc_AutoSave_ON:
+    attributes: NPC_DRCVoice
+    contents:
+      - control:
+          kind: animation
+          name: Activate
+      - text: "每次循环触发后自动保存。\n当前选项："
+      - control:
+          kind: set_colour
+          colour: light_green1
+      - text: 启用
+      - control:
+          kind: reset_colour
+      - text: " - 默认："
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 禁用
+      - control:
+          kind: choice
+          choice_labels:
+            - 6
+            - 7
+            - 8
+            - 9
+          selected_index: 0
+          cancel_index: 3
+          unknown: 8
+  Options_Misc_KeyItems_OFF:
+    attributes: NPC_DRCVoice
+    contents:
+      - control:
+          kind: animation
+          name: Activate
+      - text: "随机关键物品。\n当前选项："
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 禁用
+      - control:
+          kind: reset_colour
+      - text: " - 默认："
+      - control:
+          kind: set_colour
+          colour: light_green1
+      - text: 启用
+      - control:
+          kind: choice
+          choice_labels:
+            - 6
+            - 7
+            - 8
+            - 9
+          selected_index: 0
+          cancel_index: 3
+          unknown: 8
+  Options_Misc_KeyItems_ON:
+    attributes: NPC_DRCVoice
+    contents:
+      - control:
+          kind: animation
+          name: Activate
+      - text: "随机关键物品。\n当前选项："
+      - control:
+          kind: set_colour
+          colour: light_green1
+      - text: 启用
+      - control:
+          kind: reset_colour
+      - text: " - 默认："
+      - control:
+          kind: set_colour
+          colour: light_green1
+      - text: 启用
+      - control:
+          kind: choice
+          choice_labels:
+            - 6
+            - 7
+            - 8
+            - 9
+          selected_index: 0
+          cancel_index: 3
+          unknown: 8
+  Options_Misc_ManualWarp_OFF:
+    attributes: NPC_DRCVoice
+    contents:
+      - control:
+          kind: animation
+          name: Activate
+      - text: "随机手动传送的可能性。\n当前选项："
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 禁用
+      - control:
+          kind: reset_colour
+      - text: " - 默认："
+      - control:
+          kind: set_colour
+          colour: light_green1
+      - text: 启用
+      - control:
+          kind: choice
+          choice_labels:
+            - 6
+            - 7
+            - 8
+            - 9
+          selected_index: 0
+          cancel_index: 3
+          unknown: 8
+  Options_Misc_ManualWarp_ON:
+    attributes: NPC_DRCVoice
+    contents:
+      - control:
+          kind: animation
+          name: Activate
+      - text: "随机手动传送的可能性。\n当前选项："
+      - control:
+          kind: set_colour
+          colour: light_green1
+      - text: 启用
+      - control:
+          kind: reset_colour
+      - text: " - 默认："
+      - control:
+          kind: set_colour
+          colour: light_green1
+      - text: 启用
+      - control:
+          kind: choice
+          choice_labels:
+            - 6
+            - 7
+            - 8
+            - 9
+          selected_index: 0
+          cancel_index: 3
+          unknown: 8
+  Options_Misc_RR_OFF:
+    attributes: NPC_DRCVoice
+    contents:
+      - control:
+          kind: animation
+          name: Activate
+      - text: "随机出现瑞克摇。\n当前选项："
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 禁用
+      - control:
+          kind: reset_colour
+      - text: " - 默认："
+      - control:
+          kind: set_colour
+          colour: light_green1
+      - text: 启用
+      - control:
+          kind: choice
+          choice_labels:
+            - 6
+            - 7
+            - 8
+            - 9
+          selected_index: 0
+          cancel_index: 3
+          unknown: 8
+  Options_Misc_RR_ON:
+    attributes: NPC_DRCVoice
+    contents:
+      - control:
+          kind: animation
+          name: Activate
+      - text: "随机出现瑞克摇。\n当前选项："
+      - control:
+          kind: set_colour
+          colour: light_green1
+      - text: 启用
+      - control:
+          kind: reset_colour
+      - text: " - 默认："
+      - control:
+          kind: set_colour
+          colour: light_green1
+      - text: 启用
+      - control:
+          kind: choice
+          choice_labels:
+            - 6
+            - 7
+            - 8
+            - 9
+          selected_index: 0
+          cancel_index: 3
+          unknown: 8
+  Options_Misc_Runes_OFF:
+    attributes: NPC_DRCVoice
+    contents:
+      - control:
+          kind: animation
+          name: Activate
+      - text: "初始台地上勇导石随机。\n当前选项："
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 禁用
+      - control:
+          kind: reset_colour
+      - text: " - 默认："
+      - control:
+          kind: set_colour
+          colour: light_green1
+      - text: 启用
+      - control:
+          kind: choice
+          choice_labels:
+            - 6
+            - 7
+            - 8
+            - 9
+          selected_index: 0
+          cancel_index: 3
+          unknown: 8
+  Options_Misc_Runes_ON:
+    attributes: NPC_DRCVoice
+    contents:
+      - control:
+          kind: animation
+          name: Activate
+      - text: "初始台地上勇导石随机。\n当前选项："
+      - control:
+          kind: set_colour
+          colour: light_green1
+      - text: 启用
+      - control:
+          kind: reset_colour
+      - text: " - 默认："
+      - control:
+          kind: set_colour
+          colour: light_green1
+      - text: 启用
+      - control:
+          kind: choice
+          choice_labels:
+            - 6
+            - 7
+            - 8
+            - 9
+          selected_index: 0
+          cancel_index: 3
+          unknown: 8
+  Options_RC_DamageHeal_OFF:
+    attributes: NPC_DRCVoice
+    contents:
+      - control:
+          kind: animation
+          name: Activate
+      - text: "随机伤害或治疗。\n当前选项："
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 禁用
+      - control:
+          kind: reset_colour
+      - text: " - 默认："
+      - control:
+          kind: set_colour
+          colour: light_green1
+      - text: 启用
+      - control:
+          kind: choice
+          choice_labels:
+            - 6
+            - 7
+            - 8
+            - 9
+          selected_index: 0
+          cancel_index: 3
+          unknown: 8
+  Options_RC_DamageHeal_ON:
+    attributes: NPC_DRCVoice
+    contents:
+      - control:
+          kind: animation
+          name: Activate
+      - text: "随机伤害或治疗。\n当前选项："
+      - control:
+          kind: set_colour
+          colour: light_green1
+      - text: 启用
+      - control:
+          kind: reset_colour
+      - text: " - 默认："
+      - control:
+          kind: set_colour
+          colour: light_green1
+      - text: 启用
+      - control:
+          kind: choice
+          choice_labels:
+            - 6
+            - 7
+            - 8
+            - 9
+          selected_index: 0
+          cancel_index: 3
+          unknown: 8
+  Options_RC_Get_OFF:
+    attributes: NPC_DRCVoice
+    contents:
+      - control:
+          kind: animation
+          name: Activate
+      - text: "随机获得物品。\n当前选项："
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 禁用
+      - control:
+          kind: reset_colour
+      - text: " - 默认："
+      - control:
+          kind: set_colour
+          colour: light_green1
+      - text: 启用
+      - control:
+          kind: choice
+          choice_labels:
+            - 6
+            - 7
+            - 8
+            - 9
+          selected_index: 0
+          cancel_index: 3
+          unknown: 8
+  Options_RC_Get_ON:
+    attributes: NPC_DRCVoice
+    contents:
+      - control:
+          kind: animation
+          name: Activate
+      - text: "随机获得物品。\n当前选项："
+      - control:
+          kind: set_colour
+          colour: light_green1
+      - text: 启用
+      - control:
+          kind: reset_colour
+      - text: " - 默认："
+      - control:
+          kind: set_colour
+          colour: light_green1
+      - text: 启用
+      - control:
+          kind: choice
+          choice_labels:
+            - 6
+            - 7
+            - 8
+            - 9
+          selected_index: 0
+          cancel_index: 3
+          unknown: 8
+  Options_RC_MaxHeartStamina_OFF:
+    attributes: NPC_DRCVoice
+    contents:
+      - control:
+          kind: animation
+          name: Activate
+      - text: "随机加减心心或精力。\n当前选项："
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 禁用
+      - control:
+          kind: reset_colour
+      - text: " - 默认："
+      - control:
+          kind: set_colour
+          colour: light_green1
+      - text: 启用
+      - control:
+          kind: choice
+          choice_labels:
+            - 6
+            - 7
+            - 8
+            - 9
+          selected_index: 0
+          cancel_index: 3
+          unknown: 8
+  Options_RC_MaxHeartStamina_ON:
+    attributes: NPC_DRCVoice
+    contents:
+      - control:
+          kind: animation
+          name: Activate
+      - text: "随机加减心心或精力。\n当前选项："
+      - control:
+          kind: set_colour
+          colour: light_green1
+      - text: 启用
+      - control:
+          kind: reset_colour
+      - text: " - 默认："
+      - control:
+          kind: set_colour
+          colour: light_green1
+      - text: 启用
+      - control:
+          kind: choice
+          choice_labels:
+            - 6
+            - 7
+            - 8
+            - 9
+          selected_index: 0
+          cancel_index: 3
+          unknown: 8
+  Options_RC_Money_OFF:
+    attributes: NPC_DRCVoice
+    contents:
+      - control:
+          kind: animation
+          name: Activate
+      - text: "随机加减卢比。\n当前选项："
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 禁用
+      - control:
+          kind: reset_colour
+      - text: " - 默认："
+      - control:
+          kind: set_colour
+          colour: light_green1
+      - text: 启用
+      - control:
+          kind: choice
+          choice_labels:
+            - 6
+            - 7
+            - 8
+            - 9
+          selected_index: 0
+          cancel_index: 3
+          unknown: 8
+  Options_RC_Money_ON:
+    attributes: NPC_DRCVoice
+    contents:
+      - control:
+          kind: animation
+          name: Activate
+      - text: "随机加减卢比。\n当前选项："
+      - control:
+          kind: set_colour
+          colour: light_green1
+      - text: 启用
+      - control:
+          kind: reset_colour
+      - text: " - 默认："
+      - control:
+          kind: set_colour
+          colour: light_green1
+      - text: 启用
+      - control:
+          kind: choice
+          choice_labels:
+            - 6
+            - 7
+            - 8
+            - 9
+          selected_index: 0
+          cancel_index: 3
+          unknown: 8
+  Options_RC_Music_OFF:
+    attributes: NPC_DRCVoice
+    contents:
+      - control:
+          kind: animation
+          name: Activate
+      - text: "随机在主世界播放BGM。\n当前选项："
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 禁用
+      - control:
+          kind: reset_colour
+      - text: " - 默认："
+      - control:
+          kind: set_colour
+          colour: light_green1
+      - text: 启用
+      - control:
+          kind: choice
+          choice_labels:
+            - 6
+            - 7
+            - 8
+            - 9
+          selected_index: 0
+          cancel_index: 3
+          unknown: 8
+  Options_RC_Music_ON:
+    attributes: NPC_DRCVoice
+    contents:
+      - control:
+          kind: animation
+          name: Activate
+      - text: "随机在主世界播放BGM。\n当前选项："
+      - control:
+          kind: set_colour
+          colour: light_green1
+      - text: 启用
+      - control:
+          kind: reset_colour
+      - text: " - 默认："
+      - control:
+          kind: set_colour
+          colour: light_green1
+      - text: 启用
+      - control:
+          kind: choice
+          choice_labels:
+            - 6
+            - 7
+            - 8
+            - 9
+          selected_index: 0
+          cancel_index: 3
+          unknown: 8
+  Options_RC_Palette_OFF:
+    attributes: NPC_DRCVoice
+    contents:
+      - control:
+          kind: animation
+          name: Activate
+      - text: "随机环境。\n当前选项："
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 禁用
+      - control:
+          kind: reset_colour
+      - text: " - 默认："
+      - control:
+          kind: set_colour
+          colour: light_green1
+      - text: 启用
+      - control:
+          kind: choice
+          choice_labels:
+            - 6
+            - 7
+            - 8
+            - 9
+          selected_index: 0
+          cancel_index: 3
+          unknown: 8
+  Options_RC_Palette_ON:
+    attributes: NPC_DRCVoice
+    contents:
+      - control:
+          kind: animation
+          name: Activate
+      - text: "随机环境。\n当前选项："
+      - control:
+          kind: set_colour
+          colour: light_green1
+      - text: 启用
+      - control:
+          kind: reset_colour
+      - text: " - 默认："
+      - control:
+          kind: set_colour
+          colour: light_green1
+      - text: 启用
+      - control:
+          kind: choice
+          choice_labels:
+            - 6
+            - 7
+            - 8
+            - 9
+          selected_index: 0
+          cancel_index: 3
+          unknown: 8
+  Options_RC_Prohibition_OFF:
+    attributes: NPC_DRCVoice
+    contents:
+      - control:
+          kind: animation
+          name: Activate
+      - text: "随机禁令。\n当前选项："
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 禁用
+      - control:
+          kind: reset_colour
+      - text: " - 默认："
+      - control:
+          kind: set_colour
+          colour: light_green1
+      - text: 启用
+      - control:
+          kind: choice
+          choice_labels:
+            - 6
+            - 7
+            - 8
+            - 9
+          selected_index: 0
+          cancel_index: 3
+          unknown: 8
+  Options_RC_Prohibition_ON:
+    attributes: NPC_DRCVoice
+    contents:
+      - control:
+          kind: animation
+          name: Activate
+      - text: "随机禁令。\n当前选项："
+      - control:
+          kind: set_colour
+          colour: light_green1
+      - text: 启用
+      - control:
+          kind: reset_colour
+      - text: " - 默认："
+      - control:
+          kind: set_colour
+          colour: light_green1
+      - text: 启用
+      - control:
+          kind: choice
+          choice_labels:
+            - 6
+            - 7
+            - 8
+            - 9
+          selected_index: 0
+          cancel_index: 3
+          unknown: 8
+  Options_RC_Spawn_OFF:
+    attributes: NPC_DRCVoice
+    contents:
+      - control:
+          kind: animation
+          name: Activate
+      - text: "随机生成敌人。\n当前选项："
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 禁用
+      - control:
+          kind: reset_colour
+      - text: " - 默认："
+      - control:
+          kind: set_colour
+          colour: light_green1
+      - text: 启用
+      - control:
+          kind: choice
+          choice_labels:
+            - 6
+            - 7
+            - 8
+            - 9
+          selected_index: 0
+          cancel_index: 3
+          unknown: 8
+  Options_RC_Spawn_ON:
+    attributes: NPC_DRCVoice
+    contents:
+      - control:
+          kind: animation
+          name: Activate
+      - text: "随机生成敌人。\n当前选项："
+      - control:
+          kind: set_colour
+          colour: light_green1
+      - text: 启用
+      - control:
+          kind: reset_colour
+      - text: " - 默认："
+      - control:
+          kind: set_colour
+          colour: light_green1
+      - text: 启用
+      - control:
+          kind: choice
+          choice_labels:
+            - 6
+            - 7
+            - 8
+            - 9
+          selected_index: 0
+          cancel_index: 3
+          unknown: 8
+  Options_RC_Special_OFF:
+    attributes: NPC_DRCVoice
+    contents:
+      - control:
+          kind: animation
+          name: Activate
+      - text: "随机发生特殊事件。\n当前选项："
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 禁用
+      - control:
+          kind: reset_colour
+      - text: " - 默认："
+      - control:
+          kind: set_colour
+          colour: light_green1
+      - text: 启用
+      - control:
+          kind: choice
+          choice_labels:
+            - 6
+            - 7
+            - 8
+            - 9
+          selected_index: 0
+          cancel_index: 3
+          unknown: 8
+  Options_RC_Special_ON:
+    attributes: NPC_DRCVoice
+    contents:
+      - control:
+          kind: animation
+          name: Activate
+      - text: "随机发生特殊事件。\n当前选项："
+      - control:
+          kind: set_colour
+          colour: light_green1
+      - text: 启用
+      - control:
+          kind: reset_colour
+      - text: " - 默认："
+      - control:
+          kind: set_colour
+          colour: light_green1
+      - text: 启用
+      - control:
+          kind: choice
+          choice_labels:
+            - 6
+            - 7
+            - 8
+            - 9
+          selected_index: 0
+          cancel_index: 3
+          unknown: 8
+  Options_RC_Take_OFF:
+    attributes: NPC_DRCVoice
+    contents:
+      - control:
+          kind: animation
+          name: Activate
+      - text: "随机拿走物品。\n当前选项："
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 禁用
+      - control:
+          kind: reset_colour
+      - text: " - 默认："
+      - control:
+          kind: set_colour
+          colour: light_green1
+      - text: 启用
+      - control:
+          kind: choice
+          choice_labels:
+            - 6
+            - 7
+            - 8
+            - 9
+          selected_index: 0
+          cancel_index: 3
+          unknown: 8
+  Options_RC_Take_ON:
+    attributes: NPC_DRCVoice
+    contents:
+      - control:
+          kind: animation
+          name: Activate
+      - text: "随机拿走物品。\n当前选项："
+      - control:
+          kind: set_colour
+          colour: light_green1
+      - text: 启用
+      - control:
+          kind: reset_colour
+      - text: " - 默认："
+      - control:
+          kind: set_colour
+          colour: light_green1
+      - text: 启用
+      - control:
+          kind: choice
+          choice_labels:
+            - 6
+            - 7
+            - 8
+            - 9
+          selected_index: 0
+          cancel_index: 3
+          unknown: 8
+  Options_RC_Time_OFF:
+    attributes: NPC_DRCVoice
+    contents:
+      - control:
+          kind: animation
+          name: Activate
+      - text: "随机更改世界时间。\n当前选项："
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 禁用
+      - control:
+          kind: reset_colour
+      - text: " - 默认："
+      - control:
+          kind: set_colour
+          colour: light_green1
+      - text: 启用
+      - control:
+          kind: choice
+          choice_labels:
+            - 6
+            - 7
+            - 8
+            - 9
+          selected_index: 0
+          cancel_index: 3
+          unknown: 8
+  Options_RC_Time_ON:
+    attributes: NPC_DRCVoice
+    contents:
+      - control:
+          kind: animation
+          name: Activate
+      - text: "随机更改世界时间。\n当前选项："
+      - control:
+          kind: set_colour
+          colour: light_green1
+      - text: 启用
+      - control:
+          kind: reset_colour
+      - text: " - 默认："
+      - control:
+          kind: set_colour
+          colour: light_green1
+      - text: 启用
+      - control:
+          kind: choice
+          choice_labels:
+            - 6
+            - 7
+            - 8
+            - 9
+          selected_index: 0
+          cancel_index: 3
+          unknown: 8
+  Options_RC_Warp_OFF:
+    attributes: NPC_DRCVoice
+    contents:
+      - control:
+          kind: animation
+          name: Activate
+      - text: "随机传送。\n当前选项："
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 禁用
+      - control:
+          kind: reset_colour
+      - text: " - 默认："
+      - control:
+          kind: set_colour
+          colour: light_green1
+      - text: 启用
+      - control:
+          kind: choice
+          choice_labels:
+            - 6
+            - 7
+            - 8
+            - 9
+          selected_index: 0
+          cancel_index: 3
+          unknown: 8
+  Options_RC_Warp_ON:
+    attributes: NPC_DRCVoice
+    contents:
+      - control:
+          kind: animation
+          name: Activate
+      - text: "随机传送。\n当前选项："
+      - control:
+          kind: set_colour
+          colour: light_green1
+      - text: 启用
+      - control:
+          kind: reset_colour
+      - text: " - 默认："
+      - control:
+          kind: set_colour
+          colour: light_green1
+      - text: 启用
+      - control:
+          kind: choice
+          choice_labels:
+            - 6
+            - 7
+            - 8
+            - 9
+          selected_index: 0
+          cancel_index: 3
+          unknown: 8
+  Options_Reset_Success:
+    attributes: NPC_DRCVoice
+    contents:
+      - control:
+          kind: animation
+          name: Activate
+      - text: 已经恢复默认设置。
+  StatDebug_Choose:
+    attributes: NPC_DRCVoice
+    contents:
+      - control:
+          kind: animation
+          name: Activate
+      - text: 统计或调试菜单？
+      - control:
+          kind: choice
+          choice_labels:
+            - 12
+            - 2
+            - 11
+          selected_index: 0
+          cancel_index: 2
+          unknown: 6
+  Statistics_Cycle:
+    attributes: EventSystemActor
+    contents:
+      - control:
+          kind: animation
+          name: Activate
+      - text: "随机mod - 统计\n\n\n"
+      - control:
+          kind: animation
+          name: Activate
+      - text: "总执行次数："
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_Cycle_Count_Triggered_Total_Tries
+      - text: "\n成功的总执行次数"
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_Cycle_Count_Triggered_Total_Successes
+      - text: "\n\n"
+      - control:
+          kind: animation
+          name: Activate
+      - text: "随机mod循环 - 类别\n\n\n"
+      - control:
+          kind: animation
+          name: Activate
+      - text: "伤害/治疗："
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_Cycle_Count_Triggered_DamageHeal
+      - text: "\n最大心心/精力："
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_Cycle_Count_Triggered_MaxHeartStamina
+      - text: "\n\n"
+      - control:
+          kind: animation
+          name: Activate
+      - text: "获得物品："
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_Cycle_Count_Triggered_Get
+      - text: "\n获得/失去卢比："
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_Cycle_Count_Triggered_Money
+      - text: "\n\n"
+      - control:
+          kind: animation
+          name: Activate
+      - text: "环境变化："
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_Cycle_Count_Triggered_Palette
+      - text: "\n某些禁令："
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_Cycle_Count_Triggered_Prohibition
+      - text: "\n\n"
+      - control:
+          kind: animation
+          name: Activate
+      - text: "随机生成的敌人："
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_Cycle_Count_Triggered_Spawn
+      - text: "\n随机拿走的物品："
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_Cycle_Count_Triggered_Take
+      - text: "\n\n"
+      - control:
+          kind: animation
+          name: Activate
+      - text: "当前世界时间："
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_Cycle_Count_Triggered_Time
+      - text: "\n不知从何而来的传送："
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_Cycle_Count_Triggered_Warp
+      - text: "\n\n"
+      - control:
+          kind: animation
+          name: Activate
+      - text: "主世界BGM:"
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_Cycle_Count_Triggered_BGM
+      - text: "\n特殊事件："
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_Cycle_Count_Triggered_Special
+  Statistics_Cycle_Thanks:
+    attributes: EventSystemActor
+    contents:
+      - text: "感谢游玩\n"
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 旷野之息随机mod
+      - control:
+          kind: reset_colour
+      - text: "直到结束！\n\n随机mod由"
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "Waikuteru制作。\n\n\n"
+      - control:
+          kind: reset_colour
+      - text: "youtube.com/waikuteru\npatreon.com/waikuteru\ndiscord.gg/ZU5cPYbYWZ\n再见！"
+  Trigger:
+    attributes: NPC_DRCVoice
+    contents:
+      - control:
+          kind: animation
+          name: Activate
+      - text: "你呼唤了我。\n你想要干什么？"
+      - control:
+          kind: choice
+          choice_labels:
+            - 0
+            - 1
+            - 13
+            - 3
+          selected_index: 0
+          cancel_index: 3
+          unknown: 6
+

@@ -1,0 +1,845 @@
+---
+group_count: 120
+atr1_unknown: 0
+entries:
+  Dungeon000:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 塔·姆尔神庙(Tah Muhl Shrine)
+  Dungeon001:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 吉诺·耀神庙(Jee Noh Shrine)
+  Dungeon002:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 萨·达究神庙(Sah Dahaj Shrine)
+  Dungeon003:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 哈瓦·卡伊神庙(Hawa Koth Shrine)
+  Dungeon004:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 基瓦·扎塔斯神庙(Zalta Wa Shrine)
+  Dungeon005:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "奈兹·耀玛神庙(Ne'ez Yohma Shrine)"
+  Dungeon006:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 亚奥·玛耀神庙(Yah Rin Shrine)
+  Dungeon007:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 瓦希·辽科神庙(Bosh Kala Shrine)
+  Dungeon008:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 沃力达·诺神庙(Bareeda Naag Shrine)
+  Dungeon009:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 瓦·摩达伊神庙(Owa Daim Shrine)
+  Dungeon010:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 克·诺伊神庙(Kay Noh Shrine)
+  Dungeon011:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 蒙亚·托玛神庙(Monya Toma Shrine)
+  Dungeon012:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 乌塔·多神庙(Voo Lota Shrine)
+  Dungeon013:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 卡茨·托萨神庙(Katosa Aug Shrine)
+  Dungeon014:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 卡姆·尤奥神庙(Kam Urog Shrine)
+  Dungeon015:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 托托·伊萨神庙(Toto Sah Shrine)
+  Dungeon016:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 鲁克·玛神庙(Rucco Maag Shrine)
+  Dungeon017:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 希贝·尼罗神庙(Shee Vaneer Shrine)
+  Dungeon018:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 拉·库阿神庙(Rok Uwog Shrine)
+  Dungeon019:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "达乌·纳艾神庙(Dow Na'eh Shrine)"
+  Dungeon020:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 希·达哥兹神庙(Sheem Dagoze Shrine)
+  Dungeon021:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 托·雅萨神庙(Toh Yahsa Shrine)
+  Dungeon022:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 基耀·乌神庙(Keo Ruug Shrine)
+  Dungeon023:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 协莫·拉塔神庙(Sheh Rata Shrine)
+  Dungeon024:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 米兹·耀神庙(Mezza Lo Shrine)
+  Dungeon025:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 克哈·拉玛神庙(Kayra Mah Shrine)
+  Dungeon026:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "希摩·依托塞神庙(Shae Mo'sah Shrine)"
+  Dungeon027:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 鲁耀·塔乌神庙(Rota Ooh Shrine)
+  Dungeon028:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 晓拉·哈神庙(Shora Hah Shrine)
+  Dungeon029:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 席罗·席拉神庙(Hila Rao Shrine)
+  Dungeon030:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 究尼·希神庙(Joloo Nah Shrine)
+  Dungeon031:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "摩阿·基希托神庙(Mo'a Keet Shrine)"
+  Dungeon032:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 达科·塔瓦神庙(Dako Tah Shrine)
+  Dungeon033:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 达塔·库斯神庙(Daka Tuss Shrine)
+  Dungeon034:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 玛·卡亚神庙(Kah Yah Shrine)
+  Dungeon035:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "阿科·瓦塔神庙(Akh Va'quot Shrine)"
+  Dungeon036:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 希·基托神庙(Sho Dantu Shrine)
+  Dungeon037:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 夏奥·耀神庙(Shae Loya Shrine)
+  Dungeon038:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 玛·奥努神庙(Oman Au Shrine)
+  Dungeon039:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 米亚马·迦纳神庙(Myahm Agana Shrine)
+  Dungeon040:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "亚卡·玛塔神庙(Kaam Ya'tak Shrine)"
+  Dungeon041:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 加·巴希夫神庙(Ja Baij Shrine)
+  Dungeon042:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 利·摩纳神庙(Rin Oyaa Shrine)
+  Dungeon043:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 库伊·塔卡神庙(Kuh Takkar Shrine)
+  Dungeon044:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 希贝·尼亚斯神庙(Shee Venath Shrine)
+  Dungeon045:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 哈尤·达玛神庙(Ha Dahamar Shrine)
+  Dungeon046:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 夏达·阿达神庙Shada Naw Shrine)
+  Dungeon047:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 利·达席神庙(Ree Dahee Shrine)
+  Dungeon048:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 吉兹·卡夫伊神庙(Ze Kasho Shrine)
+  Dungeon049:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 卡亚·米瓦神庙(Kaya Wan Shrine)
+  Dungeon050:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 塞伊·乌托神庙(Shai Utoh Shrine)
+  Dungeon051:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 卡玛·拉席神庙(Maka Rah Shrine)
+  Dungeon052:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "诺基·米席神庙(Gee Ha'rah Shrine)"
+  Dungeon053:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 夏·塔瓦神庙(Sha Warvo Shrine)
+  Dungeon054:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "卡奥·玛卡神庙(Ka'o Makagh Shrine)"
+  Dungeon055:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 多恩巴·塔神庙(Dunba Taag Shrine)
+  Dungeon056:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 米罗·茨席神庙(Mirro Shaz Shrine)
+  Dungeon057:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 瓦哥·卡塔神庙(Wahgo Katta Shrine)
+  Dungeon058:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 摩·拉塔尼阿神庙(Mogg Latan Shrine)
+  Dungeon059:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 卡·奥裘神庙(Kah Okeo Shrine)
+  Dungeon060:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 古科·齐塞神庙(Daqo Chisay Shrine)
+  Dungeon061:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 晓达·萨神庙(Shoda Sah Shrine)
+  Dungeon062:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 夏·格玛神庙(Sha Gehma Shrine)
+  Dungeon063:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 基玛·兹斯神庙(Kema Zoos Shrine)
+  Dungeon064:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 达卡·卡神庙(Daqa Koh Shrine)
+  Dungeon065:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 图米·恩科神庙(Keh Namut Shrine)
+  Dungeon066:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 卡·姆神庙(Kah Mael Shrine)
+  Dungeon067:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 丘·拉姆席神庙(Qua Raym Shrine)
+  Dungeon068:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 亚·纳迦神庙(Ya Naga Shrine)
+  Dungeon069:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 伊奥·索奥神庙(Ishto Soh Shrine)
+  Dungeon070:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 萨奥·科席神庙(Soh Kofi Shrine)
+  Dungeon071:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 普玛·尼特神庙(Pumaag Nitae Shrine)
+  Dungeon072:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 达·卡索神庙(Dah Kaso Shrine)
+  Dungeon073:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 卡塔·丘基神庙(Katah Chuki Shrine)
+  Dungeon074:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 尼阿·奈阿神庙(Noya Neha Shrine)
+  Dungeon075:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 达席·希诺神庙(Dah Hesho Shrine)
+  Dungeon076:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 萨萨·卡伊神庙(Sasa Kai Shrine)
+  Dungeon077:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "科尼·希卡神庙(Ke'nai Shakah Shrine)"
+  Dungeon078:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 米达·罗基神庙(Mijah Rokee Shrine)
+  Dungeon079:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 纳米卡·奥兹神庙(Namika Ozz Shrine)
+  Dungeon080:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 希·塔塔恩科神庙(Shoqa Tatone Shrine)
+  Dungeon081:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 姆奥·吉姆神庙(Muwo Jeem Shrine)
+  Dungeon082:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 洽斯·科塔神庙(Chaas Qeta Shrine)
+  Dungeon083:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "提纳·裘扎神庙(Tena Ko'sah Shrine)"
+  Dungeon084:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 茨茨阿·尼玛神庙(Tutsuwa Nima Shrine)
+  Dungeon085:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 基玛·科萨萨神庙(Kema Kosassa Shrine)
+  Dungeon086:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 迦奥玛·阿萨神庙(Goma Asaagh Shrine)
+  Dungeon087:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 妙斯·希诺神庙(Mozo Shenno Shrine)
+  Dungeon088:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 席亚·米乌神庙(Hia Miu Shrine)
+  Dungeon089:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "萨斯·科萨神庙(Saas Ko'sah Shrine)"
+  Dungeon090:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 斯玛·萨玛神庙(Suma Sahma Shrine)
+  Dungeon091:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 古·阿齐托神庙(Gorae Torr Shrine)
+  Dungeon092:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "玛·诺拉神庙(Maag No'rah Shrine)"
+  Dungeon093:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 拉丘·乌罗神庙(Raqa Zunzo Shrine)
+  Dungeon094:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 托·卡尤神庙(Tho Kayu Shrine)
+  Dungeon095:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 库恩·希达吉神庙(Kuhn Sidajj Shrine)
+  Dungeon096:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 丘卡·纳塔神庙(Qukah Nata Shrine)
+  Dungeon097:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 库古·齐德神庙(Korgu Chideh Shrine)
+  Dungeon098:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 达·乔卡席神庙(Daag Chokah Shrine)
+  Dungeon099:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "塔罗·尼席神庙(Ta'loh Naeg Shrine)"
+  Dungeon100:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 基哈·乌神庙(Keeha Yoog Shrine)
+  Dungeon101:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 达·基基神庙(Dagah Keek Shrine)
+  Dungeon102:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 兹纳·卡伊神庙(Zuna Kai Shrine)
+  Dungeon103:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 迪拉·玛神庙(Dila Maag Shrine)
+  Dungeon104:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 拉诺·库席神庙(Lanno Kooh Shrine)
+  Dungeon105:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "图·卡罗神庙(Tu Ka'loh Shrine)"
+  Dungeon106:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 玛姆·拉诺神庙(Maag Halan Shrine)
+  Dungeon107:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 密·苏神庙(Misae Suma Shrine)
+  Dungeon108:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 基托·瓦瓦伊神庙(Ketoh Wawai Shrine)
+  Dungeon109:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 利塔·兹摩神庙(Ritaag Zumo Shrine)
+  Dungeon110:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "裘希·奥神庙(Korsh O'hu Shrine)"
+  Dungeon111:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 塔瓦·吉努神庙(Tawa Jinn Shrine)
+  Dungeon112:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 拉纳·罗基神庙(Lakna Rokee Shrine)
+  Dungeon113:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 希·库乔夫神庙(Shae Katha Shrine)
+  Dungeon114:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 希·尤塔神庙(Shai Yota Shrine)
+  Dungeon115:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 罗纳·卡塔神庙(Rona Kachta Shrine)
+  Dungeon116:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 卡扎·托基神庙(Qaza Tokki Shrine)
+  Dungeon117:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "吉塔·萨米神庙(Jitan Sa'mi Shrine)"
+  Dungeon118:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 托·库摩神庙(To Quomo Shrine)
+  Dungeon119:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "塔诺·阿神庙(Tahno O'ah Shrine)"
+

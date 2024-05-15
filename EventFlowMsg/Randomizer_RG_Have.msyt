@@ -1,0 +1,4639 @@
+---
+group_count: 512
+atr1_unknown: 0
+entries:
+  Animal_Insect_A:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Animal_Insect_A
+      - text: " 速速蛙(Hot-Footed Frog)"
+  Animal_Insect_AA:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Animal_Insect_AA
+      - text: " 精力独角仙(Energetic Rhino Beetle)"
+  Animal_Insect_AB:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Animal_Insect_AB
+      - text: " 耐火凤蝶(Smotherwing Butterfly)"
+  Animal_Insect_B:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Animal_Insect_B
+      - text: " 毅力蛙(Tireless Frog)"
+  Animal_Insect_C:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Animal_Insect_C
+      - text: " 冰冷蜻蜓(Cold Darner)"
+  Animal_Insect_E:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Animal_Insect_E
+      - text: " 静静萤火虫(Sunset Firefly)"
+  Animal_Insect_F:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Animal_Insect_F
+      - text: " 精灵(Fairy)"
+  Animal_Insect_G:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Animal_Insect_G
+      - text: " 大剑独角仙(Bladed Rhino Beetle)"
+  Animal_Insect_H:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Animal_Insect_H
+      - text: " 精力蚱蜢(Restless Cricket)"
+  Animal_Insect_I:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Animal_Insect_I
+      - text: " 酥麻蜻蜓(Electric Darner)"
+  Animal_Insect_M:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Animal_Insect_M
+      - text: " 生命蜥(Hearty Lizard)"
+  Animal_Insect_N:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Animal_Insect_N
+      - text: " 冰冷凤蝶(Winterwing Butterfly)"
+  Animal_Insect_P:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Animal_Insect_P
+      - text: " 铠甲独角仙(Rugged Rhino Beetle)"
+  Animal_Insect_Q:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Animal_Insect_Q
+      - text: " 暖暖凤蝶(Summerwing Butterfly)"
+  Animal_Insect_R:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Animal_Insect_R
+      - text: " 酥麻凤蝶(Thunderwing Butterfly)"
+  Animal_Insect_S:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Animal_Insect_S
+      - text: " 速速蜥(Hightail Lizard)"
+  Animal_Insect_T:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Animal_Insect_T
+      - text: " 暖暖蜻蜓(Warm Darner)"
+  Animal_Insect_X:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Animal_Insect_X
+      - text: " 耐火蜥(Fireproof Lizard)"
+  Item_Boiled_01:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Boiled_01
+      - text: " 煮蛋(Hard-Boiled Egg)"
+  Item_ChilledFish_01:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_ChilledFish_01
+      - text: " 冰冻鲈鱼(Frozen Bass)"
+  Item_ChilledFish_02:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_ChilledFish_02
+      - text: " 冰冻生命鲑鱼(Frozen Hearty Salmon)"
+  Item_ChilledFish_03:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_ChilledFish_03
+      - text: " 冰冻鳟鱼(Frozen Trout)"
+  Item_ChilledFish_04:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_ChilledFish_04
+      - text: " 冰冻鲤鱼(Frozen Carp)"
+  Item_ChilledFish_05:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_ChilledFish_05
+      - text: " 冰冻鲷鱼(Frozen Porgy)"
+  Item_ChilledFish_06:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_ChilledFish_06
+      - text: " 冰冻生命鲈鱼(Frozen Hearty Bass)"
+  Item_ChilledFish_07:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_ChilledFish_07
+      - text: " 冰冻螃蟹(Frozen Crab)"
+  Item_ChilledFish_08:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_ChilledFish_08
+      - text: " 冰冻田螺(Frozen River Snail)"
+  Item_ChilledFish_09:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_ChilledFish_09
+      - text: " 冰冻生命海螺(Icy Hearty Blueshell Snail)"
+  Item_Chilled_01:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Chilled_01
+      - text: " 冰冻兽肉(Icy Meat)"
+  Item_Chilled_02:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Chilled_02
+      - text: " 高级冰冻兽肉(Icy Prime Meat)"
+  Item_Chilled_03:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Chilled_03
+      - text: " 顶级冰冻兽肉(Icy Gourmet Meat)"
+  Item_Chilled_04:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Chilled_04
+      - text: " 冰冻禽肉(Frozen Bird Drumstick)"
+  Item_Chilled_05:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Chilled_05
+      - text: " 高级冰冻禽肉(Frozen Bird Thigh)"
+  Item_Chilled_06:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Chilled_06
+      - text: " 顶级冰冻禽肉(Frozen Whole Bird)"
+  Item_Cook_A_01:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 烤蘑菇串(Mushroom Skewer)
+  Item_Cook_A_02:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 蒸蘑菇(Steamed Mushrooms)
+  Item_Cook_A_03:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 蒸水果(Steamed Fruit)
+  Item_Cook_A_04:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 蒸鱼(Steamed Fish)
+  Item_Cook_A_05:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 蒸肉(Steamed Meat)
+  Item_Cook_A_07:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 水果拌蘑菇(Fruit and Mushroom Mix)
+  Item_Cook_A_08:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 烤鱼蘑菇串(Fish and Mushroom Skewer)
+  Item_Cook_A_09:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 烤肉蘑菇串(Meat and Mushroom Skewer)
+  Item_Cook_A_10:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 煎蛋卷(Omelet)
+  Item_Cook_A_11:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 甘露炖蘑菇(Glazed Mushrooms)
+  Item_Cook_A_12:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 甘露炖肉(Glazed Meat)
+  Item_Cook_A_13:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 甘露炖鱼(Glazed Seafood)
+  Item_Cook_A_14:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 甘露炖蔬菜(Glazed Veggies)
+  Item_Cook_B_01:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 炒野菜(Fried Wild Greens)
+  Item_Cook_B_02:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 炖水果(Simmered Fruit)
+  Item_Cook_B_05:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 烤鱼(Fish Skewer)
+  Item_Cook_B_06:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 烤肉串(Meat Skewer)
+  Item_Cook_B_11:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 大份炒野菜(Copious Fried Wild Greens)
+  Item_Cook_B_12:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 大份炖水果(Copious Simmered Fruit)
+  Item_Cook_B_13:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 大份烤蘑菇串(Copious Mushroom Skewers)
+  Item_Cook_B_15:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 大份烤鱼(Copious Seafood Skewers)
+  Item_Cook_B_16:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 大份烤肉串(Copious Meat Skewers)
+  Item_Cook_B_17:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 海陆煎烤(Meat and Seafood Fry)
+  Item_Cook_B_18:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 高级海陆煎烤(Prime Meat and Seafood Fry)
+  Item_Cook_B_19:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 顶级海陆煎烤(Gourmet Meat and Seafood Fry)
+  Item_Cook_B_20:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 南瓜酿肉(Meat-Stuffed Pumpkin)
+  Item_Cook_B_21:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 火辣炒暖暖草果(Sautéed Peppers)
+  Item_Cook_B_22:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 炒坚果(Sautéed Nuts)
+  Item_Cook_B_23:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 串烤海鲜(Seafood Skewer)
+  Item_Cook_C_16:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 妖精回力水(Fairy Tonic)
+  Item_Cook_C_17:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 任何药(Any Elixir)
+  Item_Cook_D_01:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 盐烤蘑菇(Salt-Grilled Mushrooms)
+  Item_Cook_D_02:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 盐烤野菜(Salt-Grilled Greens)
+  Item_Cook_D_03:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 盐烤鱼(Salt-Grilled Fish)
+  Item_Cook_D_04:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 岩盐烤肉(Salt-Grilled Meat)
+  Item_Cook_D_05:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 高级岩盐烤肉(Salt-Grilled Prime Meat)
+  Item_Cook_D_06:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 顶级岩盐烤肉(Salt-Grilled Gourmet Meat)
+  Item_Cook_D_07:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 香辣煎肉(Pepper Steak)
+  Item_Cook_D_08:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 香辣煎鱼(Pepper Seafood)
+  Item_Cook_D_09:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 岩盐烤蟹(Salt-Grilled Crab)
+  Item_Cook_D_10:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 炒螃蟹(Crab Stir-Fry)
+  Item_Cook_E_01:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 禽肉菜饭(Poultry Pilaf)
+  Item_Cook_E_02:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 高级禽肉菜饭(Prime Poultry Pilaf)
+  Item_Cook_E_03:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 顶级禽肉菜饭(Gourmet Poultry Pilaf)
+  Item_Cook_E_04:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 煎蛋饭(Fried Egg and Rice)
+  Item_Cook_F_01:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 鲜肉牛奶汤(Creamy Meat Soup)
+  Item_Cook_F_02:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 海鲜牛奶汤(Creamy Seafood Soup)
+  Item_Cook_F_03:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 蔬菜浓汤(Veggie Cream Soup)
+  Item_Cook_F_04:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 心心牛奶汤(Creamy Heart Soup)
+  Item_Cook_G_02:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 海鲜饭团(Seafood Rice Balls)
+  Item_Cook_G_03:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 野菜饭团(Veggie Rice Balls)
+  Item_Cook_G_04:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 蘑菇饭团(Mushroom Rice Balls)
+  Item_Cook_G_05:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 兽肉盖饭(Meat and Rice Bowl)
+  Item_Cook_G_06:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 高级兽肉盖饭(Prime Meat and Rice Bowl)
+  Item_Cook_G_09:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 顶级兽肉盖饭(Gourmet Meat and Rice Bowl)
+  Item_Cook_G_10:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 海鲜炒饭(Seafood Fried Rice)
+  Item_Cook_G_11:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 咖喱菜饭(Curry Pilaf)
+  Item_Cook_G_12:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 蘑菇烩饭(Mushroom Risotto)
+  Item_Cook_G_13:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 蔬菜烩饭(Vegetable Risotto)
+  Item_Cook_G_14:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 三文鱼烩饭(Salmon Risotto)
+  Item_Cook_G_15:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 鲜肉饭团(Meaty Rice Balls)
+  Item_Cook_G_16:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 蟹肉蛋炒饭(Crab Omelet with Rice)
+  Item_Cook_G_17:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 蟹肉烩饭(Crab Risotto)
+  Item_Cook_H_01:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 干煎鱼(Seafood Meunière)
+  Item_Cook_H_02:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 干煎鲷鱼(Porgy Meunière)
+  Item_Cook_H_03:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 干煎鲑鱼(Salmon Meunière)
+  Item_Cook_I_01:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 水果派(Fruit Pie)
+  Item_Cook_I_02:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 苹果派(Apple Pie)
+  Item_Cook_I_03:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 蛋挞(Egg Tart)
+  Item_Cook_I_04:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 鲜肉派(Meat Pie)
+  Item_Cook_I_05:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 胡萝卜蛋糕(Carrot Cake)
+  Item_Cook_I_06:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 南瓜派(Pumpkin Pie)
+  Item_Cook_I_07:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 黄油苹果(Hot Buttered Apple)
+  Item_Cook_I_08:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 蜂蜜苹果(Honeyed Apple)
+  Item_Cook_I_09:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 蜂蜜水果(Honeyed Fruits)
+  Item_Cook_I_10:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 原味可丽饼(Plain Crepe)
+  Item_Cook_I_11:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 草莓可丽饼(Wildberry Crepe)
+  Item_Cook_I_12:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 坚果蛋糕(Nutcake)
+  Item_Cook_I_13:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 炸香蕉(Fried Bananas)
+  Item_Cook_I_14:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 鲜蛋布丁(Egg Pudding)
+  Item_Cook_I_15:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 鱼肉派(Fish Pie)
+  Item_Cook_I_16:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 蜂蜜糖(Honey Candy)
+  Item_Cook_I_17:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 蜂蜜可丽饼(Honey Crepe)
+  Item_Cook_J_01:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 咖喱饭(Curry Rice)
+  Item_Cook_J_02:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 蔬菜咖喱饭(Vegetable Curry)
+  Item_Cook_J_03:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 海鲜咖喱饭(Seafood Curry)
+  Item_Cook_J_04:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 禽肉咖喱饭(Poultry Curry)
+  Item_Cook_J_05:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 高级禽肉咖喱饭(Prime Poultry Curry)
+  Item_Cook_J_06:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 兽肉咖喱饭(Meat Curry)
+  Item_Cook_J_07:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 高级兽肉咖喱饭(Prime Meat Curry)
+  Item_Cook_J_08:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 顶级禽肉咖喱饭(Gourmet Poultry Curry)
+  Item_Cook_J_09:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 顶级兽肉咖喱饭(Gourmet Meat Curry)
+  Item_Cook_K_01:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 焖肉(Meat Stew)
+  Item_Cook_K_02:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 高级焖肉(Prime Meat Stew)
+  Item_Cook_K_03:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 焖南瓜(Pumpkin Stew)
+  Item_Cook_K_04:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 贝肉杂烩(Clam Chowder)
+  Item_Cook_K_05:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 顶级焖肉(Gourmet Meat Stew)
+  Item_Cook_K_06:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 蘑菇牛奶汤(Cream of Mushroom Soup)
+  Item_Cook_K_07:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 蔬菜牛奶汤(Cream of Vegetable Soup)
+  Item_Cook_K_08:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 焖胡萝卜炖(Carrot Stew)
+  Item_Cook_K_09:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 热牛奶(Warm Milk)
+  Item_Cook_L_01:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 炖怪物(Monster Stew)
+  Item_Cook_L_02:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 怪物汤(Monster Soup)
+  Item_Cook_L_03:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 怪物蛋糕(Monster Cake)
+  Item_Cook_L_04:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 怪物饭团(Monster Rice Balls)
+  Item_Cook_L_05:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 怪物咖喱饭(Monster Curry)
+  Item_Cook_M_01:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 小麦面包(Wheat Bread)
+  Item_Cook_N_01:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 海鲜杂烩饭(Seafood Paella)
+  Item_Cook_N_02:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 水果蛋糕(Fruitcake)
+  Item_Cook_N_03:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 蔬菜煎蛋卷(Vegetable Omelet)
+  Item_Cook_N_04:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 蘑菇煎蛋卷(Mushroom Omelet)
+  Item_Cook_O_01:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 微妙的菜肴(Dubious Food)
+  Item_Cook_O_02:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 坚硬的菜肴(Rock-Hard Food)
+  Item_Cook_P_01:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 炒香蘑菇(Fragrant Mushroom Sauté)
+  Item_Cook_P_02:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 炒香草(Herb Sauté)
+  Item_Cook_P_03:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 烤兽肉串(Spiced Meat Skewer)
+  Item_Cook_P_04:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 高级烤兽肉串(Prime Spiced Meat Skewer)
+  Item_Cook_P_05:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 顶级烤兽肉串(Gourmet Spiced Meat Skewer)
+  Item_Enemy_00:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Enemy_00
+      - text: " 波克布林的犄角(Bokoblin Horn)"
+  Item_Enemy_01:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Enemy_01
+      - text: " 波克布林的牙齿(Bokoblin Fang)"
+  Item_Enemy_02:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Enemy_02
+      - text: " 波克布林的肝脏(Bokoblin Guts)"
+  Item_Enemy_03:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Enemy_03
+      - text: " 蜥蜴战士的犄角(Lizalfos Horn)"
+  Item_Enemy_04:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Enemy_04
+      - text: " 蜥蜴战士的爪子(Lizalfos Talon)"
+  Item_Enemy_05:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Enemy_05
+      - text: " 蜥蜴战士的尾巴(Lizalfos Tail)"
+  Item_Enemy_06:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Enemy_06
+      - text: " 莫力布林的犄角(Moblin Horn)"
+  Item_Enemy_07:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Enemy_07
+      - text: " 莫力布林的牙齿(Moblin Fang)"
+  Item_Enemy_08:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Enemy_08
+      - text: " 莫力布林的肝脏(Moblin Guts)"
+  Item_Enemy_12:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Enemy_12
+      - text: " 莱尼尔的犄角(Lynel Horn)"
+  Item_Enemy_13:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Enemy_13
+      - text: " 莱尼尔的蹄子(Lynel Hoof)"
+  Item_Enemy_14:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Enemy_14
+      - text: " 莱尼尔的肝脏(Lynel Guts)"
+  Item_Enemy_15:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Enemy_15
+      - text: " 红色丘丘胶(Red Chuchu Jelly)"
+  Item_Enemy_16:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Enemy_16
+      - text: " 黄色丘丘胶(Yellow Chuchu Jelly)"
+  Item_Enemy_17:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Enemy_17
+      - text: " 白色丘丘胶(White Chuchu Jelly)"
+  Item_Enemy_18:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Enemy_18
+      - text: " 蝙蝠的翅膀(Keese Wing)"
+  Item_Enemy_19:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Enemy_19
+      - text: " 蝙蝠的眼珠(Keese Eyeball)"
+  Item_Enemy_20:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Enemy_20
+      - text: " 八爪怪的脚(Octorok Tentacle)"
+  Item_Enemy_21:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Enemy_21
+      - text: " 八爪怪的眼珠(Octorok Eyeball)"
+  Item_Enemy_24:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Enemy_24
+      - text: " 莫尔德拉吉克的背鳍(Molduga Fin)"
+  Item_Enemy_25:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Enemy_25
+      - text: " 莫尔德拉吉克的肝脏(Molduga Guts)"
+  Item_Enemy_26:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Enemy_26
+      - text: " 古代齿轮(Ancient Gear)"
+  Item_Enemy_27:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Enemy_27
+      - text: " 古代螺丝(Ancient Screw)"
+  Item_Enemy_28:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Enemy_28
+      - text: " 古代弹簧(Ancient Spring)"
+  Item_Enemy_29:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Enemy_29
+      - text: " 古代传动抽(Ancient Shaft)"
+  Item_Enemy_30:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Enemy_30
+      - text: " 古代核心(Ancient Core)"
+  Item_Enemy_31:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Enemy_31
+      - text: " 巨大的古代核心(Giant Ancient Core)"
+  Item_Enemy_32:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Enemy_32
+      - text: " 西诺克斯的爪子(Hinox Toenail)"
+  Item_Enemy_33:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Enemy_33
+      - text: " 西诺克斯的牙齿(Hinox Tooth)"
+  Item_Enemy_34:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Enemy_34
+      - text: " 西诺克斯的肝脏(Hinox Guts)"
+  Item_Enemy_38:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Enemy_38
+      - text: " 奥尔龙的鳞片(Dinraal's Scale)"
+  Item_Enemy_39:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Enemy_39
+      - text: " 奥尔龙的爪子(Dinraal's Claw)"
+  Item_Enemy_40:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Enemy_40
+      - text: " 丘丘胶(Chuchu Jelly)"
+  Item_Enemy_41:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Enemy_41
+      - text: " 蜥蜴战士的红色尾巴(Red Lizalfos Tail)"
+  Item_Enemy_42:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Enemy_42
+      - text: " 蜥蜴战士的蓝色尾巴(Icy Lizalfos Tail)"
+  Item_Enemy_43:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Enemy_43
+      - text: " 蜥蜴战士的黄色尾巴(Yellow Lizalfos Tail)"
+  Item_Enemy_44:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Enemy_44
+      - text: " 火蝙蝠的翅膀(Fire Keese Wing)"
+  Item_Enemy_45:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Enemy_45
+      - text: " 电蝙蝠的翅膀(Electric Keese Wing)"
+  Item_Enemy_46:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Enemy_46
+      - text: " 冰蝙蝠的翅膀(Ice Keese Wing)"
+  Item_Enemy_47:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Enemy_47
+      - text: " 奥尔龙的牙齿碎片(Shard of Dinraal's Fang)"
+  Item_Enemy_48:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Enemy_48
+      - text: " 奥尔龙的犄角碎片(Shard of Dinraal's Horn)"
+  Item_Enemy_49:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Enemy_49
+      - text: " 聂耳龙的鳞片(Naydra's Scale)"
+  Item_Enemy_50:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Enemy_50
+      - text: " 聂耳龙的爪子(Naydra's Claw)"
+  Item_Enemy_51:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Enemy_51
+      - text: " 聂耳龙的牙齿碎片(Shard of Naydra's Fang)"
+  Item_Enemy_52:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Enemy_52
+      - text: " 聂耳龙的犄角碎片(Shard of Naydra's Horn)"
+  Item_Enemy_53:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Enemy_53
+      - text: " 费罗龙的鳞片(Farosh's Scale)"
+  Item_Enemy_54:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Enemy_54
+      - text: " 费罗龙的爪子(Farosh's Claw)"
+  Item_Enemy_55:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Enemy_55
+      - text: " 费罗龙的牙齿碎片(Shard of Farosh's Fang)"
+  Item_Enemy_56:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Enemy_56
+      - text: " 费罗龙的犄角碎片(Shard of Farosh's Horn)"
+  Item_Enemy_57:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Enemy_57
+      - text: " 八爪怪气球(Octo Balloon)"
+  Item_FishGet_A:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_FishGet_A
+      - text: " 海拉鲁鲈鱼(Hyrule Bass)"
+  Item_FishGet_B:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_FishGet_B
+      - text: " 生命鲈鱼(Hearty Bass)"
+  Item_FishGet_C:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_FishGet_C
+      - text: " 冰冷鳟鱼(Chillfin Trout)"
+  Item_FishGet_D:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_FishGet_D
+      - text: " 酥麻鳟鱼(Voltfin Trout)"
+  Item_FishGet_E:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_FishGet_E
+      - text: " 大剑鲤鱼(Mighty Carp)"
+  Item_FishGet_F:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_FishGet_F
+      - text: " 大剑鲷鱼(Mighty Porgy)"
+  Item_FishGet_G:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_FishGet_G
+      - text: " 铠甲鲷鱼(Armored Porgy)"
+  Item_FishGet_H:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_FishGet_H
+      - text: " 铠甲鲤鱼(Armored Carp)"
+  Item_FishGet_I:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_FishGet_I
+      - text: " 生命三文鱼(Hearty Salmon)"
+  Item_FishGet_J:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_FishGet_J
+      - text: " 暖暖鳟鱼(Sizzlefin Trout)"
+  Item_FishGet_K:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_FishGet_K
+      - text: " 生命海螺(Hearty Blueshell Snail)"
+  Item_FishGet_L:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_FishGet_L
+      - text: " 精力鲈鱼(Staminoka Bass)"
+  Item_FishGet_M:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_FishGet_M
+      - text: " 潜行田螺(Sneaky River Snail)"
+  Item_FishGet_X:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_FishGet_X
+      - text: " 潜行鳟鱼(Stealthfin Trout)"
+  Item_FishGet_Z:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_FishGet_Z
+      - text: " 三色鲤鱼(Sanke Carp)"
+  Item_Fruit_A:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Fruit_A
+      - text: " 苹果(Apple)"
+  Item_Fruit_B:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Fruit_B
+      - text: " 草莓(Wildberry)"
+  Item_Fruit_C:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Fruit_C
+      - text: " 酥麻水果(Voltfruit)"
+  Item_Fruit_D:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Fruit_D
+      - text: " 生命榴莲(Hearty Durian)"
+  Item_Fruit_E:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Fruit_E
+      - text: " 速速莲蓬(Fleet-Lotus Seeds)"
+  Item_Fruit_F:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Fruit_F
+      - text: " 冰冷蜜瓜(Hydromelon)"
+  Item_Fruit_G:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Fruit_G
+      - text: " 椰子(Palm Fruit)"
+  Item_Fruit_H:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Fruit_H
+      - text: " 大剑香蕉(Mighty Bananas)"
+  Item_Fruit_I:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Fruit_I
+      - text: " 暖暖草果(Spicy Pepper)"
+  Item_Fruit_J:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Fruit_J
+      - text: " 铠甲南瓜(Fortified Pumpkin)"
+  Item_Fruit_K:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Fruit_K
+      - text: " 橡子(Acorn)"
+  Item_Fruit_L:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Fruit_L
+      - text: " 小鸟的树果(Chickaloo Tree Nut)"
+  Item_InsectGet_K:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_InsectGet_K
+      - text: " 大剑螃蟹(Razorclaw Crab)"
+  Item_InsectGet_O:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_InsectGet_O
+      - text: " 铠甲螃蟹(Ironshell Crab)"
+  Item_InsectGet_Z:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_InsectGet_Z
+      - text: " 精力螃蟹(Bright-Eyed Crab)"
+  Item_Material_01:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Material_01
+      - text: " 蔗糖(Cane Sugar)"
+  Item_Material_02:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Material_02
+      - text: " 鼓隆的调味粉(Goron Spice)"
+  Item_Material_03:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Material_03
+      - text: " 海拉鲁米(Hylian Rice)"
+  Item_Material_04:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Material_04
+      - text: " 禽蛋(Bird Egg)"
+  Item_Material_05:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Material_05
+      - text: " 鲜奶(Fresh Milk)"
+  Item_Material_06:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Material_06
+      - text: " 山羊黄油(Goat Butter)"
+  Item_Material_07:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Material_07
+      - text: " 塔邦挞小麦(Tabantha Wheat)"
+  Item_Material_08:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Material_08
+      - text: " 怪物精华(Monster Extract)"
+  Item_Meat_01:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Meat_01
+      - text: " 兽肉(Raw Meat)"
+  Item_Meat_02:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Meat_02
+      - text: " 高级兽肉(Raw Prime Meat)"
+  Item_Meat_06:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Meat_06
+      - text: " 禽肉(Raw Bird Drumstick)"
+  Item_Meat_07:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Meat_07
+      - text: " 高级禽肉(Raw Bird Thigh)"
+  Item_Meat_11:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Meat_11
+      - text: " 顶级兽肉(Raw Gourmet Meat)"
+  Item_Meat_12:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Meat_12
+      - text: " 顶级禽肉(Raw Whole Bird)"
+  Item_MushroomGet_D:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_MushroomGet_D
+      - text: " 速速蘑菇(Rushroom)"
+  Item_Mushroom_A:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Mushroom_A
+      - text: " 精力蘑菇(Stamella Shroom)"
+  Item_Mushroom_B:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Mushroom_B
+      - text: " 冰冷蘑菇(Chillshroom)"
+  Item_Mushroom_C:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Mushroom_C
+      - text: " 暖暖蘑菇(Sunshroom)"
+  Item_Mushroom_E:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Mushroom_E
+      - text: " 海拉鲁蘑菇(Hylian Shroom)"
+  Item_Mushroom_F:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Mushroom_F
+      - text: " 生命松露(Hearty Truffle)"
+  Item_Mushroom_H:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Mushroom_H
+      - text: " 酥麻蘑菇(Zapshroom)"
+  Item_Mushroom_J:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Mushroom_J
+      - text: " 潜行蘑菇(Silent Shroom)"
+  Item_Mushroom_L:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Mushroom_L
+      - text: " 大剑蘑菇(Razorshroom)"
+  Item_Mushroom_M:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Mushroom_M
+      - text: " 铠甲蘑菇(Ironshroom)"
+  Item_Mushroom_N:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Mushroom_N
+      - text: " 大个生命松露(Big Hearty Truffle)"
+  Item_Mushroom_O:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Mushroom_O
+      - text: "毅力蘑菇(Endura Shroom)"
+  Item_Ore_A:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Ore_A
+      - text: " 钻石(Diamond)"
+  Item_Ore_B:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Ore_B
+      - text: " 红宝石(Ruby)"
+  Item_Ore_C:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Ore_C
+      - text: " 蓝宝石(Sapphire)"
+  Item_Ore_D:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Ore_D
+      - text: " 黄玉(Topaz)"
+  Item_Ore_E:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Ore_E
+      - text: " 蛋白石(Opal)"
+  Item_Ore_F:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Ore_F
+      - text: " 琥珀(Amber)"
+  Item_Ore_G:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Ore_G
+      - text: " 夜光石(Luminous Stone)"
+  Item_Ore_H:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Ore_H
+      - text: " 岩盐(Rock Salt)"
+  Item_Ore_I:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Ore_I
+      - text: " 打火石(Flint)"
+  Item_Ore_J:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Ore_J
+      - text: " 星星碎片(Star Fragment)"
+  Item_PlantGet_A:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_PlantGet_A
+      - text: " 海拉鲁草(Hyrule Herb)"
+  Item_PlantGet_B:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_PlantGet_B
+      - text: " 生命小萝卜(Hearty Radish)"
+  Item_PlantGet_C:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_PlantGet_C
+      - text: " 生命大萝卜(Big Hearty Radish)"
+  Item_PlantGet_E:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_PlantGet_E
+      - text: " 冰冷香草(Cool Safflina)"
+  Item_PlantGet_F:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_PlantGet_F
+      - text: " 暖暖香草(Warm Safflina)"
+  Item_PlantGet_G:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_PlantGet_G
+      - text: " 大剑草(Mighty Thistle)"
+  Item_PlantGet_H:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_PlantGet_H
+      - text: " 铠甲草(Armoranth)"
+  Item_PlantGet_I:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_PlantGet_I
+      - text: " 潜行草(Blue Nightshade)"
+  Item_PlantGet_J:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_PlantGet_J
+      - text: " 静谧公主(Silent Princess)"
+  Item_PlantGet_L:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_PlantGet_L
+      - text: " 酥麻香草(Electric Safflina)"
+  Item_PlantGet_M:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_PlantGet_M
+      - text: " 速速胡萝卜(Swift Carrot)"
+  Item_PlantGet_O:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_PlantGet_O
+      - text: " 速速紫罗兰(Swift Violet)"
+  Item_PlantGet_Q:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_PlantGet_Q
+      - text: " 毅力胡萝卜(Endura Carrot)"
+  Item_RoastFish_01:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_RoastFish_01
+      - text: " 烤鲈鱼(Roasted Bass)"
+  Item_RoastFish_02:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_RoastFish_02
+      - text: " 烤生命鲈鱼(Roasted Hearty Bass)"
+  Item_RoastFish_03:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_RoastFish_03
+      - text: " 烤鳟鱼(Roasted Trout)"
+  Item_RoastFish_04:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_RoastFish_04
+      - text: " 烤生命三文鱼(Roasted Hearty Salmon)"
+  Item_RoastFish_07:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_RoastFish_07
+      - text: " 烤鲤鱼(Roasted Carp)"
+  Item_RoastFish_09:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_RoastFish_09
+      - text: " 烤鲷鱼(Roasted Porgy)"
+  Item_RoastFish_11:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_RoastFish_11
+      - text: " 烤生命海螺(Blueshell Escargot)"
+  Item_RoastFish_13:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_RoastFish_13
+      - text: " 烤潜行田螺(Sneaky River Escargot)"
+  Item_RoastFish_15:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_RoastFish_15
+      - text: " 烤螃蟹(Blackened Crab)"
+  Item_Roast_01:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Roast_01
+      - text: " 烤兽肉(Seared Steak)"
+  Item_Roast_02:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Roast_02
+      - text: " 烤禽肉(Roasted Bird Drumstick)"
+  Item_Roast_03:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Roast_03
+      - text: " 烤苹果(Baked Apple)"
+  Item_Roast_04:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Roast_04
+      - text: " 烤精力蘑菇(Toasty Stamella Shroom)"
+  Item_Roast_05:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Roast_05
+      - text: " 烤生命松露(Toasted Hearty Truffle)"
+  Item_Roast_06:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Roast_06
+      - text: " 烤海拉鲁蘑菇(Toasty Hylian Shroom)"
+  Item_Roast_07:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Roast_07
+      - text: " 烤草莓(Roasted Wildberry)"
+  Item_Roast_08:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Roast_08
+      - text: " 烤酥麻水果(Roasted Voltfruit)"
+  Item_Roast_09:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Roast_09
+      - text: " 烤生命榴莲(Roasted Hearty Durian)"
+  Item_Roast_10:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Roast_10
+      - text: " 烤椰子(Baked Palm Fruit)"
+  Item_Roast_11:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Roast_11
+      - text: " 烤大剑香蕉(Roasted Mighty Bananas)"
+  Item_Roast_12:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Roast_12
+      - text: " 烤冰冷蜜瓜(Roasted Hydromelon)"
+  Item_Roast_13:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Roast_13
+      - text: " 烤暖暖草果(Charred Pepper)"
+  Item_Roast_15:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Roast_15
+      - text: " 烤铠甲南瓜(Baked Fortified Pumpkin)"
+  Item_Roast_16:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Roast_16
+      - text: " 烤速速莲蓬(Roasted Lotus Seeds)"
+  Item_Roast_18:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Roast_18
+      - text: " 烤小萝卜(Roasted Radish)"
+  Item_Roast_19:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Roast_19
+      - text: " 烤大萝卜(Roasted Big Radish)"
+  Item_Roast_24:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Roast_24
+      - text: " 烤速速胡萝卜(Roasted Swift Carrot)"
+  Item_Roast_27:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Roast_27
+      - text: " 烤大剑草(Roasted Mighty Thistle)"
+  Item_Roast_28:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Roast_28
+      - text: " 烤铠甲草(Roasted Armoranth)"
+  Item_Roast_31:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Roast_31
+      - text: " 烤冰冷蘑菇(Toasty Chillshroom)"
+  Item_Roast_32:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Roast_32
+      - text: " 烤暖暖蘑菇(Toasty Sunshroom)"
+  Item_Roast_33:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Roast_33
+      - text: " 烤酥麻蘑菇(Toasty Zapshroom)"
+  Item_Roast_36:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Roast_36
+      - text: " 烤速速蘑菇(Toasty Rushroom)"
+  Item_Roast_37:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Roast_37
+      - text: " 烤大剑蘑菇(Toasty Razorshroom)"
+  Item_Roast_38:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Roast_38
+      - text: " 烤铠甲蘑菇(Toasty Ironshroom)"
+  Item_Roast_39:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Roast_39
+      - text: " 烤潜行蘑菇(Toasty Silent Shroom)"
+  Item_Roast_40:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Roast_40
+      - text: " 烤高级兽肉(Seared Prime Steak)"
+  Item_Roast_41:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Roast_41
+      - text: " 烤高级禽肉(Roasted Bird Thigh)"
+  Item_Roast_45:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Roast_45
+      - text: " 烤顶级兽肉(Seared Gourmet Steak)"
+  Item_Roast_46:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Roast_46
+      - text: " 烤顶级禽肉(Roasted Whole Bird)"
+  Item_Roast_48:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Roast_48
+      - text: " 烤橡子(Roasted Acorn)"
+  Item_Roast_49:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Roast_49
+      - text: " 烤大个生命松露(Toasted Big Hearty Truffle)"
+  Item_Roast_50:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Roast_50
+      - text: " 烤毅力胡萝卜(Roasted Endura Carrot)"
+  Item_Roast_51:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Roast_51
+      - text: " 烤蛋(Campfire Egg)"
+  Item_Roast_52:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Roast_52
+      - text: " 烤树果(Roasted Tree Nut)"
+  Item_Roast_53:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Item_Roast_53
+      - text: " 烤毅力蘑菇(Toasty Endura Shroom)"
+  Obj_FireWoodBundle:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Have_Obj_FireWoodBundle
+      - text: " 木柴捆(Wood)"
+  Weapon_Bow_001:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "旅人之弓(Traveler's Bow)"
+  Weapon_Bow_002:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 士兵之弓(Soldier’s Bow)
+  Weapon_Bow_003:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 尖刺波克弓(Spiked Boko Bow)
+  Weapon_Bow_004:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 波克弓(Boko Bow)
+  Weapon_Bow_006:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 蜥蜴弓(Lizal Bow)
+  Weapon_Bow_009:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 莱尼尔之弓(Lynel Bow)
+  Weapon_Bow_011:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 强力蜥蜴弓(Strengthened Lizal Bow)
+  Weapon_Bow_013:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "森民之弓(Forest Dweller's Bow)"
+  Weapon_Bow_014:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 卓拉之弓(Silver Bow)
+  Weapon_Bow_015:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 格鲁德之弓(Golden Bow)
+  Weapon_Bow_016:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 飞燕弓(Swallow Bow)
+  Weapon_Bow_017:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 游隼弓(Falcon Bow)
+  Weapon_Bow_023:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 古代兵装·弓(Ancient Bow)
+  Weapon_Bow_026:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 兽王弓(Mighty Lynel Bow)
+  Weapon_Bow_027:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 龙骨波克弓(Dragon Bone Boko Bow)
+  Weapon_Bow_028:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 大鹫弓(Great Eagle Bow)
+  Weapon_Bow_029:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 一心之弓(Phrenic Bow)
+  Weapon_Bow_030:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 钢铁蜥蜴弓(Steel Lizal Bow)
+  Weapon_Bow_032:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 兽神弓(Savage Lynel Bow)
+  Weapon_Bow_033:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "近卫之弓(Royal Guard's Bow)"
+  Weapon_Bow_035:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "骑士之弓(Knight's Bow)"
+  Weapon_Bow_036:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 王族之弓(Royal Bow)
+  Weapon_Bow_038:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 木之弓(Wooden Bow)
+  Weapon_Bow_040:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 二连弓(Duplex Bow)
+  Weapon_Bow_072:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 黄昏之弓(Twilight Bow)
+  Weapon_Lsword_001:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "旅人双手剑(Traveler's Claymore)"
+  Weapon_Lsword_002:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "士兵双手剑(Soldier's Claymore)"
+  Weapon_Lsword_003:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "骑士双手剑(Knight's Claymore)"
+  Weapon_Lsword_004:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 波克棍(Boko Bat)
+  Weapon_Lsword_005:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 尖刺波克棍(Spiked Boko Bat)
+  Weapon_Lsword_006:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 龙骨波克棍(Dragonbone Boko Bat)
+  Weapon_Lsword_010:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 莫力布林棍(Moblin Club)
+  Weapon_Lsword_011:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 尖刺莫力布林棍(Spiked Moblin Club)
+  Weapon_Lsword_012:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 龙骨莫力布林棍(Dragonbone Moblin Club)
+  Weapon_Lsword_013:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 守护者之斧(Ancient Battle Axe)
+  Weapon_Lsword_014:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 守护者之斧+(Ancient Battle Axe+)
+  Weapon_Lsword_015:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 守护者之斧++(Ancient Battle Axe++)
+  Weapon_Lsword_016:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 莱尼尔大剑(Lynel Crusher)
+  Weapon_Lsword_017:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 兽王大剑(Mighty Lynel Crusher)
+  Weapon_Lsword_018:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 兽神大剑(Savage Lynel Crusher)
+  Weapon_Lsword_019:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 莫力布林的骨头(Moblin Arm)
+  Weapon_Lsword_020:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 生锈的双手剑(Rusty Claymore)
+  Weapon_Lsword_023:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 古代兵装·大剑(Ancient Bladesaw)
+  Weapon_Lsword_024:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 王族双手剑(Royal Claymore)
+  Weapon_Lsword_027:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 卓拉大剑(Silver Longsword)
+  Weapon_Lsword_029:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 格鲁德双手剑(Golden Claymore)
+  Weapon_Lsword_030:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 达人斧头(Double Axe)
+  Weapon_Lsword_031:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 铁锤(Iron Sledgehammer)
+  Weapon_Lsword_032:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "樵夫斧头(Woodcutter's Axe)"
+  Weapon_Lsword_033:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 火焰大剑(Great Flameblade)
+  Weapon_Lsword_034:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 冰雪大剑(Great Frostblade)
+  Weapon_Lsword_035:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 雷电大剑(Great Thunderblade)
+  Weapon_Lsword_036:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 劈石剑(Cobble Crusher)
+  Weapon_Lsword_037:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 碎岩剑(Stone Smasher)
+  Weapon_Lsword_038:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 船桨(Boat Oar)
+  Weapon_Lsword_041:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 戒心长刀(Eightfold Longblade)
+  Weapon_Lsword_045:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 农用锄头(Farming Hoe)
+  Weapon_Lsword_047:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "近卫双手剑(Royal Guard's Claymore)"
+  Weapon_Lsword_051:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 大飞旋镖(Giant Boomerang)
+  Weapon_Lsword_054:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 碎岩巨剑(Boulder Breaker)
+  Weapon_Lsword_055:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 静心大剑(Edge of Duality)
+  Weapon_Lsword_056:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 克洛格的团扇(Korok Leaf)
+  Weapon_Lsword_057:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 六贤者之剑(Sword of the Six Sages)
+  Weapon_Lsword_059:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "大鼓隆之剑(Biggoron's Sword)"
+  Weapon_Lsword_060:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 鬼神大剑(Fierce Deity Sword)
+  Weapon_Lsword_074:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 斩风刀(Windcleaver)
+  Weapon_Shield_001:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 木盾(Wooden Shield)
+  Weapon_Shield_002:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 士兵盾(Soldier’s Shield)
+  Weapon_Shield_003:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "骑士盾(Knight's Shield)"
+  Weapon_Shield_004:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 波克盾(Boko Shield)
+  Weapon_Shield_005:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 尖刺波克盾(Spiked Boko Shield)
+  Weapon_Shield_006:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 龙骨波克盾(Dragonbone Boko Shield)
+  Weapon_Shield_007:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 蜥蜴盾(Lizal Shield)
+  Weapon_Shield_008:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 强力蜥蜴盾(Reinforced Lizal Shield)
+  Weapon_Shield_009:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 钢铁蜥蜴盾(Steel Lizal Shield)
+  Weapon_Shield_013:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 守护者之盾(Guardian Shield)
+  Weapon_Shield_014:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 守护者之盾+(Guardian Shield+)
+  Weapon_Shield_015:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 守护者之盾++(Guardian Shield++)
+  Weapon_Shield_016:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 莱尼尔之盾(Lynel Shield)
+  Weapon_Shield_017:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 兽王盾(Mighty Lynel Shield)
+  Weapon_Shield_018:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 兽神盾(Savage Lynel Shield)
+  Weapon_Shield_021:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 生锈的盾(Rusty Shield)
+  Weapon_Shield_022:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 王族盾(Royal Shield)
+  Weapon_Shield_023:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "森民盾(Forest Dweller's Shield)"
+  Weapon_Shield_025:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 卓拉盾(Silver Shield)
+  Weapon_Shield_026:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 格鲁德盾(Gerudo Shield)
+  Weapon_Shield_030:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 海利亚盾(Hylian Shield)
+  Weapon_Shield_031:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "兔纹盾(Hunter's Shield)"
+  Weapon_Shield_032:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "鱼纹盾(Fisherman's Shield)"
+  Weapon_Shield_033:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "近卫盾(Royal Guard's Shield)"
+  Weapon_Shield_034:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 兽纹盾(Emblazoned Shield)
+  Weapon_Shield_035:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "旅人盾(Traveler's Shield)"
+  Weapon_Shield_036:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 太阳盾(Radiant Shield)
+  Weapon_Shield_037:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 七宝盾(Daybreaker)
+  Weapon_Shield_038:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 古代兵装·盾(Ancient Shield)
+  Weapon_Shield_040:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 锅盖(Pot Lid)
+  Weapon_Shield_041:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "护心盾(Shield of the Mind's Eye)"
+  Weapon_Shield_042:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 风筝盾(Kite Shield)
+  Weapon_Shield_057:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "勇者盾(Hero's Shield)"
+  Weapon_Spear_001:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "旅人之枪(Traveler's Spear)"
+  Weapon_Spear_002:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "士兵之枪(Soldier's Spear)"
+  Weapon_Spear_003:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "骑士之枪(Knight's Halberd)"
+  Weapon_Spear_004:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 波克枪(Boko Spear)
+  Weapon_Spear_005:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 尖刺波克枪(Spiked Boko Spear)
+  Weapon_Spear_006:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 龙骨波克枪(Dragonbone Boko Spear)
+  Weapon_Spear_007:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 蜥蜴枪(Lizal Spear)
+  Weapon_Spear_008:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 强力蜥蜴枪(Enhanced Lizal Spear)
+  Weapon_Spear_009:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 双头蜥蜴枪(Forked Lizal Spear)
+  Weapon_Spear_010:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 莫力布林枪(Moblin Spear)
+  Weapon_Spear_011:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 尖刺莫力布林枪(Spiked Moblin Spear)
+  Weapon_Spear_012:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 龙骨莫力布林枪(Dragonbone Moblin Spear)
+  Weapon_Spear_013:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 守护者之枪(Guardian Spear)
+  Weapon_Spear_014:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 守护者之枪+(Guardian Spear+)
+  Weapon_Spear_015:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 守护者之枪++(Guardian Spear++)
+  Weapon_Spear_016:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 莱尼尔之枪(Lynel Spear)
+  Weapon_Spear_017:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 兽王枪(Mighty Lynel Spear)
+  Weapon_Spear_018:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 兽神枪(Savage Lynel Spear)
+  Weapon_Spear_021:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 生锈的枪(Rusty Halberd)
+  Weapon_Spear_022:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "农用钉耙(Farmer's Pitchfork)"
+  Weapon_Spear_023:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 古代兵装·枪(Ancient Spear)
+  Weapon_Spear_024:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 王族之枪(Royal Halberd)
+  Weapon_Spear_025:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "森民枪(Forest Dweller's Spear)"
+  Weapon_Spear_027:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 卓拉之枪(Zora Spear)
+  Weapon_Spear_028:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 银鳞之枪(Silverscale Spear)
+  Weapon_Spear_029:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 格鲁德之枪(Gerudo Spear)
+  Weapon_Spear_030:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 投枪(Throwing Spear)
+  Weapon_Spear_031:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 削岩棒
+  Weapon_Spear_032:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 斩风羽枪(Feathered Spear)
+  Weapon_Spear_033:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 火焰枪(Flamespear)
+  Weapon_Spear_034:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 冰雪枪(Frostspear)
+  Weapon_Spear_035:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 雷电枪(Thunderspear)
+  Weapon_Spear_036:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 木拖把(Wooden Mop)
+  Weapon_Spear_037:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 蜿蜒之枪(Serpentine Spear)
+  Weapon_Spear_038:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 渔夫的鱼叉(Fishing Harpoon)
+  Weapon_Spear_047:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "近卫之枪(Royal Guard's Spear)"
+  Weapon_Spear_049:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 祭祀之枪(Ceremonial Trident)
+  Weapon_Spear_050:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 光鳞之枪(Lightscale Trident)
+  Weapon_Sword_001:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "旅人之剑(Traveler's Sword)"
+  Weapon_Sword_002:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "士兵之剑(Soldier's Broadsword)"
+  Weapon_Sword_003:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "骑士之剑(Knight's Broadsword)"
+  Weapon_Sword_004:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 波克棒(Boko Club)
+  Weapon_Sword_005:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 尖刺波克棒(Spiked Boko Club)
+  Weapon_Sword_006:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 龙骨波克棒(Dragonbone Boko Club)
+  Weapon_Sword_007:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 蜥蜴飞旋镖(Lizal Boomerang)
+  Weapon_Sword_008:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 强力蜥蜴飞旋镖(Lizal Forked Boomerang)
+  Weapon_Sword_009:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 三叉蜥蜴飞旋镖(Lizal Tri-Boomerang)
+  Weapon_Sword_013:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 守护者之剑(Guardian Sword)
+  Weapon_Sword_014:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 守护者之剑+(Guardian Sword+)
+  Weapon_Sword_015:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 守护者之剑++(Guardian Sword++)
+  Weapon_Sword_016:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 莱尼尔之剑(Lynel Sword)
+  Weapon_Sword_017:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 兽王剑(Mighty Lynel Sword)
+  Weapon_Sword_018:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 兽神剑(Savage Lynel Sword)
+  Weapon_Sword_019:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 波克布林的骨头(Bokoblin Arm)
+  Weapon_Sword_020:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 蜥蜴战士的骨头(Lizalfos Arm)
+  Weapon_Sword_021:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 生锈的剑(Rusty Broadsword)
+  Weapon_Sword_022:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 木汤勺(Soup Ladle)
+  Weapon_Sword_023:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 古代兵装·剑(Ancient Short Sword)
+  Weapon_Sword_024:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 王族之剑(Royal Broadsword)
+  Weapon_Sword_025:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "森民剑(Forest Dweller's Sword)"
+  Weapon_Sword_027:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 卓拉之剑(Zora Sword)
+  Weapon_Sword_029:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 格鲁德匕首(Gerudo Scimitar)
+  Weapon_Sword_030:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 月光匕首(Moonlight Scimitar)
+  Weapon_Sword_031:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 斩风羽剑(Feathered Edge)
+  Weapon_Sword_033:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 火焰剑(Flameblade)
+  Weapon_Sword_034:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 冰冻剑(Frostblade)
+  Weapon_Sword_035:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 雷电剑(Thunderblade)
+  Weapon_Sword_040:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 弹簧锤(Spring-Loaded Hammer)
+  Weapon_Sword_041:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 戒心小刀(Eightfold Blade)
+  Weapon_Sword_043:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 火把(Torch)
+  Weapon_Sword_044:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 木枝(Tree Branch)
+  Weapon_Sword_047:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "近卫之剑(Royal Guard's Sword)"
+  Weapon_Sword_048:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 陨石杖(Meteor Rod)
+  Weapon_Sword_049:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 冰冻杖(Blizzard Rod)
+  Weapon_Sword_050:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 雷电杖(Thunderstorm Rod)
+  Weapon_Sword_051:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 飞旋镖
+  Weapon_Sword_052:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 七宝匕首(Scimitar of the Seven)
+  Weapon_Sword_053:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 夺命镰刀(Vicious Sickle)
+  Weapon_Sword_057:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 女神之剑(Goddess Sword)
+  Weapon_Sword_058:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 长剑(Sword)
+  Weapon_Sword_059:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 海风飞旋镖(Sea-Breeze Boomerang)
+  Weapon_Sword_060:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 火焰杖
+  Weapon_Sword_061:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 冰雪杖
+  Weapon_Sword_062:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 电击杖
+  Weapon_Sword_073:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 恶魔圆刃
+

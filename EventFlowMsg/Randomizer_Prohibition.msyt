@@ -1,0 +1,85 @@
+---
+group_count: 20
+atr1_unknown: 0
+entries:
+  All_OFF:
+    attributes: EventSystemActor
+    contents:
+      - text: 所有禁令现已禁用
+  All_ON:
+    attributes: EventSystemActor
+    contents:
+      - text: 所有禁令现已开启
+  Carry_OFF:
+    attributes: EventSystemActor
+    contents:
+      - text: 又可以手持了
+  Carry_ON:
+    attributes: EventSystemActor
+    contents:
+      - text: 现在禁止手持
+  Eat_OFF:
+    attributes: EventSystemActor
+    contents:
+      - text: 又可以食用了
+  Eat_ON:
+    attributes: EventSystemActor
+    contents:
+      - text: 现在禁止食用
+  EnterDungeon_OFF:
+    attributes: EventSystemActor
+    contents:
+      - text: 又可以进入神庙了
+  EnterDungeon_ON:
+    attributes: EventSystemActor
+    contents:
+      - text: 现在禁止进入神庙
+  HeroSoul_OFF:
+    attributes: EventSystemActor
+    contents:
+      - text: 又可以使用英杰技能了
+  HeroSoul_ON:
+    attributes: EventSystemActor
+    contents:
+      - text: 现在禁止使用英杰技能
+  KillTime_OFF:
+    attributes: EventSystemActor
+    contents:
+      - text: 又可以消磨时间了
+  KillTime_ON:
+    attributes: EventSystemActor
+    contents:
+      - text: 现在禁止消磨时间
+  Map_OFF:
+    attributes: EventSystemActor
+    contents:
+      - text: 又可以查看地图了
+  Map_ON:
+    attributes: EventSystemActor
+    contents:
+      - text: 现在禁止查看地图
+  Save_OFF:
+    attributes: EventSystemActor
+    contents:
+      - text: 又可以保存了
+  Save_ON:
+    attributes: EventSystemActor
+    contents:
+      - text: 现在禁止保存
+  Use_OFF:
+    attributes: EventSystemActor
+    contents:
+      - text: 又可以饮用了
+  Use_ON:
+    attributes: EventSystemActor
+    contents:
+      - text: 现在禁止饮用
+  Warp_OFF:
+    attributes: EventSystemActor
+    contents:
+      - text: 又可以传送了
+  Warp_ON:
+    attributes: EventSystemActor
+    contents:
+      - text: 现在禁止传送
+

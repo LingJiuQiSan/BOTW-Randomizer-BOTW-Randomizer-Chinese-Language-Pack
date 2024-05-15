@@ -1,0 +1,14 @@
+---
+group_count: 79
+atr1_unknown: 0
+entries:
+  Weapon_Sword_100_Desc:
+    contents:
+      - text: "一把由坚韧的矿石制成，形状像问号的神秘武器。\n它拥有呼唤随机mod的力量。\n装备它以与随机mod对话。"
+  Weapon_Sword_100_Name:
+    contents:
+      - text: 随机mod管理权杖
+  Weapon_Sword_100_PictureBook:
+    contents:
+      - text: "一把由坚韧的矿石制成，形状像问号的神秘武器。\n它拥有呼唤随机mod的力量。\n装备它以与随机mod对话。"
+

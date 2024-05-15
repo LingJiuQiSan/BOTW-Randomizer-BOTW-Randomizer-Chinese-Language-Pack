@@ -1,0 +1,51 @@
+---
+group_count: 101
+atr1_unknown: 0
+entries:
+  Item_FD_Desc:
+    contents:
+      - text: "设置随机mod的循环时间。\n标准是30帧。\n越低越快，反之亦然。\n当前帧延迟："
+      - control:
+          kind: set_colour
+          colour: light_green1
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_Cycle_AmountFromShopForSpeed
+      - text: "帧"
+  Item_FD_Name:
+    contents:
+      - text: 帧延迟
+  Item_FD_PictureBook:
+    contents:
+      - text: "设置随机mod的循环时间。\n标准是30帧。\n越低越快，反之亦然。\n当前帧延迟："
+      - control:
+          kind: set_colour
+          colour: light_green1
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_Cycle_AmountFromShopForSpeed
+      - text: "帧"
+  Item_Material_DY_Desc:
+    contents:
+      - text: "沙漠耀西的宝贵的蛋之一。\nI这是一个值得保留的珍贵的宝物。\n有人说他吃下他就会获得正面效果并且能卖出很高的价格。\n所以请明智地使用它。"
+  Item_Material_DY_Name:
+    contents:
+      - text: 耀西蛋
+  Item_RG_Desc:
+    contents:
+      - text: 通过购买它们来设置目标的数量。
+  Item_RG_Name:
+    contents:
+      - text: 目标数量
+  Item_RG_PictureBook:
+    contents:
+      - text: 通过购买它们来设置目标的数量。
+  Item_SkyviewEgg_Desc:
+    contents:
+      - text: "一个能在天际神殿发现的稀有的蛋，\n请查看由Waikuteru制作的The Lost Records DLC模组。谢谢你！\n"
+  Item_SkyviewEgg_Name:
+    contents:
+      - text: 天际蛋
+

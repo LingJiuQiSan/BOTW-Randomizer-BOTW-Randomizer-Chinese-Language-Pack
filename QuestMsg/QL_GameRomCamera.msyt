@@ -1,0 +1,26 @@
+---
+group_count: 7
+atr1_unknown: 4
+entries:
+  QL_GameRomCamera_Armor:
+    contents:
+      - text: 盔甲
+  QL_GameRomCamera_Dish:
+    contents:
+      - text: 菜肴
+  QL_GameRomCamera_Item:
+    contents:
+      - text: 物品
+  QL_GameRomCamera_KeyItem:
+    contents:
+      - text: 关键物品
+  QL_GameRomCamera_Name:
+    contents:
+      - text: 随机mod任务系统
+  QL_GameRomCamera_Staff:
+    contents:
+      - text: 管理权杖
+  QL_GameRomCamera_Weapon:
+    contents:
+      - text: 武器
+

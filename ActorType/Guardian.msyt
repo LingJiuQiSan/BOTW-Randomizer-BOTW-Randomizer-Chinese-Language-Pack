@@ -1,0 +1,17 @@
+---
+group_count: 7
+atr1_unknown: 0
+entries:
+  Enemy_Guardian_A_Waikuteru_Fixed_Moss_Name:
+    contents:
+      - text: Wächter-Wrack
+  Enemy_Guardian_A_Waikuteru_Fixed_Moss_PictureBook:
+    contents:
+      - text: "Im antiken Hyrule mit Shiekah-Technologie\nzum Kampf gegen Ganon konzipiertes\nWaffensystem. Viele wurden vor 100 Jahren\nzerstört und blieben der Verwitterung\npreisgegeben in der Landschaft liegen. Einige\ndavon erwachen jedoch aus ihrem Schlaf,\nwenn sich ihnen eine Bedrohung nähert."
+  Enemy_Guardian_A_Waikuteru_Name:
+    contents:
+      - text: Wächter (Läufer)
+  Enemy_Guardian_A_Waikuteru_PictureBook:
+    contents:
+      - text: "Im antiken Hyrule mit Shiekah-Technologie\nkonzipiertes Waffensystem zum Kampf gegen\nGanon. Die sechs Beine verleihen ihm eine\ngrößere Beweglichkeit als jedes anderes\nFortbewegungsmittel, und der Energiestrahl\nbesitzt gewaltige Zerstörungskraft. Durch\nAbtrennen der Beine wird die Mobilität\neingeschränkt."
+

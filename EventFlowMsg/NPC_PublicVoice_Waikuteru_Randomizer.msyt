@@ -1,0 +1,1350 @@
+---
+group_count: 99
+atr1_unknown: 0
+entries:
+  "0000":
+    attributes: ""
+    contents:
+      - text: "我正在购买。"
+  "0001":
+    attributes: ""
+    contents:
+      - text: "我正在售卖。"
+  "0002":
+    attributes: ""
+    contents:
+      - text: 再见。
+  "5500":
+    attributes: ""
+    contents:
+      - text: 是。
+  "5501":
+    attributes: ""
+    contents:
+      - text: 不是。
+  "5502":
+    attributes: ""
+    contents:
+      - text: 耶。
+  "5503":
+    attributes: ""
+    contents:
+      - text: 转念一想……
+  "5507":
+    attributes: ""
+    contents:
+      - text: "我会拿走全部！"
+  "5508":
+    attributes: ""
+    contents:
+      - text: 它们所有！
+  Atacked00:
+    attributes: ""
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 3
+            - 42
+      - text: 那些可怕的怪物消失了吗？
+      - control:
+          kind: pause
+          length: short
+      - text: "\n是吗？"
+      - control:
+          kind: pause
+          length: long
+      - text: "真的吗？真的吗？"
+  Atacked01:
+    attributes: ""
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 3
+            - 42
+      - text: "关于我你不知道的是……"
+      - control:
+          kind: pause
+          length: short
+      - text: "\n我是和平主义者……"
+  Com_Talk_00:
+    attributes: ""
+    contents:
+      - control:
+          kind: sound2
+          unknown:
+            - 4
+            - 205
+      - text: 你想要卖给我什么？
+  Com_Talk_01:
+    attributes: ""
+    contents:
+      - text: "好，我将会给你..."
+      - control:
+          kind: set_colour
+          colour: red
+      - control:
+          kind: variable
+          variable_kind: 18
+          name: ShopTradePrice
+      - text: "卢比"
+      - control:
+          kind: reset_colour
+      - text: "。\n这对你来说怎么样？"
+      - control:
+          kind: choice
+          choice_labels:
+            - 5500
+            - 5501
+          selected_index: 0
+          cancel_index: 1
+          unknown: 6
+  Com_Talk_02:
+    attributes: ""
+    contents:
+      - control:
+          kind: sound2
+          unknown:
+            - 9
+            - 205
+      - text: 很高兴和你做生意！
+      - control:
+          kind: pause
+          length: short
+      - text: "\n还有别的事吗？"
+  Com_Talk_02b:
+    attributes: ""
+    contents:
+      - control:
+          kind: sound2
+          unknown:
+            - 2
+            - 205
+      - text: "太棒了，太棒了！"
+  Com_Talk_02c:
+    attributes: ""
+    contents:
+      - control:
+          kind: sound2
+          unknown:
+            - 9
+            - 205
+      - text: 十分感谢你！
+  Com_Talk_02d:
+    attributes: ""
+    contents:
+      - control:
+          kind: sound2
+          unknown:
+            - 2
+            - 205
+      - text: "谢谢您，我尊贵的顾客！"
+  Com_Talk_04:
+    attributes: ""
+    contents:
+      - control:
+          kind: sound2
+          unknown:
+            - 10
+            - 205
+      - text: 非常棒！
+  Com_Talk_05:
+    attributes: ""
+    contents:
+      - text: "我很乐意买你要卖的任何东西。"
+  Com_Talk_05b:
+    attributes: ""
+    contents:
+      - text: "我对买什么不太挑剔。"
+  Com_Talk_05c:
+    attributes: ""
+    contents:
+      - text: "无论你卖给我什么，我都会简单地打包\n到这里我亲爱的驴子\n然后卖到其他地方！"
+  Com_Talk_05d:
+    attributes: ""
+    contents:
+      - text: "无论你卖给我什么，\n我都会简单地打包到\n我亲爱的驴子上，然后\n卖到其他地方！"
+  Com_Talk_06:
+    attributes: ""
+    contents:
+      - text: 另外你想买什么？
+  Com_Talk_07:
+    attributes: ""
+    contents:
+      - control:
+          kind: sound2
+          unknown:
+            - 10
+            - 205
+      - text: "哦！我很抱歉！"
+      - control:
+          kind: pause
+          length: short
+      - text: "我可以发誓我本来拥有更多，但我似乎已经把这些东西卖出了。"
+  Com_Talk_08:
+    attributes: ""
+    contents:
+      - control:
+          kind: sound2
+          unknown:
+            - 7
+            - 205
+      - text: "哦亲爱的。 真可惜..."
+      - control:
+          kind: pause
+          length: short
+      - text: "你似乎没有\n足够的钱。"
+      - control:
+          kind: pause
+          length: short
+      - text: "你为什么不继续跑，\n多赚一点钱呢？"
+  Com_Talk_09:
+    attributes: ""
+    contents:
+      - control:
+          kind: sound2
+          unknown:
+            - 7
+            - 205
+      - text: "哦亲爱的。 真可惜..."
+      - control:
+          kind: pause
+          length: short
+      - text: "你的背包满了！"
+      - control:
+          kind: pause
+          length: short
+      - text: "你只需要卖给我一些东西，\n或者把它们扔了。"
+  Com_Talk_10:
+    attributes: ""
+    contents:
+      - text: "你想要那个？你知道我\n不退款，对吗？"
+      - control:
+          kind: choice
+          choice_labels:
+            - 5502
+            - 5503
+          selected_index: 0
+          cancel_index: 1
+          unknown: 6
+  Com_Talk_11:
+    attributes: ""
+    contents:
+      - control:
+          kind: sound2
+          unknown:
+            - 2
+            - 205
+      - text: 谢谢你！
+  Com_Talk_11b:
+    attributes: ""
+    contents:
+      - control:
+          kind: sound2
+          unknown:
+            - 9
+            - 205
+      - text: 我非常感激。
+  Com_Talk_11c:
+    attributes: ""
+    contents:
+      - control:
+          kind: sound2
+          unknown:
+            - 2
+            - 205
+      - text: 感谢你和我展开交易。
+  Com_Talk_11d:
+    attributes: ""
+    contents:
+      - control:
+          kind: sound2
+          unknown:
+            - 9
+            - 205
+      - text: "谢谢你，亲爱的玩家！"
+  Com_Talk_12:
+    attributes: ""
+    contents:
+      - control:
+          kind: sound2
+          unknown:
+            - 2
+            - 205
+      - text: "今天会有多少个目标？\n你可以选择"
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 至多100个目标
+      - control:
+          kind: reset_colour
+      - text: "。"
+  Com_Talk_12_Cycle:
+    attributes: ""
+    contents:
+      - control:
+          kind: sound2
+          unknown:
+            - 2
+            - 205
+      - text: 请选择一个帧延迟：
+  Com_Talk_12_CycleCurrentSpeed:
+    attributes: ""
+    contents:
+      - control:
+          kind: sound2
+          unknown:
+            - 2
+            - 205
+      - text: "帧延迟已经被设置为："
+      - control:
+          kind: set_colour
+          colour: light_green1
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_Cycle_AmountFromShopForSpeed
+      - control:
+          kind: reset_colour
+  Com_Talk_13:
+    attributes: ""
+    contents:
+      - text: "啊，十分棒！"
+      - control:
+          kind: pause
+          length: long
+      - text: "另外你想卖给我多少？"
+      - control:
+          kind: choice
+          choice_labels:
+            - 5500
+            - 5508
+            - 5503
+          selected_index: 0
+          cancel_index: 2
+          unknown: 8
+  Com_Talk_14:
+    attributes: ""
+    contents:
+      - text: "让我看看，让我看看……"
+      - control:
+          kind: text_size
+          percent: 80
+      - control:
+          kind: pause
+          length: long
+      - text: "\n哦，数学真麻烦。"
+      - control:
+          kind: text_size
+          percent: 100
+      - text: "\n我将总共给你"
+      - control:
+          kind: set_colour
+          colour: red
+      - control:
+          kind: variable
+          variable_kind: 18
+          name: ShopTradePrice
+      - text: "卢比"
+      - control:
+          kind: reset_colour
+      - text: "。"
+      - control:
+          kind: pause
+          length: short
+      - text: "好吗？"
+      - control:
+          kind: choice
+          choice_labels:
+            - 5500
+            - 5501
+          selected_index: 0
+          cancel_index: 1
+          unknown: 6
+  Com_Talk_15:
+    attributes: ""
+    contents:
+      - control:
+          kind: sound2
+          unknown:
+            - 10
+            - 205
+      - text: "恐怕你看出我在撒谎了。"
+      - control:
+          kind: pause
+          length: short
+      - text: "\n我的企业家朋友，这是\n我根本无法从你那里买到的东西。"
+  Com_Talk_16:
+    attributes: ""
+    contents:
+      - control:
+          kind: sound2
+          unknown:
+            - 7
+            - 205
+      - text: "哦，我的……"
+      - control:
+          kind: pause
+          length: short
+      - text: "嗯，我欣赏这个\n好笑话，"
+      - control:
+          kind: pause
+          length: long
+      - text: "但我不能买你正在穿的衣服。"
+  Com_Talk_20:
+    attributes: ""
+    contents:
+      - control:
+          kind: sound2
+          unknown:
+            - 14
+            - 205
+      - text: 今天这样的天气不适合做生意。
+      - control:
+          kind: pause
+          length: long
+      - text: "\n只有一件事："
+      - control:
+          kind: pause
+          length: short
+      - text: "我一定要拿出\n我的顶级肉类和蘑菇！"
+  Com_Talk_30:
+    attributes: ""
+    contents:
+      - text: "这样总共是"
+      - control:
+          kind: set_colour
+          colour: red
+      - control:
+          kind: variable
+          variable_kind: 18
+          name: ShopTradePrice
+      - text: "卢比"
+      - control:
+          kind: reset_colour
+      - text: "。"
+      - control:
+          kind: pause
+          length: short
+      - text: "\n这很合理，不是吗？"
+      - control:
+          kind: choice
+          choice_labels:
+            - 5502
+            - 5503
+          selected_index: 0
+          cancel_index: 1
+          unknown: 6
+  Com_Talk_31:
+    attributes: ""
+    contents:
+      - text: "啊，真是一个了不起的选择，我的朋友。\n你真的很有眼光。"
+      - control:
+          kind: pause
+          length: short
+      - text: "然后你要多少？"
+      - control:
+          kind: choice
+          choice_labels:
+            - 5502
+            - 5507
+            - 5503
+          selected_index: 0
+          cancel_index: 2
+          unknown: 8
+  Com_Talk_33:
+    attributes: ""
+    contents:
+      - text: "只有一个？ 嗯，这确实\n使数学变得更容易。"
+      - control:
+          kind: pause
+          length: short
+      - text: "那样一共是"
+      - control:
+          kind: set_colour
+          colour: red
+      - control:
+          kind: variable
+          variable_kind: 18
+          name: ShopTradePrice
+      - text: "卢比"
+      - control:
+          kind: reset_colour
+      - text: "。\n我们交易吗》"
+      - control:
+          kind: choice
+          choice_labels:
+            - 5500
+            - 5501
+          selected_index: 0
+          cancel_index: 1
+          unknown: 6
+  Com_Talk_34:
+    attributes: Npc_Kakariko010
+    contents:
+      - text: "你想要它们的全部？\n也许今天我能早点关店！"
+      - control:
+          kind: pause
+          length: longer
+      - text: "那样一共是"
+      - control:
+          kind: set_colour
+          colour: red
+      - control:
+          kind: variable
+          variable_kind: 18
+          name: ShopTradePrice
+      - text: " \n卢比"
+      - control:
+          kind: reset_colour
+      - text: "。这样就可以了吗？"
+      - control:
+          kind: choice
+          choice_labels:
+            - 5500
+            - 5501
+          selected_index: 0
+          cancel_index: 1
+          unknown: 6
+  Com_Talk_35:
+    attributes: Npc_Kakariko010
+    contents:
+      - text: "它们全部？你知道一些\n我不知道的事吗？"
+      - control:
+          kind: pause
+          length: longer
+      - text: "那样总共是\n"
+      - control:
+          kind: set_colour
+          colour: red
+      - control:
+          kind: variable
+          variable_kind: 18
+          name: ShopTradePrice
+      - text: "卢比"
+      - control:
+          kind: reset_colour
+      - text: "。我们交易码？"
+      - control:
+          kind: choice
+          choice_labels:
+            - 5500
+            - 5501
+          selected_index: 0
+          cancel_index: 1
+          unknown: 6
+  Com_Talk_36:
+    attributes: Npc_Kakariko010
+    contents:
+      - control:
+          kind: sound2
+          unknown:
+            - 9
+            - 205
+      - text: "嗯，那就是全部。"
+      - control:
+          kind: pause
+          length: longer
+      - text: "感谢您成为\n如此热情的客户！"
+  Com_Talk_37:
+    attributes: Npc_Kakariko010
+    contents:
+      - control:
+          kind: sound2
+          unknown:
+            - 14
+            - 205
+      - text: "我恐怕我哦现在\n没有任何可以卖的东西！"
+      - control:
+          kind: pause
+          length: longer
+      - text: "如果您愿意，我很乐意\n向您展示我订购的产品。"
+      - control:
+          kind: choice
+          choice_labels:
+            - 5500
+            - 5501
+          selected_index: 0
+          cancel_index: 1
+          unknown: 6
+  Com_Talk_56:
+    attributes: ""
+    contents:
+      - text: "那将会是"
+      - control:
+          kind: set_colour
+          colour: red
+      - control:
+          kind: variable
+          variable_kind: 18
+          name: ShopTradePrice
+      - text: "卢比"
+      - control:
+          kind: reset_colour
+      - text: "。"
+      - control:
+          kind: pause
+          length: short
+      - text: "听起来不错？"
+      - control:
+          kind: choice
+          choice_labels:
+            - 5502
+            - 5503
+          selected_index: 0
+          cancel_index: 1
+          unknown: 6
+  Failed00:
+    attributes: ""
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 9
+            - 12
+      - text: "怪物确实是，呃，怪物，\n不是吗……"
+  Failed01:
+    attributes: ""
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 9
+            - 12
+      - text: "哦，我真的不太喜欢怪物……"
+  GoodBye00:
+    attributes: Npc_Road_024
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 4
+      - text: "当然，当然！"
+      - control:
+          kind: pause
+          length: short
+      - text: "那么也许以后吧。"
+  Guardian00:
+    attributes: Npc_Road_024
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 4
+            - 22
+      - text: "哇哦！"
+      - control:
+          kind: pause
+          length: short
+      - text: "一个"
+      - control:
+          kind: set_colour
+          colour: blue
+      - text: 守护者
+      - control:
+          kind: reset_colour
+      - text: "！"
+      - control:
+          kind: pause
+          length: longer
+      - text: "\n"
+      - control:
+          kind: text_size
+          percent: 80
+      - text: "哦不！为什么我叫的那么大声……"
+      - control:
+          kind: text_size
+          percent: 100
+  MSG_Rane_00:
+    attributes: Npc_Road_024
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 1
+            - 19
+      - text: "……那里，那里，我忠实的驴子。"
+      - control:
+          kind: pause
+          length: short
+      - text: "\n看来我有伴了，不如\n你坐在那里耐心等一会儿吧。\n稍后我们可以去卡卡利科村"
+      - control:
+          kind: pause
+          length: short
+      - text: "\n并且给你找一些美味的胡萝卜老给你吃，\n所以你不必担心。"
+  MSG_Rane_00_1:
+    attributes: Npc_Road_024
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 1
+            - 9
+      - text: "亲爱的驴子，"
+      - control:
+          kind: pause
+          length: short
+      - text: "稍后，我们可以去\n卡卡利科村"
+      - control:
+          kind: pause
+          length: short
+      - text: "并且给你找一些\n美味的胡萝卜给你吃。"
+  MSG_Rane_00_2:
+    attributes: Npc_Road_024
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 11
+            - 6
+      - text: "……现在我们在这有什么？"
+      - control:
+          kind: pause
+          length: short
+      - text: "您能成为最令人愉悦的\n景象...一位顾客吗？"
+  MSG_Rane_01:
+    attributes: Npc_Road_024
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 1
+            - 9
+      - text: "我可爱的驴子，"
+      - control:
+          kind: pause
+          length: short
+      - text: "你做得很好！ 您将获得\n美味的奖励，以蔬菜的形式！"
+  MSG_Rane_01_1:
+    attributes: Npc_Road_024
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 12
+      - text: "很好，我亲爱的驴子。\n我会给你一份蔬菜的快乐。"
+  MSG_Rane_01_2:
+    attributes: Npc_Road_024
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 4
+            - 1
+      - text: 哦！
+      - control:
+          kind: pause
+          length: short
+      - text: "但也许卖掉它们给"
+      - control:
+          kind: pause
+          length: short
+      - text: "\n付费客户会更好，当然。"
+  MSG_Rane_02:
+    attributes: Npc_Road_024
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 4
+      - text: 无疑。
+      - control:
+          kind: pause
+          length: short
+      - text: "您想从这里向东前往卡卡利科村"
+      - control:
+          kind: pause
+          length: short
+      - text: "或者向西前往湖畔驿站。"
+      - control:
+          kind: pause
+          length: short
+  MSG_Rane_02_1:
+    attributes: Npc_Road_024
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 6
+      - text: 向东前往卡卡利科村
+      - control:
+          kind: pause
+          length: short
+      - text: "或者向西前往湖畔驿站。是吗，\n我尊敬的马？"
+  MSG_Rane_02_2:
+    attributes: Npc_Road_024
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 1
+            - 9
+      - text: "那样对吗，"
+      - control:
+          kind: pause
+          length: short
+      - text: "我的驴子！"
+  MSG_Rane_02_3:
+    attributes: Npc_Road_024
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 4
+            - 1
+      - text: "哦，亲爱的。"
+      - control:
+          kind: pause
+          length: short
+      - text: "你不是在问\n方向吗？"
+  MSG_Rane_03:
+    attributes: Npc_Road_024
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 4
+      - text: "你必须知道"
+      - control:
+          kind: pause
+          length: short
+      - text: "烹饪有两个关键\n组成部分："
+      - control:
+          kind: pause
+          length: long
+      - text: "均匀地加热食物并且……\n不要将任何虫子放入其中。"
+  MSG_Rane_03_1:
+    attributes: Npc_Road_024
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 6
+      - text: 正确烹饪的秘诀是均匀加热
+      - control:
+          kind: pause
+          length: short
+      - text: "\n然后不加虫子。是吗，我\n挑剔的朋友？"
+  MSG_Rane_03_2:
+    attributes: Npc_Road_024
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 1
+            - 9
+      - text: "你明白，不是吗，驴子？"
+      - control:
+          kind: pause
+          length: short
+      - text: "\n当然了。你明白我的意思。"
+  MSG_Rane_03_3:
+    attributes: Npc_Road_024
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 4
+            - 1
+      - text: "哦，亲爱的。"
+      - control:
+          kind: pause
+          length: short
+      - text: "你不在问烹饪技巧？"
+  MSG_Rane_04:
+    attributes: Npc_Road_024
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 16
+      - text: "嗯，我的敬业驴子，看来我们终于到达了卡卡利科村了。"
+      - control:
+          kind: pause
+          length: long
+      - text: "\n我很想开店，但首先...\n给我亲爱的驴子吃一顿小晚餐。"
+      - control:
+          kind: pause
+          length: short
+      - text: "\n一些蔬菜，岩盐和牛脑来制作\n美味的蔬菜牛奶汤。"
+  MSG_Rane_04_1:
+    attributes: Npc_Road_024
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 16
+      - text: "现在我们已经到达了卡卡利科村，\n我会用一些岩盐和牛奶为我的驴子做\n一些蔬菜奶油汤。"
+  Near00:
+    attributes: Npc_Road_024
+    contents:
+      - control:
+          kind: sound2
+          unknown:
+            - 24
+            - 205
+      - text: "好好相处吧，小驴子……"
+  Near01:
+    attributes: Npc_Road_024
+    contents:
+      - control:
+          kind: sound2
+          unknown:
+            - 24
+            - 205
+      - text: 爱我的驴。
+  Near02:
+    attributes: Npc_Road_024
+    contents:
+      - control:
+          kind: sound2
+          unknown:
+            - 24
+            - 205
+      - text: "我是一头驴。"
+  Near03:
+    attributes: Npc_Road_024
+    contents:
+      - control:
+          kind: sound2
+          unknown:
+            - 24
+            - 205
+      - text: "带着我的驴去旅行。"
+  Near04:
+    attributes: Npc_Road_024
+    contents:
+      - text: "我的驴子都湿透了"
+  Rest_00:
+    attributes: Npc_Road_024
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 11
+            - 16
+      - text: "现在，这是一个很长的故事，但是"
+      - control:
+          kind: pause
+          length: short
+      - text: "我和我的驴子\n相遇的方式……"
+      - control:
+          kind: pause
+          length: long
+      - text: " 嗯……\n\n"
+      - control:
+          kind: sound
+          unknown:
+            - 1
+            - 9
+      - text: "我不可能公正地对待它，所以\n你不用介意。"
+  Rest_01:
+    attributes: Npc_Road_024
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 11
+            - 16
+      - text: "一想到当时的情况，\n我就热泪盈眶。"
+      - control:
+          kind: pause
+          length: short
+      - text: "这让我和我忠实的\n驴子走到了一起。"
+      - control:
+          kind: pause
+          length: long
+      - text: "\n"
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 1
+      - text: "哦，你别介意我的胡言乱语。"
+      - control:
+          kind: pause
+          length: short
+      - text: "\n我无意用我的故事\n让你感到无聊。"
+  Rest_02:
+    attributes: Npc_Road_024
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 11
+            - 16
+      - text: "雨只是云彩告诉你：\n嘿，朋友，是时候休息一下了。"
+      - control:
+          kind: pause
+          length: short
+      - text: "\n我和我的驴子是这么想的。"
+  RetMSG_Rane_00:
+    attributes: Npc_Road_024
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 4
+      - text: "这？ 哦，这就是湿地驿站。"
+      - control:
+          kind: pause
+          length: long
+      - text: "不，这不太正确。"
+      - control:
+          kind: pause
+          length: short
+      - text: "这是...\n湿地驿站。没错。\n驿站是做饭"
+      - control:
+          kind: pause
+          length: short
+      - text: "或者酿药的好地方。\n我的驴子确实喜欢我的烹饪手艺。"
+  RetMSG_Rane_00_1:
+    attributes: Npc_Road_024
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 16
+      - text: "噢，看看时间。 也许我最好\n在湿地驿站停下来"
+      - control:
+          kind: pause
+          length: short
+      - text: "并准备晚餐——以及一两剂药。"
+  RetMSG_Rane_01:
+    attributes: Npc_Road_024
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 4
+      - text: "哦，亲爱的。"
+      - control:
+          kind: pause
+          length: short
+      - text: "你问为什么要做饭？"
+      - control:
+          kind: pause
+          length: long
+      - text: "难道您不知道吃\n生食会导致食物中毒吗？"
+  RetMSG_Rane_01_1:
+    attributes: Npc_Road_024
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 1
+            - 9
+      - text: "正确地烹调食物，"
+      - control:
+          kind: pause
+          length: short
+      - text: "否则你会发现自己\n严重食物中毒。"
+      - control:
+          kind: pause
+          length: longer
+      - text: "你不同意吗，驴子？"
+  RetMSG_Rane_01_2:
+    attributes: Npc_Road_024
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 1
+            - 9
+      - text: "你真是太聪明了，我的小驴子。"
+      - control:
+          kind: pause
+          length: short
+      - text: "\n这些你都知道！"
+  RetMSG_Rane_01_3:
+    attributes: Npc_Road_024
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 4
+            - 1
+      - text: "哦，亲爱的。"
+      - control:
+          kind: pause
+          length: short
+      - text: "你的意思是告诉我\n你不是在问做饭的意义是什么？\n也许是我听错了……"
+  RetMSG_Rane_02:
+    attributes: Npc_Road_024
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 4
+      - text: "我不关心从我身边经过的马匹。"
+      - control:
+          kind: pause
+          length: short
+      - text: "马自认为很优雅，但总有一天\n给我一头驴吧。诚然，脚步缓慢，\n但背部强壮且顽固，就像……嗯，你知道的。"
+      - control:
+          kind: pause
+          length: short
+      - text: "\n这就是驴子的伟大之处！\n"
+      - control:
+          kind: sound
+          unknown:
+            - 4
+            - 19
+      - text: "哦亲爱的"
+      - control:
+          kind: pause
+          length: short
+      - text: "你的意思是你并没有要求我\n武断地谈论马和驴的魅力，因为它们是众所周知的？"
+  RetMSG_Rane_02_1:
+    attributes: Npc_Road_024
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 1
+            - 9
+      - text: 脚步缓慢，背部有力。
+      - control:
+          kind: pause
+          length: short
+      - text: "那是你，\n不是吗，我忠实的驴子？"
+  RetMSG_Rane_03:
+    attributes: Npc_Road_024
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 4
+      - text: "当然，"
+      - control:
+          kind: pause
+          length: short
+      - text: "如果你想自己制药"
+      - control:
+          kind: pause
+          length: long
+      - text: "你需要使用虫子与怪物材料。"
+  RetMSG_Rane_03_1:
+    attributes: Npc_Road_024
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 6
+      - text: "如果你正在制药，你需要虫子\n和怪物材料作为成分。"
+  RetMSG_Rane_03_2:
+    attributes: Npc_Road_024
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 1
+            - 9
+      - text: "谁是所有驴子中最聪明的驴子？"
+      - control:
+          kind: pause
+          length: short
+      - text: "这是正确的！你！"
+  RetMSG_Rane_03_3:
+    attributes: Npc_Road_024
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 4
+            - 1
+      - text: "哦，亲爱的。"
+      - control:
+          kind: pause
+          length: short
+      - text: "你的意思是说\n你没有问我如何制作药吗？"
+  RetMSG_Rane_04:
+    attributes: Npc_Road_024
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 1
+            - 19
+      - text: "那里，那里，我可爱的驴子。"
+      - control:
+          kind: pause
+          length: short
+      - text: "看起来\n好像有人想和我说话，所以\n请你稍等一下。你做得很好，"
+      - control:
+          kind: pause
+          length: short
+      - text: "在从卡卡利科村一路运那些蔬菜这件事上！"
+  RetMSG_Rane_04_1:
+    attributes: Npc_Road_024
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 1
+            - 9
+      - text: "我亲爱的驴子，你干得真好。"
+      - control:
+          kind: pause
+          length: short
+      - text: "在从卡卡利科村一路运那些蔬菜这件事上！"
+  RetMSG_Rane_04_2:
+    attributes: Npc_Road_024
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 6
+      - text: "现在，我们这里有什么……"
+      - control:
+          kind: pause
+          length: short
+      - text: "您可以成为客户吗？"
+  SavedLv1_00:
+    attributes: ""
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 1
+            - 18
+      - text: "呼，我得救了！"
+      - control:
+          kind: pause
+          length: short
+      - text: "我的驴子也是！"
+  SavedLv1_01:
+    attributes: ""
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 4
+            - 11
+      - text: 我亲爱的、最有价值的客户！
+      - control:
+          kind: pause
+          length: short
+      - text: "\n你还好吗？"
+  SavedLv2_00:
+    attributes: ""
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 9
+            - 12
+      - text: "哦，驴子！"
+      - control:
+          kind: pause
+          length: long
+      - text: "我不敢相信我抛弃了你..."
+      - control:
+          kind: pause
+          length: long
+      - text: "我当时就是这样的状态！"
+  SavedLv2_01:
+    attributes: ""
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 8
+            - 14
+      - text: "接招吧，你们这些白痴怪物！"
+  SavedLv3_00:
+    attributes: ""
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 9
+            - 12
+      - text: "事实证明我在危机中没有多大用处..."
+  SavedLv3_01:
+    attributes: ""
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 7
+            - 11
+      - text: "我的驴可能看起来不像许多马那么快，\n但是当他逃命时你应该能看到他！"
+  Talk01:
+    attributes: Npc_Road_024
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 1
+      - text: 说起来……
+      - control:
+          kind: pause
+          length: short
+      - text: "我看到你盯着我驴身上的包。"
+      - control:
+          kind: pause
+          length: short
+      - text: "需要一些货物吗？"
+      - control:
+          kind: choice
+          choice_labels:
+            - 0
+            - 1
+            - 2
+          selected_index: 0
+          cancel_index: 2
+          unknown: 8
+  Talk02:
+    attributes: Npc_Road_024
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 1
+            - 1
+      - text: "哇，驴子！"
+      - control:
+          kind: pause
+          length: long
+      - text: "我们有一位客人。"
+      - control:
+          kind: choice
+          choice_labels:
+            - 0
+            - 1
+            - 2
+          selected_index: 0
+          cancel_index: 2
+          unknown: 8
+  Thanks00:
+    attributes: ""
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 1
+            - 1
+      - text: 这是给您的。
+      - control:
+          kind: pause
+          length: short
+      - text: "请带着我的感激之情接受它。"
+

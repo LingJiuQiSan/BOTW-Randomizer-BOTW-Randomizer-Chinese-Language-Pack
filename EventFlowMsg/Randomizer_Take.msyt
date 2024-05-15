@@ -1,0 +1,2909 @@
+---
+group_count: 968
+atr1_unknown: 0
+entries:
+  Armor_001_Head:
+    contents:
+      - text: "海利亚兜帽\n已经从你的背包中被移除"
+  Armor_001_Lower:
+    contents:
+      - text: "海利亚裤子\n已经从你的背包中被移除"
+  Armor_001_Upper:
+    contents:
+      - text: "海利亚服\n已经从你的背包中被移除"
+  Armor_002_Head:
+    contents:
+      - text: "海利亚兜帽\n已经从你的背包中被移除"
+  Armor_002_Lower:
+    contents:
+      - text: "海利亚裤子\n已经从你的背包中被移除"
+  Armor_002_Upper:
+    contents:
+      - text: "海利亚服\n已经从你的背包中被移除"
+  Armor_003_Head:
+    contents:
+      - text: "海利亚兜帽\n已经从你的背包中被移除"
+  Armor_003_Lower:
+    contents:
+      - text: "海利亚裤子\n已经从你的背包中被移除"
+  Armor_003_Upper:
+    contents:
+      - text: "海利亚服\n已经从你的背包中被移除"
+  Armor_004_Head:
+    contents:
+      - text: "海利亚兜帽\n已经从你的背包中被移除"
+  Armor_004_Lower:
+    contents:
+      - text: "海利亚裤子\n已经从你的背包中被移除"
+  Armor_004_Upper:
+    contents:
+      - text: "海利亚服\n已经从你的背包中被移除"
+  Armor_005_Head:
+    contents:
+      - text: "旷野之勇者帽子\n已经从你的背包中被移除"
+  Armor_005_Lower:
+    contents:
+      - text: "旷野之勇者裤子\n已经从你的背包中被移除"
+  Armor_005_Upper:
+    contents:
+      - text: "旷野之勇者服\n已经从你的背包中被移除"
+  Armor_006_Head:
+    contents:
+      - text: "卓拉头盔\n已经从你的背包中被移除"
+  Armor_006_Lower:
+    contents:
+      - text: "卓拉护胫\n已经从你的背包中被移除"
+  Armor_006_Upper:
+    contents:
+      - text: "卓拉铠甲\n已经从你的背包中被移除"
+  Armor_007_Head:
+    contents:
+      - text: "卓拉头盔\n已经从你的背包中被移除"
+  Armor_007_Lower:
+    contents:
+      - text: "卓拉护胫\n已经从你的背包中被移除"
+  Armor_007_Upper:
+    contents:
+      - text: "卓拉铠甲\n已经从你的背包中被移除"
+  Armor_008_Head:
+    contents:
+      - text: "热沙护额\n已经从你的背包中被移除"
+  Armor_008_Lower:
+    contents:
+      - text: "热沙裤子\n已经从你的背包中被移除"
+  Armor_008_Upper:
+    contents:
+      - text: "热沙护肩\n已经从你的背包中被移除"
+  Armor_009_Head:
+    contents:
+      - text: "防雪羽饰\n已经从你的背包中被移除"
+  Armor_009_Lower:
+    contents:
+      - text: "利特的羽绒裤\n已经从你的背包中被移除"
+  Armor_009_Upper:
+    contents:
+      - text: "利特的羽绒服\n已经从你的背包中被移除"
+  Armor_011_Head:
+    contents:
+      - text: "耐火石盔\n已经从你的背包中被移除"
+  Armor_011_Lower:
+    contents:
+      - text: "耐火石鞋\n已经从你的背包中被移除"
+  Armor_011_Upper:
+    contents:
+      - text: "耐火石铠\n已经从你的背包中被移除"
+  Armor_012_Head:
+    contents:
+      - text: "潜行面罩\n已经从你的背包中被移除"
+  Armor_012_Lower:
+    contents:
+      - text: "潜行紧身裤\n已经从你的背包中被移除"
+  Armor_012_Upper:
+    contents:
+      - text: "潜行紧身服\n已经从你的背包中被移除"
+  Armor_014_Head:
+    contents:
+      - text: "攀登头巾\n已经从你的背包中被移除"
+  Armor_014_Lower:
+    contents:
+      - text: "攀登鞋\n已经从你的背包中被移除"
+  Armor_014_Upper:
+    contents:
+      - text: "攀登护手\n已经从你的背包中被移除"
+  Armor_015_Head:
+    contents:
+      - text: "海利亚兜帽\n已经从你的背包中被移除"
+  Armor_015_Lower:
+    contents:
+      - text: "海利亚裤子\n已经从你的背包中被移除"
+  Armor_015_Upper:
+    contents:
+      - text: "海利亚服\n已经从你的背包中被移除"
+  Armor_017_Head:
+    contents:
+      - text: "夜光面罩\n已经从你的背包中被移除"
+  Armor_017_Lower:
+    contents:
+      - text: "夜光紧身裤\n已经从你的背包中被移除"
+  Armor_017_Upper:
+    contents:
+      - text: "夜光紧身服\n已经从你的背包中被移除"
+  Armor_020_Head:
+    contents:
+      - text: "海利亚士兵头盔\n已经从你的背包中被移除"
+  Armor_020_Lower:
+    contents:
+      - text: "海利亚士兵护胫\n已经从你的背包中被移除"
+  Armor_020_Upper:
+    contents:
+      - text: "海利亚士兵铠甲\n已经从你的背包中被移除"
+  Armor_021_Head:
+    contents:
+      - text: "古代兵装·头盔\n已经从你的背包中被移除"
+  Armor_021_Lower:
+    contents:
+      - text: "古代兵装·下身铠\n已经从你的背包中被移除"
+  Armor_021_Upper:
+    contents:
+      - text: "古代兵装·上身铠\n已经从你的背包中被移除"
+  Armor_022_Head:
+    contents:
+      - text: "波克布林面罩\n已经从你的背包中被移除"
+  Armor_024_Head:
+    contents:
+      - text: "钻石头饰\n已经从你的背包中被移除"
+  Armor_025_Head:
+    contents:
+      - text: "红宝石头饰\n已经从你的背包中被移除"
+  Armor_026_Head:
+    contents:
+      - text: "蓝宝石头饰\n已经从你的背包中被移除"
+  Armor_027_Head:
+    contents:
+      - text: "黄玉耳坠\n已经从你的背包中被移除"
+  Armor_028_Head:
+    contents:
+      - text: "蛋白石耳坠\n已经从你的背包中被移除"
+  Armor_029_Head:
+    contents:
+      - text: "琥珀耳坠\n已经从你的背包中被移除"
+  Armor_035_Head:
+    contents:
+      - text: "旷野之勇者帽子\n已经从你的背包中被移除"
+  Armor_035_Lower:
+    contents:
+      - text: "旷野之勇者裤子\n已经从你的背包中被移除"
+  Armor_035_Upper:
+    contents:
+      - text: "旷野之勇者服\n已经从你的背包中被移除"
+  Armor_036_Head:
+    contents:
+      - text: "防雪羽饰\n已经从你的背包中被移除"
+  Armor_036_Lower:
+    contents:
+      - text: "利特的羽绒裤\n已经从你的背包中被移除"
+  Armor_036_Upper:
+    contents:
+      - text: "利特的羽绒服\n已经从你的背包中被移除"
+  Armor_037_Head:
+    contents:
+      - text: "耐火石盔\n已经从你的背包中被移除"
+  Armor_037_Lower:
+    contents:
+      - text: "耐火石鞋\n已经从你的背包中被移除"
+  Armor_037_Upper:
+    contents:
+      - text: "耐火石铠\n已经从你的背包中被移除"
+  Armor_039_Head:
+    contents:
+      - text: "旷野之勇者帽子\n已经从你的背包中被移除"
+  Armor_039_Lower:
+    contents:
+      - text: "旷野之勇者裤子\n已经从你的背包中被移除"
+  Armor_039_Upper:
+    contents:
+      - text: "旷野之勇者服\n已经从你的背包中被移除"
+  Armor_040_Head:
+    contents:
+      - text: "热沙护额\n已经从你的背包中被移除"
+  Armor_040_Lower:
+    contents:
+      - text: "热沙裤子\n已经从你的背包中被移除"
+  Armor_040_Upper:
+    contents:
+      - text: "热沙护肩\n已经从你的背包中被移除"
+  Armor_042_Head:
+    contents:
+      - text: "潜行面罩\n已经从你的背包中被移除"
+  Armor_042_Lower:
+    contents:
+      - text: "潜行紧身裤\n已经从你的背包中被移除"
+  Armor_042_Upper:
+    contents:
+      - text: "潜行紧身服\n已经从你的背包中被移除"
+  Armor_043_Lower:
+    contents:
+      - text: "Well-Worn Trousers\n已经从你的背包中被移除"
+  Armor_043_Upper:
+    contents:
+      - text: "Old Shirt\n已经从你的背包中被移除"
+  Armor_044_Upper:
+    contents:
+      - text: "Warm Doublet\n已经从你的背包中被移除"
+  Armor_045_Head:
+    contents:
+      - text: "Moblin Mask\n已经从你的背包中被移除"
+  Armor_046_Head:
+    contents:
+      - text: "橡胶头盔\n已经从你的背包中被移除"
+  Armor_046_Lower:
+    contents:
+      - text: "橡胶紧身裤\n已经从你的背包中被移除"
+  Armor_046_Upper:
+    contents:
+      - text: "橡胶紧身服\n已经从你的背包中被移除"
+  Armor_048_Head:
+    contents:
+      - text: "蛮族头盔\n已经从你的背包中被移除"
+  Armor_048_Lower:
+    contents:
+      - text: "蛮族短裤\n已经从你的背包中被移除"
+  Armor_048_Upper:
+    contents:
+      - text: "蛮族盔甲\n已经从你的背包中被移除"
+  Armor_049_Lower:
+    contents:
+      - text: "沙地靴\n已经从你的背包中被移除"
+  Armor_053_Head:
+    contents:
+      - text: "Gerudo Veil\n已经从你的背包中被移除"
+  Armor_053_Lower:
+    contents:
+      - text: "Gerudo Sirwal\n已经从你的背包中被移除"
+  Armor_053_Upper:
+    contents:
+      - text: "Gerudo Top\n已经从你的背包中被移除"
+  Armor_055_Head:
+    contents:
+      - text: "Lizalfos Mask\n已经从你的背包中被移除"
+  Armor_056_Head:
+    contents:
+      - text: "Lynel Mask\n已经从你的背包中被移除"
+  Armor_060_Head:
+    contents:
+      - text: "旷野之勇者帽子\n已经从你的背包中被移除"
+  Armor_060_Lower:
+    contents:
+      - text: "旷野之勇者裤子\n已经从你的背包中被移除"
+  Armor_060_Upper:
+    contents:
+      - text: "旷野之勇者服\n已经从你的背包中被移除"
+  Armor_061_Head:
+    contents:
+      - text: "旷野之勇者帽子\n已经从你的背包中被移除"
+  Armor_061_Lower:
+    contents:
+      - text: "旷野之勇者裤子\n已经从你的背包中被移除"
+  Armor_061_Upper:
+    contents:
+      - text: "旷野之勇者服\n已经从你的背包中被移除"
+  Armor_062_Head:
+    contents:
+      - text: "卓拉头盔\n已经从你的背包中被移除"
+  Armor_062_Lower:
+    contents:
+      - text: "卓拉护胫\n已经从你的背包中被移除"
+  Armor_062_Upper:
+    contents:
+      - text: "卓拉铠甲\n已经从你的背包中被移除"
+  Armor_063_Head:
+    contents:
+      - text: "卓拉头盔\n已经从你的背包中被移除"
+  Armor_063_Lower:
+    contents:
+      - text: "卓拉护胫\n已经从你的背包中被移除"
+  Armor_063_Upper:
+    contents:
+      - text: "卓拉铠甲\n已经从你的背包中被移除"
+  Armor_064_Head:
+    contents:
+      - text: "卓拉头盔\n已经从你的背包中被移除"
+  Armor_064_Lower:
+    contents:
+      - text: "卓拉护胫\n已经从你的背包中被移除"
+  Armor_064_Upper:
+    contents:
+      - text: "卓拉铠甲\n已经从你的背包中被移除"
+  Armor_065_Head:
+    contents:
+      - text: "热沙护额\n已经从你的背包中被移除"
+  Armor_065_Lower:
+    contents:
+      - text: "热沙裤子\n已经从你的背包中被移除"
+  Armor_065_Upper:
+    contents:
+      - text: "热沙护肩\n已经从你的背包中被移除"
+  Armor_066_Head:
+    contents:
+      - text: "热沙护额\n已经从你的背包中被移除"
+  Armor_066_Lower:
+    contents:
+      - text: "热沙裤子\n已经从你的背包中被移除"
+  Armor_066_Upper:
+    contents:
+      - text: "热沙护肩\n已经从你的背包中被移除"
+  Armor_067_Head:
+    contents:
+      - text: "热沙护额\n已经从你的背包中被移除"
+  Armor_067_Lower:
+    contents:
+      - text: "热沙裤子\n已经从你的背包中被移除"
+  Armor_067_Upper:
+    contents:
+      - text: "热沙护肩\n已经从你的背包中被移除"
+  Armor_071_Head:
+    contents:
+      - text: "防雪羽饰\n已经从你的背包中被移除"
+  Armor_071_Lower:
+    contents:
+      - text: "利特的羽绒裤\n已经从你的背包中被移除"
+  Armor_071_Upper:
+    contents:
+      - text: "利特的羽绒服\n已经从你的背包中被移除"
+  Armor_072_Head:
+    contents:
+      - text: "防雪羽饰\n已经从你的背包中被移除"
+  Armor_072_Lower:
+    contents:
+      - text: "利特的羽绒裤\n已经从你的背包中被移除"
+  Armor_072_Upper:
+    contents:
+      - text: "利特的羽绒服\n已经从你的背包中被移除"
+  Armor_073_Head:
+    contents:
+      - text: "防雪羽饰\n已经从你的背包中被移除"
+  Armor_073_Lower:
+    contents:
+      - text: "利特的羽绒裤\n已经从你的背包中被移除"
+  Armor_073_Upper:
+    contents:
+      - text: "利特的羽绒服\n已经从你的背包中被移除"
+  Armor_074_Head:
+    contents:
+      - text: "耐火石盔\n已经从你的背包中被移除"
+  Armor_074_Lower:
+    contents:
+      - text: "耐火石鞋\n已经从你的背包中被移除"
+  Armor_074_Upper:
+    contents:
+      - text: "耐火石铠\n已经从你的背包中被移除"
+  Armor_075_Head:
+    contents:
+      - text: "耐火石盔\n已经从你的背包中被移除"
+  Armor_075_Lower:
+    contents:
+      - text: "耐火石鞋\n已经从你的背包中被移除"
+  Armor_075_Upper:
+    contents:
+      - text: "耐火石铠\n已经从你的背包中被移除"
+  Armor_076_Head:
+    contents:
+      - text: "耐火石盔\n已经从你的背包中被移除"
+  Armor_076_Lower:
+    contents:
+      - text: "耐火石鞋\n已经从你的背包中被移除"
+  Armor_076_Upper:
+    contents:
+      - text: "耐火石铠\n已经从你的背包中被移除"
+  Armor_077_Head:
+    contents:
+      - text: "潜行面罩\n已经从你的背包中被移除"
+  Armor_077_Lower:
+    contents:
+      - text: "潜行紧身裤\n已经从你的背包中被移除"
+  Armor_077_Upper:
+    contents:
+      - text: "潜行紧身服\n已经从你的背包中被移除"
+  Armor_078_Head:
+    contents:
+      - text: "潜行面罩\n已经从你的背包中被移除"
+  Armor_078_Lower:
+    contents:
+      - text: "潜行紧身裤\n已经从你的背包中被移除"
+  Armor_078_Upper:
+    contents:
+      - text: "潜行紧身服\n已经从你的背包中被移除"
+  Armor_079_Head:
+    contents:
+      - text: "潜行面罩\n已经从你的背包中被移除"
+  Armor_079_Lower:
+    contents:
+      - text: "潜行紧身裤\n已经从你的背包中被移除"
+  Armor_079_Upper:
+    contents:
+      - text: "潜行紧身服\n已经从你的背包中被移除"
+  Armor_083_Head:
+    contents:
+      - text: "攀登头巾\n已经从你的背包中被移除"
+  Armor_083_Lower:
+    contents:
+      - text: "攀登鞋\n已经从你的背包中被移除"
+  Armor_083_Upper:
+    contents:
+      - text: "攀登护手\n已经从你的背包中被移除"
+  Armor_084_Head:
+    contents:
+      - text: "攀登头巾\n已经从你的背包中被移除"
+  Armor_084_Lower:
+    contents:
+      - text: "攀登鞋\n已经从你的背包中被移除"
+  Armor_084_Upper:
+    contents:
+      - text: "攀登护手\n已经从你的背包中被移除"
+  Armor_085_Head:
+    contents:
+      - text: "攀登头巾\n已经从你的背包中被移除"
+  Armor_085_Lower:
+    contents:
+      - text: "攀登鞋\n已经从你的背包中被移除"
+  Armor_085_Upper:
+    contents:
+      - text: "攀登护手\n已经从你的背包中被移除"
+  Armor_086_Head:
+    contents:
+      - text: "攀登头巾\n已经从你的背包中被移除"
+  Armor_086_Lower:
+    contents:
+      - text: "攀登鞋\n已经从你的背包中被移除"
+  Armor_086_Upper:
+    contents:
+      - text: "攀登护手\n已经从你的背包中被移除"
+  Armor_087_Head:
+    contents:
+      - text: "夜光面罩\n已经从你的背包中被移除"
+  Armor_087_Lower:
+    contents:
+      - text: "夜光紧身裤\n已经从你的背包中被移除"
+  Armor_087_Upper:
+    contents:
+      - text: "夜光紧身服\n已经从你的背包中被移除"
+  Armor_088_Head:
+    contents:
+      - text: "夜光面罩\n已经从你的背包中被移除"
+  Armor_088_Lower:
+    contents:
+      - text: "夜光紧身裤\n已经从你的背包中被移除"
+  Armor_088_Upper:
+    contents:
+      - text: "夜光紧身服\n已经从你的背包中被移除"
+  Armor_089_Head:
+    contents:
+      - text: "夜光面罩\n已经从你的背包中被移除"
+  Armor_089_Lower:
+    contents:
+      - text: "夜光紧身裤\n已经从你的背包中被移除"
+  Armor_089_Upper:
+    contents:
+      - text: "夜光紧身服\n已经从你的背包中被移除"
+  Armor_090_Head:
+    contents:
+      - text: "夜光面罩\n已经从你的背包中被移除"
+  Armor_090_Lower:
+    contents:
+      - text: "夜光紧身裤\n已经从你的背包中被移除"
+  Armor_090_Upper:
+    contents:
+      - text: "夜光紧身服\n已经从你的背包中被移除"
+  Armor_095_Head:
+    contents:
+      - text: "海利亚士兵头盔\n已经从你的背包中被移除"
+  Armor_095_Lower:
+    contents:
+      - text: "海利亚士兵护胫\n已经从你的背包中被移除"
+  Armor_095_Upper:
+    contents:
+      - text: "海利亚士兵铠甲\n已经从你的背包中被移除"
+  Armor_096_Head:
+    contents:
+      - text: "海利亚士兵头盔\n已经从你的背包中被移除"
+  Armor_096_Lower:
+    contents:
+      - text: "海利亚士兵护胫\n已经从你的背包中被移除"
+  Armor_096_Upper:
+    contents:
+      - text: "海利亚士兵铠甲\n已经从你的背包中被移除"
+  Armor_097_Head:
+    contents:
+      - text: "海利亚士兵头盔\n已经从你的背包中被移除"
+  Armor_097_Lower:
+    contents:
+      - text: "海利亚士兵护胫\n已经从你的背包中被移除"
+  Armor_097_Upper:
+    contents:
+      - text: "海利亚士兵铠甲\n已经从你的背包中被移除"
+  Armor_098_Head:
+    contents:
+      - text: "海利亚士兵头盔\n已经从你的背包中被移除"
+  Armor_098_Lower:
+    contents:
+      - text: "海利亚士兵护胫\n已经从你的背包中被移除"
+  Armor_098_Upper:
+    contents:
+      - text: "海利亚士兵铠甲\n已经从你的背包中被移除"
+  Armor_099_Head:
+    contents:
+      - text: "古代兵装·头盔\n已经从你的背包中被移除"
+  Armor_099_Lower:
+    contents:
+      - text: "古代兵装·下身铠\n已经从你的背包中被移除"
+  Armor_099_Upper:
+    contents:
+      - text: "古代兵装·上身铠\n已经从你的背包中被移除"
+  Armor_100_Head:
+    contents:
+      - text: "古代兵装·头盔\n已经从你的背包中被移除"
+  Armor_100_Lower:
+    contents:
+      - text: "古代兵装·下身铠\n已经从你的背包中被移除"
+  Armor_100_Upper:
+    contents:
+      - text: "古代兵装·上身铠\n已经从你的背包中被移除"
+  Armor_101_Head:
+    contents:
+      - text: "古代兵装·头盔\n已经从你的背包中被移除"
+  Armor_101_Lower:
+    contents:
+      - text: "古代兵装·下身铠\n已经从你的背包中被移除"
+  Armor_101_Upper:
+    contents:
+      - text: "古代兵装·上身铠\n已经从你的背包中被移除"
+  Armor_102_Head:
+    contents:
+      - text: "古代兵装·头盔\n已经从你的背包中被移除"
+  Armor_102_Lower:
+    contents:
+      - text: "古代兵装·下身铠\n已经从你的背包中被移除"
+  Armor_102_Upper:
+    contents:
+      - text: "古代兵装·上身铠\n已经从你的背包中被移除"
+  Armor_103_Head:
+    contents:
+      - text: "橡胶头盔\n已经从你的背包中被移除"
+  Armor_103_Lower:
+    contents:
+      - text: "橡胶紧身裤\n已经从你的背包中被移除"
+  Armor_103_Upper:
+    contents:
+      - text: "橡胶紧身服\n已经从你的背包中被移除"
+  Armor_104_Head:
+    contents:
+      - text: "橡胶头盔\n已经从你的背包中被移除"
+  Armor_104_Lower:
+    contents:
+      - text: "橡胶紧身裤\n已经从你的背包中被移除"
+  Armor_104_Upper:
+    contents:
+      - text: "橡胶紧身服\n已经从你的背包中被移除"
+  Armor_105_Head:
+    contents:
+      - text: "橡胶头盔\n已经从你的背包中被移除"
+  Armor_105_Lower:
+    contents:
+      - text: "橡胶紧身裤\n已经从你的背包中被移除"
+  Armor_105_Upper:
+    contents:
+      - text: "橡胶紧身服\n已经从你的背包中被移除"
+  Armor_106_Head:
+    contents:
+      - text: "橡胶头盔\n已经从你的背包中被移除"
+  Armor_106_Lower:
+    contents:
+      - text: "橡胶紧身裤\n已经从你的背包中被移除"
+  Armor_106_Upper:
+    contents:
+      - text: "橡胶紧身服\n已经从你的背包中被移除"
+  Armor_111_Head:
+    contents:
+      - text: "蛮族头盔\n已经从你的背包中被移除"
+  Armor_111_Lower:
+    contents:
+      - text: "蛮族短裤\n已经从你的背包中被移除"
+  Armor_111_Upper:
+    contents:
+      - text: "蛮族盔甲\n已经从你的背包中被移除"
+  Armor_112_Head:
+    contents:
+      - text: "蛮族头盔\n已经从你的背包中被移除"
+  Armor_112_Lower:
+    contents:
+      - text: "蛮族短裤\n已经从你的背包中被移除"
+  Armor_112_Upper:
+    contents:
+      - text: "蛮族盔甲\n已经从你的背包中被移除"
+  Armor_113_Head:
+    contents:
+      - text: "蛮族头盔\n已经从你的背包中被移除"
+  Armor_113_Lower:
+    contents:
+      - text: "蛮族短裤\n已经从你的背包中被移除"
+  Armor_113_Upper:
+    contents:
+      - text: "蛮族盔甲\n已经从你的背包中被移除"
+  Armor_114_Head:
+    contents:
+      - text: "蛮族头盔\n已经从你的背包中被移除"
+  Armor_114_Lower:
+    contents:
+      - text: "蛮族短裤\n已经从你的背包中被移除"
+  Armor_114_Upper:
+    contents:
+      - text: "蛮族盔甲\n已经从你的背包中被移除"
+  Armor_115_Head:
+    contents:
+      - text: "雷鸣头盔\n已经从你的背包中被移除"
+  Armor_116_Upper:
+    contents:
+      - text: "英杰服\n已经从你的背包中被移除"
+  Armor_117_Head:
+    contents:
+      - text: "钻石头饰\n已经从你的背包中被移除"
+  Armor_118_Head:
+    contents:
+      - text: "钻石头饰\n已经从你的背包中被移除"
+  Armor_119_Head:
+    contents:
+      - text: "钻石头饰\n已经从你的背包中被移除"
+  Armor_120_Head:
+    contents:
+      - text: "钻石头饰\n已经从你的背包中被移除"
+  Armor_121_Head:
+    contents:
+      - text: "红宝石头饰\n已经从你的背包中被移除"
+  Armor_122_Head:
+    contents:
+      - text: "红宝石头饰\n已经从你的背包中被移除"
+  Armor_123_Head:
+    contents:
+      - text: "红宝石头饰\n已经从你的背包中被移除"
+  Armor_124_Head:
+    contents:
+      - text: "红宝石头饰\n已经从你的背包中被移除"
+  Armor_125_Head:
+    contents:
+      - text: "蓝宝石头饰\n已经从你的背包中被移除"
+  Armor_126_Head:
+    contents:
+      - text: "蓝宝石头饰\n已经从你的背包中被移除"
+  Armor_127_Head:
+    contents:
+      - text: "蓝宝石头饰\n已经从你的背包中被移除"
+  Armor_128_Head:
+    contents:
+      - text: "蓝宝石头饰\n已经从你的背包中被移除"
+  Armor_129_Head:
+    contents:
+      - text: "黄玉耳坠\n已经从你的背包中被移除"
+  Armor_130_Head:
+    contents:
+      - text: "黄玉耳坠\n已经从你的背包中被移除"
+  Armor_131_Head:
+    contents:
+      - text: "黄玉耳坠\n已经从你的背包中被移除"
+  Armor_132_Head:
+    contents:
+      - text: "黄玉耳坠\n已经从你的背包中被移除"
+  Armor_133_Head:
+    contents:
+      - text: "蛋白石耳坠\n已经从你的背包中被移除"
+  Armor_134_Head:
+    contents:
+      - text: "蛋白石耳坠\n已经从你的背包中被移除"
+  Armor_135_Head:
+    contents:
+      - text: "蛋白石耳坠\n已经从你的背包中被移除"
+  Armor_136_Head:
+    contents:
+      - text: "蛋白石耳坠\n已经从你的背包中被移除"
+  Armor_137_Head:
+    contents:
+      - text: "琥珀耳坠\n已经从你的背包中被移除"
+  Armor_138_Head:
+    contents:
+      - text: "琥珀耳坠\n已经从你的背包中被移除"
+  Armor_139_Head:
+    contents:
+      - text: "琥珀耳坠\n已经从你的背包中被移除"
+  Armor_140_Head:
+    contents:
+      - text: "琥珀耳坠\n已经从你的背包中被移除"
+  Armor_140_Lower:
+    contents:
+      - text: "雪地靴\n已经从你的背包中被移除"
+  Armor_141_Lower:
+    contents:
+      - text: "雪地靴\n已经从你的背包中被移除"
+  Armor_148_Upper:
+    contents:
+      - text: "英杰服\n已经从你的背包中被移除"
+  Armor_149_Upper:
+    contents:
+      - text: "英杰服\n已经从你的背包中被移除"
+  Armor_150_Upper:
+    contents:
+      - text: "英杰服\n已经从你的背包中被移除"
+  Armor_151_Upper:
+    contents:
+      - text: "英杰服\n已经从你的背包中被移除"
+  Armor_152_Lower:
+    contents:
+      - text: "沙地靴\n已经从你的背包中被移除"
+  Armor_153_Lower:
+    contents:
+      - text: "沙地靴\n已经从你的背包中被移除"
+  Armor_154_Lower:
+    contents:
+      - text: "沙地靴\n已经从你的背包中被移除"
+  Armor_155_Lower:
+    contents:
+      - text: "沙地靴\n已经从你的背包中被移除"
+  Armor_156_Lower:
+    contents:
+      - text: "雪地靴\n已经从你的背包中被移除"
+  Armor_157_Lower:
+    contents:
+      - text: "雪地靴\n已经从你的背包中被移除"
+  Armor_158_Lower:
+    contents:
+      - text: "雪地靴\n已经从你的背包中被移除"
+  Armor_159_Lower:
+    contents:
+      - text: "雪地靴\n已经从你的背包中被移除"
+  Armor_160_Head:
+    contents:
+      - text: "黑暗头套\n已经从你的背包中被移除"
+  Armor_160_Lower:
+    contents:
+      - text: "黑暗裤子\n已经从你的背包中被移除"
+  Armor_160_Upper:
+    contents:
+      - text: "黑暗外衣\n已经从你的背包中被移除"
+  Armor_168_Head:
+    contents:
+      - text: "神兽兵装·娜波力斯\n已经从你的背包中被移除"
+  Armor_169_Head:
+    contents:
+      - text: "神兽兵装·娜波力斯\n已经从你的背包中被移除"
+  Armor_170_Upper:
+    contents:
+      - text: "它的衬衫\n已经从你的背包中被移除"
+  Armor_171_Head:
+    contents:
+      - text: "幻影头盔\n已经从你的背包中被移除"
+  Armor_171_Lower:
+    contents:
+      - text: "幻影护胫\n已经从你的背包中被移除"
+  Armor_171_Upper:
+    contents:
+      - text: "幻影铠甲\n已经从你的背包中被移除"
+  Armor_172_Head:
+    contents:
+      - text: "魔吉拉的面具\n已经从你的背包中被移除"
+  Armor_173_Head:
+    contents:
+      - text: "米多娜的王冠\n已经从你的背包中被移除"
+  Armor_174_Head:
+    contents:
+      - text: "汀空的头巾\n已经从你的背包中被移除"
+  Armor_174_Lower:
+    contents:
+      - text: "汀空的裤子\n已经从你的背包中被移除"
+  Armor_174_Upper:
+    contents:
+      - text: "汀空的衣服\n已经从你的背包中被移除"
+  Armor_175_Upper:
+    contents:
+      - text: "蓝色大虾衬衫\n已经从你的背包中被移除"
+  Armor_176_Head:
+    contents:
+      - text: "克洛格的面具\n已经从你的背包中被移除"
+  Armor_177_Head:
+    contents:
+      - text: "罗维奥的头巾\n已经从你的背包中被移除"
+  Armor_178_Head:
+    contents:
+      - text: "藏特头盔\n已经从你的背包中被移除"
+  Armor_179_Head:
+    contents:
+      - text: "近卫兵的帽子\n已经从你的背包中被移除"
+  Armor_179_Lower:
+    contents:
+      - text: "近卫兵的靴子\n已经从你的背包中被移除"
+  Armor_179_Upper:
+    contents:
+      - text: "近卫兵的衣服\n已经从你的背包中被移除"
+  Armor_180_Head:
+    contents:
+      - text: "幻影盖侬头盔\n已经从你的背包中被移除"
+  Armor_180_Lower:
+    contents:
+      - text: "幻影盖侬护胫\n已经从你的背包中被移除"
+  Armor_180_Upper:
+    contents:
+      - text: "幻影盖侬铠甲\n已经从你的背包中被移除"
+  Armor_181_Head:
+    contents:
+      - text: "神兽兵装·露塔\n已经从你的背包中被移除"
+  Armor_182_Head:
+    contents:
+      - text: "神兽兵装·梅德\n已经从你的背包中被移除"
+  Armor_183_Head:
+    contents:
+      - text: "神兽兵装·鲁达尼亚\n已经从你的背包中被移除"
+  Armor_184_Head:
+    contents:
+      - text: "神兽兵装·娜波力斯\n已经从你的背包中被移除"
+  Armor_185_Head:
+    contents:
+      - text: "打捞员头盔\n已经从你的背包中被移除"
+  Armor_185_Lower:
+    contents:
+      - text: "打捞员裤子\n已经从你的背包中被移除"
+  Armor_185_Upper:
+    contents:
+      - text: "打捞员衣服\n已经从你的背包中被移除"
+  Armor_186_Head:
+    contents:
+      - text: "神兽兵装·露塔\n已经从你的背包中被移除"
+  Armor_187_Head:
+    contents:
+      - text: "神兽兵装·露塔\n已经从你的背包中被移除"
+  Armor_188_Head:
+    contents:
+      - text: "神兽兵装·露塔\n已经从你的背包中被移除"
+  Armor_189_Head:
+    contents:
+      - text: "神兽兵装·露塔\n已经从你的背包中被移除"
+  Armor_190_Head:
+    contents:
+      - text: "神兽兵装·梅德\n已经从你的背包中被移除"
+  Armor_191_Head:
+    contents:
+      - text: "神兽兵装·梅德\n已经从你的背包中被移除"
+  Armor_192_Head:
+    contents:
+      - text: "神兽兵装·梅德\n已经从你的背包中被移除"
+  Armor_193_Head:
+    contents:
+      - text: "神兽兵装·梅德\n已经从你的背包中被移除"
+  Armor_194_Head:
+    contents:
+      - text: "神兽兵装·鲁达尼亚\n已经从你的背包中被移除"
+  Armor_195_Head:
+    contents:
+      - text: "神兽兵装·鲁达尼亚\n已经从你的背包中被移除"
+  Armor_196_Head:
+    contents:
+      - text: "神兽兵装·鲁达尼亚\n已经从你的背包中被移除"
+  Armor_197_Head:
+    contents:
+      - text: "神兽兵装·鲁达尼亚\n已经从你的背包中被移除"
+  Armor_198_Head:
+    contents:
+      - text: "神兽兵装·娜波力斯\n已经从你的背包中被移除"
+  Armor_199_Head:
+    contents:
+      - text: "神兽兵装·娜波力斯\n已经从你的背包中被移除"
+  Armor_200_Head:
+    contents:
+      - text: "时光之勇者帽子\n已经从你的背包中被移除"
+  Armor_200_Lower:
+    contents:
+      - text: "时光之勇者裤子\n已经从你的背包中被移除"
+  Armor_200_Upper:
+    contents:
+      - text: "时光之勇者服\n已经从你的背包中被移除"
+  Armor_201_Head:
+    contents:
+      - text: "时光之勇者帽子\n已经从你的背包中被移除"
+  Armor_201_Lower:
+    contents:
+      - text: "时光之勇者裤子\n已经从你的背包中被移除"
+  Armor_201_Upper:
+    contents:
+      - text: "时光之勇者服\n已经从你的背包中被移除"
+  Armor_202_Head:
+    contents:
+      - text: "时光之勇者帽子\n已经从你的背包中被移除"
+  Armor_202_Lower:
+    contents:
+      - text: "时光之勇者裤子\n已经从你的背包中被移除"
+  Armor_202_Upper:
+    contents:
+      - text: "时光之勇者服\n已经从你的背包中被移除"
+  Armor_203_Head:
+    contents:
+      - text: "时光之勇者帽子\n已经从你的背包中被移除"
+  Armor_203_Lower:
+    contents:
+      - text: "时光之勇者裤子\n已经从你的背包中被移除"
+  Armor_203_Upper:
+    contents:
+      - text: "时光之勇者服\n已经从你的背包中被移除"
+  Armor_204_Head:
+    contents:
+      - text: "时光之勇者帽子\n已经从你的背包中被移除"
+  Armor_204_Lower:
+    contents:
+      - text: "时光之勇者裤子\n已经从你的背包中被移除"
+  Armor_204_Upper:
+    contents:
+      - text: "时光之勇者服\n已经从你的背包中被移除"
+  Armor_205_Head:
+    contents:
+      - text: "风之勇者帽子\n已经从你的背包中被移除"
+  Armor_205_Lower:
+    contents:
+      - text: "风之勇者裤子\n已经从你的背包中被移除"
+  Armor_205_Upper:
+    contents:
+      - text: "风之勇者服\n已经从你的背包中被移除"
+  Armor_206_Head:
+    contents:
+      - text: "风之勇者帽子\n已经从你的背包中被移除"
+  Armor_206_Lower:
+    contents:
+      - text: "风之勇者裤子\n已经从你的背包中被移除"
+  Armor_206_Upper:
+    contents:
+      - text: "风之勇者服\n已经从你的背包中被移除"
+  Armor_207_Head:
+    contents:
+      - text: "风之勇者帽子\n已经从你的背包中被移除"
+  Armor_207_Lower:
+    contents:
+      - text: "风之勇者裤子\n已经从你的背包中被移除"
+  Armor_207_Upper:
+    contents:
+      - text: "风之勇者服\n已经从你的背包中被移除"
+  Armor_208_Head:
+    contents:
+      - text: "风之勇者帽子\n已经从你的背包中被移除"
+  Armor_208_Lower:
+    contents:
+      - text: "风之勇者裤子\n已经从你的背包中被移除"
+  Armor_208_Upper:
+    contents:
+      - text: "风之勇者服\n已经从你的背包中被移除"
+  Armor_209_Head:
+    contents:
+      - text: "风之勇者帽子\n已经从你的背包中被移除"
+  Armor_209_Lower:
+    contents:
+      - text: "风之勇者裤子\n已经从你的背包中被移除"
+  Armor_209_Upper:
+    contents:
+      - text: "风之勇者服\n已经从你的背包中被移除"
+  Armor_210_Head:
+    contents:
+      - text: "黄昏之勇者帽子\n已经从你的背包中被移除"
+  Armor_210_Lower:
+    contents:
+      - text: "黄昏之勇者裤子\n已经从你的背包中被移除"
+  Armor_210_Upper:
+    contents:
+      - text: "黄昏之勇者服\n已经从你的背包中被移除"
+  Armor_211_Head:
+    contents:
+      - text: "黄昏之勇者帽子\n已经从你的背包中被移除"
+  Armor_211_Lower:
+    contents:
+      - text: "黄昏之勇者裤子\n已经从你的背包中被移除"
+  Armor_211_Upper:
+    contents:
+      - text: "黄昏之勇者服\n已经从你的背包中被移除"
+  Armor_212_Head:
+    contents:
+      - text: "黄昏之勇者帽子\n已经从你的背包中被移除"
+  Armor_212_Lower:
+    contents:
+      - text: "黄昏之勇者裤子\n已经从你的背包中被移除"
+  Armor_212_Upper:
+    contents:
+      - text: "黄昏之勇者服\n已经从你的背包中被移除"
+  Armor_213_Head:
+    contents:
+      - text: "黄昏之勇者帽子\n已经从你的背包中被移除"
+  Armor_213_Lower:
+    contents:
+      - text: "黄昏之勇者裤子\n已经从你的背包中被移除"
+  Armor_213_Upper:
+    contents:
+      - text: "黄昏之勇者服\n已经从你的背包中被移除"
+  Armor_214_Head:
+    contents:
+      - text: "黄昏之勇者帽子\n已经从你的背包中被移除"
+  Armor_214_Lower:
+    contents:
+      - text: "黄昏之勇者裤子\n已经从你的背包中被移除"
+  Armor_214_Upper:
+    contents:
+      - text: "黄昏之勇者服\n已经从你的背包中被移除"
+  Armor_215_Head:
+    contents:
+      - text: "天空之勇者帽子\n已经从你的背包中被移除"
+  Armor_215_Lower:
+    contents:
+      - text: "天空之勇者裤子\n已经从你的背包中被移除"
+  Armor_215_Upper:
+    contents:
+      - text: "天空之勇者服\n已经从你的背包中被移除"
+  Armor_216_Head:
+    contents:
+      - text: "天空之勇者帽子\n已经从你的背包中被移除"
+  Armor_216_Lower:
+    contents:
+      - text: "天空之勇者裤子\n已经从你的背包中被移除"
+  Armor_216_Upper:
+    contents:
+      - text: "天空之勇者服\n已经从你的背包中被移除"
+  Armor_217_Head:
+    contents:
+      - text: "天空之勇者帽子\n已经从你的背包中被移除"
+  Armor_217_Lower:
+    contents:
+      - text: "天空之勇者裤子\n已经从你的背包中被移除"
+  Armor_217_Upper:
+    contents:
+      - text: "天空之勇者服\n已经从你的背包中被移除"
+  Armor_218_Head:
+    contents:
+      - text: "天空之勇者帽子\n已经从你的背包中被移除"
+  Armor_218_Lower:
+    contents:
+      - text: "天空之勇者裤子\n已经从你的背包中被移除"
+  Armor_218_Upper:
+    contents:
+      - text: "天空之勇者服\n已经从你的背包中被移除"
+  Armor_219_Head:
+    contents:
+      - text: "天空之勇者帽子\n已经从你的背包中被移除"
+  Armor_219_Lower:
+    contents:
+      - text: "天空之勇者裤子\n已经从你的背包中被移除"
+  Armor_219_Upper:
+    contents:
+      - text: "天空之勇者服\n已经从你的背包中被移除"
+  Armor_220_Head:
+    contents:
+      - text: "希克面罩\n已经从你的背包中被移除"
+  Armor_221_Head:
+    contents:
+      - text: "希克面罩\n已经从你的背包中被移除"
+  Armor_222_Head:
+    contents:
+      - text: "希克面罩\n已经从你的背包中被移除"
+  Armor_223_Head:
+    contents:
+      - text: "希克面罩\n已经从你的背包中被移除"
+  Armor_224_Head:
+    contents:
+      - text: "希克面罩\n已经从你的背包中被移除"
+  Armor_225_Head:
+    contents:
+      - text: "鬼神帽子\n已经从你的背包中被移除"
+  Armor_225_Lower:
+    contents:
+      - text: "鬼神靴\n已经从你的背包中被移除"
+  Armor_225_Upper:
+    contents:
+      - text: "鬼神服\n已经从你的背包中被移除"
+  Armor_226_Head:
+    contents:
+      - text: "鬼神帽子\n已经从你的背包中被移除"
+  Armor_226_Lower:
+    contents:
+      - text: "鬼神靴\n已经从你的背包中被移除"
+  Armor_226_Upper:
+    contents:
+      - text: "鬼神服\n已经从你的背包中被移除"
+  Armor_227_Head:
+    contents:
+      - text: "鬼神帽子\n已经从你的背包中被移除"
+  Armor_227_Lower:
+    contents:
+      - text: "鬼神靴\n已经从你的背包中被移除"
+  Armor_227_Upper:
+    contents:
+      - text: "鬼神服\n已经从你的背包中被移除"
+  Armor_228_Head:
+    contents:
+      - text: "鬼神帽子\n已经从你的背包中被移除"
+  Armor_228_Lower:
+    contents:
+      - text: "鬼神靴\n已经从你的背包中被移除"
+  Armor_228_Upper:
+    contents:
+      - text: "鬼神服\n已经从你的背包中被移除"
+  Armor_229_Head:
+    contents:
+      - text: "鬼神帽子\n已经从你的背包中被移除"
+  Armor_229_Lower:
+    contents:
+      - text: "鬼神靴\n已经从你的背包中被移除"
+  Armor_229_Upper:
+    contents:
+      - text: "鬼神服\n已经从你的背包中被移除"
+  Armor_230_Head:
+    contents:
+      - text: "初始之勇者帽子\n已经从你的背包中被移除"
+  Armor_230_Lower:
+    contents:
+      - text: "初始之勇者裤子\n已经从你的背包中被移除"
+  Armor_230_Upper:
+    contents:
+      - text: "初始之勇者服\n已经从你的背包中被移除"
+  Armor_231_Head:
+    contents:
+      - text: "初始之勇者帽子\n已经从你的背包中被移除"
+  Armor_231_Lower:
+    contents:
+      - text: "初始之勇者裤子\n已经从你的背包中被移除"
+  Armor_231_Upper:
+    contents:
+      - text: "初始之勇者服\n已经从你的背包中被移除"
+  Armor_232_Head:
+    contents:
+      - text: "初始之勇者帽子\n已经从你的背包中被移除"
+  Armor_232_Lower:
+    contents:
+      - text: "初始之勇者裤子\n已经从你的背包中被移除"
+  Armor_232_Upper:
+    contents:
+      - text: "初始之勇者服\n已经从你的背包中被移除"
+  Armor_233_Head:
+    contents:
+      - text: "初始之勇者帽子\n已经从你的背包中被移除"
+  Armor_233_Lower:
+    contents:
+      - text: "初始之勇者裤子\n已经从你的背包中被移除"
+  Armor_233_Upper:
+    contents:
+      - text: "初始之勇者服\n已经从你的背包中被移除"
+  Armor_234_Head:
+    contents:
+      - text: "初始之勇者帽子\n已经从你的背包中被移除"
+  Armor_234_Lower:
+    contents:
+      - text: "初始之勇者裤子\n已经从你的背包中被移除"
+  Armor_234_Upper:
+    contents:
+      - text: "初始之勇者服\n已经从你的背包中被移除"
+  Get_TwnObj_DLC_MemorialPicture_A_01:
+    contents:
+      - text: "英杰们的照片\n已经从你的背包中被移除"
+  Item_Boiled_01:
+    contents:
+      - text: "煮蛋\n已经从你的背包中被移除"
+  Item_ChilledFish_01:
+    contents:
+      - text: "冰冻鲈鱼\n已经从你的背包中被移除"
+  Item_ChilledFish_02:
+    contents:
+      - text: "冰冻生命三文鱼\n已经从你的背包中被移除"
+  Item_ChilledFish_03:
+    contents:
+      - text: "冰冻鳟鱼\n已经从你的背包中被移除"
+  Item_ChilledFish_04:
+    contents:
+      - text: "冰冻鲤鱼\n已经从你的背包中被移除"
+  Item_ChilledFish_05:
+    contents:
+      - text: "冰冻鲷鱼\n已经从你的背包中被移除"
+  Item_ChilledFish_06:
+    contents:
+      - text: "冰冻生命鲈鱼\n已经从你的背包中被移除"
+  Item_ChilledFish_07:
+    contents:
+      - text: "冰冻螃蟹\n已经从你的背包中被移除"
+  Item_ChilledFish_08:
+    contents:
+      - text: "冰冻田螺\n已经从你的背包中被移除"
+  Item_ChilledFish_09:
+    contents:
+      - text: "冰冻生命海螺\n已经从你的背包中被移除"
+  Item_Chilled_01:
+    contents:
+      - text: "冰冻兽肉\n已经从你的背包中被移除"
+  Item_Chilled_02:
+    contents:
+      - text: "高级冰冻兽肉\n已经从你的背包中被移除"
+  Item_Chilled_03:
+    contents:
+      - text: "顶级冰冻兽肉\n已经从你的背包中被移除"
+  Item_Chilled_04:
+    contents:
+      - text: "冰冻禽肉\n已经从你的背包中被移除"
+  Item_Chilled_05:
+    contents:
+      - text: "高级冰冻禽肉\n已经从你的背包中被移除"
+  Item_Chilled_06:
+    contents:
+      - text: "顶级冰冻禽肉\n已经从你的背包中被移除"
+  Item_Cook_A_01:
+    contents:
+      - text: "烤蘑菇串\n已经从你的背包中被移除"
+  Item_Cook_A_02:
+    contents:
+      - text: "蒸蘑菇\n已经从你的背包中被移除"
+  Item_Cook_A_03:
+    contents:
+      - text: "蒸水果\n已经从你的背包中被移除"
+  Item_Cook_A_04:
+    contents:
+      - text: "蒸鱼\n已经从你的背包中被移除"
+  Item_Cook_A_05:
+    contents:
+      - text: "蒸肉\n已经从你的背包中被移除"
+  Item_Cook_A_07:
+    contents:
+      - text: "水果拌蘑菇\n已经从你的背包中被移除"
+  Item_Cook_A_08:
+    contents:
+      - text: "烤鱼蘑菇串\n已经从你的背包中被移除"
+  Item_Cook_A_09:
+    contents:
+      - text: "烤肉蘑菇串\n已经从你的背包中被移除"
+  Item_Cook_A_10:
+    contents:
+      - text: "煎蛋卷\n已经从你的背包中被移除"
+  Item_Cook_A_11:
+    contents:
+      - text: "甘露炖蘑菇\n已经从你的背包中被移除"
+  Item_Cook_A_12:
+    contents:
+      - text: "甘露炖肉\n已经从你的背包中被移除"
+  Item_Cook_A_13:
+    contents:
+      - text: "甘露炖鱼\n已经从你的背包中被移除"
+  Item_Cook_A_14:
+    contents:
+      - text: "甘露炖蔬菜\n已经从你的背包中被移除"
+  Item_Cook_B_01:
+    contents:
+      - text: "炒野菜\n已经从你的背包中被移除"
+  Item_Cook_B_02:
+    contents:
+      - text: "炖水果\n已经从你的背包中被移除"
+  Item_Cook_B_05:
+    contents:
+      - text: "烤鱼\n已经从你的背包中被移除"
+  Item_Cook_B_06:
+    contents:
+      - text: "烤肉串\n已经从你的背包中被移除"
+  Item_Cook_B_11:
+    contents:
+      - text: "大份炒野菜\n已经从你的背包中被移除"
+  Item_Cook_B_12:
+    contents:
+      - text: "大份炖水果\n已经从你的背包中被移除"
+  Item_Cook_B_13:
+    contents:
+      - text: "大份烤蘑菇串\n已经从你的背包中被移除"
+  Item_Cook_B_15:
+    contents:
+      - text: "大份烤鱼\n已经从你的背包中被移除"
+  Item_Cook_B_16:
+    contents:
+      - text: "大份烤肉串\n已经从你的背包中被移除"
+  Item_Cook_B_17:
+    contents:
+      - text: "海陆煎烤\n已经从你的背包中被移除"
+  Item_Cook_B_18:
+    contents:
+      - text: "高级海陆煎烤\n已经从你的背包中被移除"
+  Item_Cook_B_19:
+    contents:
+      - text: "顶级海陆煎烤\n已经从你的背包中被移除"
+  Item_Cook_B_20:
+    contents:
+      - text: "南瓜酿肉\n已经从你的背包中被移除"
+  Item_Cook_B_21:
+    contents:
+      - text: "炒暖暖草果\n已经从你的背包中被移除"
+  Item_Cook_B_22:
+    contents:
+      - text: "炒坚果\n已经从你的背包中被移除"
+  Item_Cook_B_23:
+    contents:
+      - text: "串烤海鲜\n已经从你的背包中被移除"
+  Item_Cook_C_16:
+    contents:
+      - text: "精灵回力水\n已经从你的背包中被移除"
+  Item_Cook_C_17:
+    contents:
+      - text: "药\n已经从你的背包中被移除"
+  Item_Cook_C_17_00:
+    contents:
+      - text: "药 x\n已经从你的背包中被移除"
+  Item_Cook_D_01:
+    contents:
+      - text: "盐烤蘑菇\n已经从你的背包中被移除"
+  Item_Cook_D_02:
+    contents:
+      - text: "盐烤野菜\n已经从你的背包中被移除"
+  Item_Cook_D_03:
+    contents:
+      - text: "盐烤鱼\n已经从你的背包中被移除"
+  Item_Cook_D_04:
+    contents:
+      - text: "岩盐烤肉\n已经从你的背包中被移除"
+  Item_Cook_D_05:
+    contents:
+      - text: "高级岩盐烤肉\n已经从你的背包中被移除"
+  Item_Cook_D_06:
+    contents:
+      - text: "顶级岩盐烤肉\n已经从你的背包中被移除"
+  Item_Cook_D_07:
+    contents:
+      - text: "香辣煎肉\n已经从你的背包中被移除"
+  Item_Cook_D_08:
+    contents:
+      - text: "香辣煎鱼\n已经从你的背包中被移除"
+  Item_Cook_D_09:
+    contents:
+      - text: "岩盐烤蟹\n已经从你的背包中被移除"
+  Item_Cook_D_10:
+    contents:
+      - text: "炒螃蟹\n已经从你的背包中被移除"
+  Item_Cook_E_01:
+    contents:
+      - text: "禽肉菜饭\n已经从你的背包中被移除"
+  Item_Cook_E_02:
+    contents:
+      - text: "高级禽肉菜饭\n已经从你的背包中被移除"
+  Item_Cook_E_03:
+    contents:
+      - text: "顶级禽肉菜饭\n已经从你的背包中被移除"
+  Item_Cook_E_04:
+    contents:
+      - text: "煎蛋饭\n已经从你的背包中被移除"
+  Item_Cook_F_01:
+    contents:
+      - text: "鲜肉牛奶汤\n已经从你的背包中被移除"
+  Item_Cook_F_02:
+    contents:
+      - text: "海鲜牛奶汤\n已经从你的背包中被移除"
+  Item_Cook_F_03:
+    contents:
+      - text: "蔬菜浓汤\n已经从你的背包中被移除"
+  Item_Cook_F_04:
+    contents:
+      - text: "心心牛奶汤\n已经从你的背包中被移除"
+  Item_Cook_G_02:
+    contents:
+      - text: "海鲜饭团\n已经从你的背包中被移除"
+  Item_Cook_G_03:
+    contents:
+      - text: "野菜饭团\n已经从你的背包中被移除"
+  Item_Cook_G_04:
+    contents:
+      - text: "蘑菇饭团\n已经从你的背包中被移除"
+  Item_Cook_G_05:
+    contents:
+      - text: "兽肉盖饭\n已经从你的背包中被移除"
+  Item_Cook_G_06:
+    contents:
+      - text: "高级兽肉盖饭\n已经从你的背包中被移除"
+  Item_Cook_G_09:
+    contents:
+      - text: "顶级兽肉盖饭\n已经从你的背包中被移除"
+  Item_Cook_G_10:
+    contents:
+      - text: "海鲜炒饭\n已经从你的背包中被移除"
+  Item_Cook_G_11:
+    contents:
+      - text: "咖喱菜饭\n已经从你的背包中被移除"
+  Item_Cook_G_12:
+    contents:
+      - text: "蘑菇烩饭\n已经从你的背包中被移除"
+  Item_Cook_G_13:
+    contents:
+      - text: "蔬菜烩饭\n已经从你的背包中被移除"
+  Item_Cook_G_14:
+    contents:
+      - text: "三文鱼烩饭\n已经从你的背包中被移除"
+  Item_Cook_G_15:
+    contents:
+      - text: "鲜肉饭团\n已经从你的背包中被移除"
+  Item_Cook_G_16:
+    contents:
+      - text: "蟹肉蛋炒饭\n已经从你的背包中被移除"
+  Item_Cook_G_17:
+    contents:
+      - text: "蟹肉烩饭\n已经从你的背包中被移除"
+  Item_Cook_H_01:
+    contents:
+      - text: "干煎鱼\n已经从你的背包中被移除"
+  Item_Cook_H_02:
+    contents:
+      - text: "干煎鲷鱼\n已经从你的背包中被移除"
+  Item_Cook_H_03:
+    contents:
+      - text: "干煎三文鱼\n已经从你的背包中被移除"
+  Item_Cook_I_01:
+    contents:
+      - text: "水果派\n已经从你的背包中被移除"
+  Item_Cook_I_02:
+    contents:
+      - text: "苹果派\n已经从你的背包中被移除"
+  Item_Cook_I_03:
+    contents:
+      - text: "蛋挞\n已经从你的背包中被移除"
+  Item_Cook_I_04:
+    contents:
+      - text: "鲜肉派\n已经从你的背包中被移除"
+  Item_Cook_I_05:
+    contents:
+      - text: "胡萝卜蛋糕\n已经从你的背包中被移除"
+  Item_Cook_I_06:
+    contents:
+      - text: "南瓜蛋糕\n已经从你的背包中被移除"
+  Item_Cook_I_07:
+    contents:
+      - text: "黄油苹果\n已经从你的背包中被移除"
+  Item_Cook_I_08:
+    contents:
+      - text: "蜂蜜苹果\n已经从你的背包中被移除"
+  Item_Cook_I_09:
+    contents:
+      - text: "蜂蜜水果\n已经从你的背包中被移除"
+  Item_Cook_I_10:
+    contents:
+      - text: "原味可丽饼\n已经从你的背包中被移除"
+  Item_Cook_I_11:
+    contents:
+      - text: "草莓可丽饼\n已经从你的背包中被移除"
+  Item_Cook_I_12:
+    contents:
+      - text: "坚果蛋糕\n已经从你的背包中被移除"
+  Item_Cook_I_13:
+    contents:
+      - text: "炸香蕉\n已经从你的背包中被移除"
+  Item_Cook_I_14:
+    contents:
+      - text: "鲜蛋布丁\n已经从你的背包中被移除"
+  Item_Cook_I_15:
+    contents:
+      - text: "鱼肉派\n已经从你的背包中被移除"
+  Item_Cook_I_16:
+    contents:
+      - text: "蜂蜜糖\n已经从你的背包中被移除"
+  Item_Cook_I_17:
+    contents:
+      - text: "蜂蜜可丽饼\n已经从你的背包中被移除"
+  Item_Cook_J_01:
+    contents:
+      - text: "咖喱饭\n已经从你的背包中被移除"
+  Item_Cook_J_02:
+    contents:
+      - text: "蔬菜咖喱饭\n已经从你的背包中被移除"
+  Item_Cook_J_03:
+    contents:
+      - text: "海鲜咖喱饭\n已经从你的背包中被移除"
+  Item_Cook_J_04:
+    contents:
+      - text: "禽肉咖喱饭\n已经从你的背包中被移除"
+  Item_Cook_J_05:
+    contents:
+      - text: "高级禽肉咖喱饭\n已经从你的背包中被移除"
+  Item_Cook_J_06:
+    contents:
+      - text: "兽肉咖喱饭\n已经从你的背包中被移除"
+  Item_Cook_J_07:
+    contents:
+      - text: "高级兽肉咖喱饭\n已经从你的背包中被移除"
+  Item_Cook_J_08:
+    contents:
+      - text: "顶级禽肉咖喱饭\n已经从你的背包中被移除"
+  Item_Cook_J_09:
+    contents:
+      - text: "顶级兽肉咖喱饭\n已经从你的背包中被移除"
+  Item_Cook_K_01:
+    contents:
+      - text: "焖肉\n已经从你的背包中被移除"
+  Item_Cook_K_02:
+    contents:
+      - text: "高级焖肉\n已经从你的背包中被移除"
+  Item_Cook_K_03:
+    contents:
+      - text: "焖南瓜\n已经从你的背包中被移除"
+  Item_Cook_K_04:
+    contents:
+      - text: "贝肉杂烩\n已经从你的背包中被移除"
+  Item_Cook_K_05:
+    contents:
+      - text: "顶级焖肉\n已经从你的背包中被移除"
+  Item_Cook_K_06:
+    contents:
+      - text: "蘑菇牛奶汤\n已经从你的背包中被移除"
+  Item_Cook_K_07:
+    contents:
+      - text: "蔬菜牛奶汤\n已经从你的背包中被移除"
+  Item_Cook_K_08:
+    contents:
+      - text: "焖胡萝卜\n已经从你的背包中被移除"
+  Item_Cook_K_09:
+    contents:
+      - text: "热牛奶\n已经从你的背包中被移除"
+  Item_Cook_L_01:
+    contents:
+      - text: "炖怪物\n已经从你的背包中被移除"
+  Item_Cook_L_02:
+    contents:
+      - text: "怪物汤\n已经从你的背包中被移除"
+  Item_Cook_L_03:
+    contents:
+      - text: "怪物蛋糕\n已经从你的背包中被移除"
+  Item_Cook_L_04:
+    contents:
+      - text: "怪物饭团\n已经从你的背包中被移除"
+  Item_Cook_L_05:
+    contents:
+      - text: "怪物咖喱饭\n已经从你的背包中被移除"
+  Item_Cook_M_01:
+    contents:
+      - text: "小麦面包\n已经从你的背包中被移除"
+  Item_Cook_N_01:
+    contents:
+      - text: "海鲜杂烩饭\n已经从你的背包中被移除"
+  Item_Cook_N_02:
+    contents:
+      - text: "水果蛋糕\n已经从你的背包中被移除"
+  Item_Cook_N_03:
+    contents:
+      - text: "蔬菜煎蛋卷\n已经从你的背包中被移除"
+  Item_Cook_N_04:
+    contents:
+      - text: "蘑菇煎蛋卷\n已经从你的背包中被移除"
+  Item_Cook_O_01:
+    contents:
+      - text: "微妙的菜肴\n已经从你的背包中被移除"
+  Item_Cook_O_02:
+    contents:
+      - text: "过硬的菜肴\n已经从你的背包中被移除"
+  Item_Cook_P_01:
+    contents:
+      - text: "炒香蘑菇\n已经从你的背包中被移除"
+  Item_Cook_P_02:
+    contents:
+      - text: "炒香草\n已经从你的背包中被移除"
+  Item_Cook_P_03:
+    contents:
+      - text: "烤兽肉串\n已经从你的背包中被移除"
+  Item_Cook_P_04:
+    contents:
+      - text: "高级烤兽肉串\n已经从你的背包中被移除"
+  Item_Cook_P_05:
+    contents:
+      - text: "顶级烤兽肉串\n已经从你的背包中被移除"
+  Item_Enemy_00:
+    contents:
+      - text: "波克布林的犄角\n已经从你的背包中被移除"
+  Item_Enemy_01:
+    contents:
+      - text: "波克布林的牙齿\n已经从你的背包中被移除"
+  Item_Enemy_02:
+    contents:
+      - text: "波克布林的肝脏\n已经从你的背包中被移除"
+  Item_Enemy_03:
+    contents:
+      - text: "蜥蜴战士的犄角\n已经从你的背包中被移除"
+  Item_Enemy_04:
+    contents:
+      - text: "蜥蜴战士的爪子\n已经从你的背包中被移除"
+  Item_Enemy_05:
+    contents:
+      - text: "蜥蜴战士的尾巴\n已经从你的背包中被移除"
+  Item_Enemy_06:
+    contents:
+      - text: "莫力布林的犄角\n已经从你的背包中被移除"
+  Item_Enemy_07:
+    contents:
+      - text: "莫力布林的牙齿\n已经从你的背包中被移除"
+  Item_Enemy_08:
+    contents:
+      - text: "莫力布林的肝脏\n已经从你的背包中被移除"
+  Item_Enemy_12:
+    contents:
+      - text: "莱尼尔的犄角\n已经从你的背包中被移除"
+  Item_Enemy_13:
+    contents:
+      - text: "莱尼尔的蹄子\n已经从你的背包中被移除"
+  Item_Enemy_14:
+    contents:
+      - text: "莱尼尔的肝脏\n已经从你的背包中被移除"
+  Item_Enemy_15:
+    contents:
+      - text: "红色丘丘胶\n已经从你的背包中被移除"
+  Item_Enemy_16:
+    contents:
+      - text: "黄色丘丘胶\n已经从你的背包中被移除"
+  Item_Enemy_17:
+    contents:
+      - text: "白色丘丘胶\n已经从你的背包中被移除"
+  Item_Enemy_18:
+    contents:
+      - text: "蝙蝠的翅膀\n已经从你的背包中被移除"
+  Item_Enemy_19:
+    contents:
+      - text: "蝙蝠的眼珠\n已经从你的背包中被移除"
+  Item_Enemy_20:
+    contents:
+      - text: "八爪怪的脚\n已经从你的背包中被移除"
+  Item_Enemy_21:
+    contents:
+      - text: "八爪怪的眼珠\n已经从你的背包中被移除"
+  Item_Enemy_24:
+    contents:
+      - text: "莫尔德拉吉克的背鳍\n已经从你的背包中被移除"
+  Item_Enemy_25:
+    contents:
+      - text: "莫尔德拉吉克的肝脏\n已经从你的背包中被移除"
+  Item_Enemy_26:
+    contents:
+      - text: "古代齿轮\n已经从你的背包中被移除"
+  Item_Enemy_27:
+    contents:
+      - text: "古代螺丝\n已经从你的背包中被移除"
+  Item_Enemy_28:
+    contents:
+      - text: "古代弹簧\n已经从你的背包中被移除"
+  Item_Enemy_29:
+    contents:
+      - text: "古代传动轴\n已经从你的背包中被移除"
+  Item_Enemy_30:
+    contents:
+      - text: "古代核心\n已经从你的背包中被移除"
+  Item_Enemy_31:
+    contents:
+      - text: "巨大的古代核心\n已经从你的背包中被移除"
+  Item_Enemy_32:
+    contents:
+      - text: "西诺克斯的爪子\n已经从你的背包中被移除"
+  Item_Enemy_33:
+    contents:
+      - text: "西诺克斯的牙齿\n已经从你的背包中被移除"
+  Item_Enemy_34:
+    contents:
+      - text: "西诺克斯的肝脏\n已经从你的背包中被移除"
+  Item_Enemy_38:
+    contents:
+      - text: "奥尔龙的鳞片\n已经从你的背包中被移除"
+  Item_Enemy_39:
+    contents:
+      - text: "奥尔龙的爪子\n已经从你的背包中被移除"
+  Item_Enemy_40:
+    contents:
+      - text: "丘丘胶\n已经从你的背包中被移除"
+  Item_Enemy_41:
+    contents:
+      - text: "蜥蜴战士的红色尾巴\n已经从你的背包中被移除"
+  Item_Enemy_42:
+    contents:
+      - text: "蜥蜴战士的蓝色尾巴\n已经从你的背包中被移除"
+  Item_Enemy_43:
+    contents:
+      - text: "蜥蜴战士的黄色尾巴\n已经从你的背包中被移除"
+  Item_Enemy_44:
+    contents:
+      - text: "火蝙蝠的翅膀\n已经从你的背包中被移除"
+  Item_Enemy_45:
+    contents:
+      - text: "电蝙蝠的翅膀\n已经从你的背包中被移除"
+  Item_Enemy_46:
+    contents:
+      - text: "冰蝙蝠的翅膀\n已经从你的背包中被移除"
+  Item_Enemy_47:
+    contents:
+      - text: "奥尔龙的牙齿碎片\n已经从你的背包中被移除"
+  Item_Enemy_48:
+    contents:
+      - text: "奥尔龙的犄角碎片\n已经从你的背包中被移除"
+  Item_Enemy_49:
+    contents:
+      - text: "聂尔龙的鳞片\n已经从你的背包中被移除"
+  Item_Enemy_50:
+    contents:
+      - text: "聂尔龙的爪子\n已经从你的背包中被移除"
+  Item_Enemy_51:
+    contents:
+      - text: "聂尔龙的牙齿碎片\n已经从你的背包中被移除"
+  Item_Enemy_52:
+    contents:
+      - text: "聂尔龙的犄角碎片\n已经从你的背包中被移除"
+  Item_Enemy_53:
+    contents:
+      - text: "费罗龙的鳞片\n已经从你的背包中被移除"
+  Item_Enemy_54:
+    contents:
+      - text: "费罗龙的爪子\n已经从你的背包中被移除"
+  Item_Enemy_55:
+    contents:
+      - text: "费罗龙的牙齿碎片\n已经从你的背包中被移除"
+  Item_Enemy_56:
+    contents:
+      - text: "费罗龙的犄角碎片\n已经从你的背包中被移除"
+  Item_Enemy_57:
+    contents:
+      - text: "八爪怪气球\n已经从你的背包中被移除"
+  Item_FishGet_A:
+    contents:
+      - text: "海拉鲁鲈鱼\n已经从你的背包中被移除"
+  Item_FishGet_B:
+    contents:
+      - text: "生命鲈鱼\n已经从你的背包中被移除"
+  Item_FishGet_C:
+    contents:
+      - text: "冰冷鳟鱼\n已经从你的背包中被移除"
+  Item_FishGet_D:
+    contents:
+      - text: "酥麻鳟鱼\n已经从你的背包中被移除"
+  Item_FishGet_E:
+    contents:
+      - text: "大剑鲤鱼\n已经从你的背包中被移除"
+  Item_FishGet_F:
+    contents:
+      - text: "大剑鲷鱼\n已经从你的背包中被移除"
+  Item_FishGet_G:
+    contents:
+      - text: "铠甲鲷鱼\n已经从你的背包中被移除"
+  Item_FishGet_H:
+    contents:
+      - text: "铠甲鲤鱼\n已经从你的背包中被移除"
+  Item_FishGet_I:
+    contents:
+      - text: "生命三文鱼\n已经从你的背包中被移除"
+  Item_FishGet_J:
+    contents:
+      - text: "暖暖鳟鱼\n已经从你的背包中被移除"
+  Item_FishGet_K:
+    contents:
+      - text: "生命海螺\n已经从你的背包中被移除"
+  Item_FishGet_L:
+    contents:
+      - text: "精力鲈鱼\n已经从你的背包中被移除"
+  Item_FishGet_L_00:
+    contents:
+      - text: "精力鲈鱼 x\n已经从你的背包中被移除"
+  Item_FishGet_M:
+    contents:
+      - text: "潜行田螺\n已经从你的背包中被移除"
+  Item_FishGet_X:
+    contents:
+      - text: "潜行鳟鱼\n已经从你的背包中被移除"
+  Item_FishGet_Z:
+    contents:
+      - text: "三色鲤鱼\n已经从你的背包中被移除"
+  Item_Fruit_A:
+    contents:
+      - text: "苹果\n已经从你的背包中被移除"
+  Item_Fruit_B:
+    contents:
+      - text: "草莓\n已经从你的背包中被移除"
+  Item_Fruit_C:
+    contents:
+      - text: "酥麻水果\n已经从你的背包中被移除"
+  Item_Fruit_D:
+    contents:
+      - text: "生命榴莲\n已经从你的背包中被移除"
+  Item_Fruit_E:
+    contents:
+      - text: "速速莲蓬\n已经从你的背包中被移除"
+  Item_Fruit_E_00:
+    contents:
+      - text: "速速莲蓬 x\n已经从你的背包中被移除"
+  Item_Fruit_F:
+    contents:
+      - text: "冰冷蜜瓜\n已经从你的背包中被移除"
+  Item_Fruit_G:
+    contents:
+      - text: "椰子\n已经从你的背包中被移除"
+  Item_Fruit_H:
+    contents:
+      - text: "大剑香蕉\n已经从你的背包中被移除"
+  Item_Fruit_I:
+    contents:
+      - text: "暖暖草果\n已经从你的背包中被移除"
+  Item_Fruit_J:
+    contents:
+      - text: "铠甲南瓜\n已经从你的背包中被移除"
+  Item_Fruit_K:
+    contents:
+      - text: "橡子\n已经从你的背包中被移除"
+  Item_Fruit_L:
+    contents:
+      - text: "小鸟的树果\n已经从你的背包中被移除"
+  Item_InsectGet_K:
+    contents:
+      - text: "大剑螃蟹\n已经从你的背包中被移除"
+  Item_InsectGet_O:
+    contents:
+      - text: "铠甲螃蟹\n已经从你的背包中被移除"
+  Item_InsectGet_Z:
+    contents:
+      - text: "精力螃蟹\n已经从你的背包中被移除"
+  Item_Material_01:
+    contents:
+      - text: "蔗糖\n已经从你的背包中被移除"
+  Item_Material_02:
+    contents:
+      - text: "鼓隆的调味粉\n已经从你的背包中被移除"
+  Item_Material_03:
+    contents:
+      - text: "海拉鲁米\n已经从你的背包中被移除"
+  Item_Material_04:
+    contents:
+      - text: "禽蛋\n已经从你的背包中被移除"
+  Item_Material_05:
+    contents:
+      - text: "鲜奶\n已经从你的背包中被移除"
+  Item_Material_05_00:
+    contents:
+      - text: "鲜奶 x\n已经从你的背包中被移除"
+  Item_Material_06:
+    contents:
+      - text: "山羊黄油\n已经从你的背包中被移除"
+  Item_Material_07:
+    contents:
+      - text: "塔邦挞小麦\n已经从你的背包中被移除"
+  Item_Material_08:
+    contents:
+      - text: "怪物精华\n已经从你的背包中被移除"
+  Item_Material_DY:
+    contents:
+      - text: "耀西蛋\n已经从你的背包中被移除"
+  Item_Meat_01:
+    contents:
+      - text: "兽肉\n已经从你的背包中被移除"
+  Item_Meat_02:
+    contents:
+      - text: "高级兽肉\n已经从你的背包中被移除"
+  Item_Meat_06:
+    contents:
+      - text: "禽肉\n已经从你的背包中被移除"
+  Item_Meat_07:
+    contents:
+      - text: "高级禽肉\n已经从你的背包中被移除"
+  Item_Meat_11:
+    contents:
+      - text: "顶级兽肉\n已经从你的背包中被移除"
+  Item_Meat_12:
+    contents:
+      - text: "顶级禽肉\n已经从你的背包中被移除"
+  Item_MushroomGet_D:
+    contents:
+      - text: "速速蘑菇\n已经从你的背包中被移除"
+  Item_Mushroom_A:
+    contents:
+      - text: "精力蘑菇\n已经从你的背包中被移除"
+  Item_Mushroom_B:
+    contents:
+      - text: "冰冷蘑菇\n已经从你的背包中被移除"
+  Item_Mushroom_C:
+    contents:
+      - text: "暖暖蘑菇\n已经从你的背包中被移除"
+  Item_Mushroom_E:
+    contents:
+      - text: "海拉鲁蘑菇\n已经从你的背包中被移除"
+  Item_Mushroom_F:
+    contents:
+      - text: "生命松露\n已经从你的背包中被移除"
+  Item_Mushroom_F_00:
+    contents:
+      - text: "生命松露 x\n已经从你的背包中被移除"
+  Item_Mushroom_H:
+    contents:
+      - text: "酥麻蘑菇\n已经从你的背包中被移除"
+  Item_Mushroom_J:
+    contents:
+      - text: "潜行蘑菇\n已经从你的背包中被移除"
+  Item_Mushroom_L:
+    contents:
+      - text: "大剑蘑菇\n已经从你的背包中被移除"
+  Item_Mushroom_M:
+    contents:
+      - text: "铠甲蘑菇\n已经从你的背包中被移除"
+  Item_Mushroom_N:
+    contents:
+      - text: "大个生命松露\n已经从你的背包中被移除"
+  Item_Mushroom_N_00:
+    contents:
+      - text: "大个生命松露 x\n已经从你的背包中被移除"
+  Item_Mushroom_O:
+    contents:
+      - text: "毅力蘑菇\n已经从你的背包中被移除"
+  Item_Ore_A:
+    contents:
+      - text: "钻石\n已经从你的背包中被移除"
+  Item_Ore_A_00:
+    contents:
+      - text: "钻石 x\n已经从你的背包中被移除"
+  Item_Ore_B:
+    contents:
+      - text: "红宝石\n已经从你的背包中被移除"
+  Item_Ore_C:
+    contents:
+      - text: "绿宝石\n已经从你的背包中被移除"
+  Item_Ore_D:
+    contents:
+      - text: "黄玉\n已经从你的背包中被移除"
+  Item_Ore_E:
+    contents:
+      - text: "蛋白石\n已经从你的背包中被移除"
+  Item_Ore_F:
+    contents:
+      - text: "琥珀\n已经从你的背包中被移除"
+  Item_Ore_G:
+    contents:
+      - text: "夜光石\n已经从你的背包中被移除"
+  Item_Ore_H:
+    contents:
+      - text: "岩盐\n已经从你的背包中被移除"
+  Item_Ore_I:
+    contents:
+      - text: "打火石\n已经从你的背包中被移除"
+  Item_Ore_J:
+    contents:
+      - text: "星星碎片\n已经从你的背包中被移除"
+  Item_PlantGet_A:
+    contents:
+      - text: "海拉鲁草\n已经从你的背包中被移除"
+  Item_PlantGet_B:
+    contents:
+      - text: "生命小萝卜\n已经从你的背包中被移除"
+  Item_PlantGet_C:
+    contents:
+      - text: "生命大萝卜\n已经从你的背包中被移除"
+  Item_PlantGet_E:
+    contents:
+      - text: "冰冷香草\n已经从你的背包中被移除"
+  Item_PlantGet_F:
+    contents:
+      - text: "暖暖香草\n已经从你的背包中被移除"
+  Item_PlantGet_G:
+    contents:
+      - text: "大剑草\n已经从你的背包中被移除"
+  Item_PlantGet_H:
+    contents:
+      - text: "铠甲草\n已经从你的背包中被移除"
+  Item_PlantGet_I:
+    contents:
+      - text: "潜行草\n已经从你的背包中被移除"
+  Item_PlantGet_J:
+    contents:
+      - text: "静谧公主\n已经从你的背包中被移除"
+  Item_PlantGet_L:
+    contents:
+      - text: "酥麻香草\n已经从你的背包中被移除"
+  Item_PlantGet_M:
+    contents:
+      - text: "速速胡萝卜\n已经从你的背包中被移除"
+  Item_PlantGet_O:
+    contents:
+      - text: "速速紫罗兰\n已经从你的背包中被移除"
+  Item_PlantGet_Q:
+    contents:
+      - text: "毅力胡萝卜\n已经从你的背包中被移除"
+  Item_RoastFish_01:
+    contents:
+      - text: "烤鲈鱼\n已经从你的背包中被移除"
+  Item_RoastFish_02:
+    contents:
+      - text: "烤生命鲈鱼\n已经从你的背包中被移除"
+  Item_RoastFish_03:
+    contents:
+      - text: "烤鳟鱼\n已经从你的背包中被移除"
+  Item_RoastFish_04:
+    contents:
+      - text: "烤生命三文鱼\n已经从你的背包中被移除"
+  Item_RoastFish_07:
+    contents:
+      - text: "烤鲤鱼\n已经从你的背包中被移除"
+  Item_RoastFish_09:
+    contents:
+      - text: "烤鲷鱼\n已经从你的背包中被移除"
+  Item_RoastFish_11:
+    contents:
+      - text: "烤生命海螺\n已经从你的背包中被移除"
+  Item_RoastFish_13:
+    contents:
+      - text: "烤潜行田螺\n已经从你的背包中被移除"
+  Item_RoastFish_15:
+    contents:
+      - text: "烤螃蟹\n已经从你的背包中被移除"
+  Item_Roast_01:
+    contents:
+      - text: "烤兽肉\n已经从你的背包中被移除"
+  Item_Roast_02:
+    contents:
+      - text: "烤禽肉\n已经从你的背包中被移除"
+  Item_Roast_03:
+    contents:
+      - text: "烤苹果\n已经从你的背包中被移除"
+  Item_Roast_04:
+    contents:
+      - text: "烤精力蘑菇\n已经从你的背包中被移除"
+  Item_Roast_05:
+    contents:
+      - text: "烤生命松露\n已经从你的背包中被移除"
+  Item_Roast_06:
+    contents:
+      - text: "烤海拉鲁蘑菇\n已经从你的背包中被移除"
+  Item_Roast_07:
+    contents:
+      - text: "烤草莓\n已经从你的背包中被移除"
+  Item_Roast_08:
+    contents:
+      - text: "烤酥麻水果\n已经从你的背包中被移除"
+  Item_Roast_09:
+    contents:
+      - text: "烤生命榴莲\n已经从你的背包中被移除"
+  Item_Roast_10:
+    contents:
+      - text: "烤椰子\n已经从你的背包中被移除"
+  Item_Roast_11:
+    contents:
+      - text: "烤大剑香蕉\n已经从你的背包中被移除"
+  Item_Roast_12:
+    contents:
+      - text: "烤冰冷蜜瓜\n已经从你的背包中被移除"
+  Item_Roast_13:
+    contents:
+      - text: "烤暖暖草果\n已经从你的背包中被移除"
+  Item_Roast_15:
+    contents:
+      - text: "烤铠甲南瓜\n已经从你的背包中被移除"
+  Item_Roast_16:
+    contents:
+      - text: "烤速速莲蓬\n已经从你的背包中被移除"
+  Item_Roast_18:
+    contents:
+      - text: "烤小萝卜\n已经从你的背包中被移除"
+  Item_Roast_19:
+    contents:
+      - text: "烤大萝卜\n已经从你的背包中被移除"
+  Item_Roast_24:
+    contents:
+      - text: "烤速速胡萝卜\n已经从你的背包中被移除"
+  Item_Roast_27:
+    contents:
+      - text: "烤大剑草\n已经从你的背包中被移除"
+  Item_Roast_28:
+    contents:
+      - text: "烤铠甲草\n已经从你的背包中被移除"
+  Item_Roast_31:
+    contents:
+      - text: "烤冰冷蘑菇\n已经从你的背包中被移除"
+  Item_Roast_32:
+    contents:
+      - text: "烤暖暖蘑菇\n已经从你的背包中被移除"
+  Item_Roast_33:
+    contents:
+      - text: "烤酥麻蘑菇\n已经从你的背包中被移除"
+  Item_Roast_36:
+    contents:
+      - text: "烤速速蘑菇\n已经从你的背包中被移除"
+  Item_Roast_37:
+    contents:
+      - text: "烤大剑蘑菇\n已经从你的背包中被移除"
+  Item_Roast_38:
+    contents:
+      - text: "烤铠甲蘑菇\n已经从你的背包中被移除"
+  Item_Roast_39:
+    contents:
+      - text: "烤潜行蘑菇\n已经从你的背包中被移除"
+  Item_Roast_40:
+    contents:
+      - text: "烤高级兽肉\n已经从你的背包中被移除"
+  Item_Roast_41:
+    contents:
+      - text: "烤高级禽肉\n已经从你的背包中被移除"
+  Item_Roast_45:
+    contents:
+      - text: "烤顶级兽肉\n已经从你的背包中被移除"
+  Item_Roast_46:
+    contents:
+      - text: "烤顶级禽肉\n已经从你的背包中被移除"
+  Item_Roast_48:
+    contents:
+      - text: "烤橡子\n已经从你的背包中被移除"
+  Item_Roast_49:
+    contents:
+      - text: "烤大个生命松露\n已经从你的背包中被移除"
+  Item_Roast_50:
+    contents:
+      - text: "烤毅力胡萝卜\n已经从你的背包中被移除"
+  Item_Roast_51:
+    contents:
+      - text: "烤蛋\n已经从你的背包中被移除"
+  Item_Roast_52:
+    contents:
+      - text: "烤树果\n已经从你的背包中被移除"
+  Item_Roast_53:
+    contents:
+      - text: "烤毅力蘑菇\n已经从你的背包中被移除"
+  Item_SkyviewEgg:
+    contents:
+      - text: "天际蛋\n已经从你的背包中被移除"
+  KeySmall:
+    contents:
+      - text: "小钥匙\n已经从你的背包中被移除"
+  Obj_AncientArrow_B_01:
+    contents:
+      - text: "古代兵装·箭 x5\n已经从你的背包中被移除"
+  Obj_AncientArrow_C_01:
+    contents:
+      - text: "古代兵装·箭 x3\n已经从你的背包中被移除"
+  Obj_Armor_115_Head:
+    contents:
+      - text: "雷鸣头盔\n已经从你的背包中被移除"
+  Obj_ArrowBundle_A_01:
+    contents:
+      - text: "木箭 x5\n已经从你的背包中被移除"
+  Obj_ArrowBundle_A_02:
+    contents:
+      - text: "木箭 x10\n已经从你的背包中被移除"
+  Obj_ArrowBundle_A_10:
+    contents:
+      - text: "木箭 x\n已经从你的背包中被移除"
+  Obj_BombArrow_A_02:
+    contents:
+      - text: "炸弹箭 x5\n已经从你的背包中被移除"
+  Obj_BombArrow_A_03:
+    contents:
+      - text: "炸弹箭 x10\n已经从你的背包中被移除"
+  Obj_BombArrow_A_04:
+    contents:
+      - text: "炸弹箭 x20\n已经从你的背包中被移除"
+  Obj_BombArrow_A_10:
+    contents:
+      - text: "炸弹箭 x\n已经从你的背包中被移除"
+  Obj_DLC_HeroSeal_Gerudo:
+    contents:
+      - text: "娜波力斯之证\n已经从你的背包中被移除"
+  Obj_DLC_HeroSeal_Goron:
+    contents:
+      - text: "鲁达尼亚之证\n已经从你的背包中被移除"
+  Obj_DLC_HeroSeal_Rito:
+    contents:
+      - text: "梅德之证\n已经从你的背包中被移除"
+  Obj_DLC_HeroSeal_Zora:
+    contents:
+      - text: "露塔之证\n已经从你的背包中被移除"
+  Obj_DLC_HeroSoul_Gerudo:
+    contents:
+      - text: "英杰乌尔波扎的愤怒＋\n已经从你的背包中被移除"
+  Obj_DLC_HeroSoul_Goron:
+    contents:
+      - text: "英杰达尔克尔的守护＋\n已经从你的背包中被移除"
+  Obj_DLC_HeroSoul_Rito:
+    contents:
+      - text: "英杰力巴尔的勇猛＋\n已经从你的背包中被移除"
+  Obj_DLC_HeroSoul_Zora:
+    contents:
+      - text: "英杰米法的祈福＋\n已经从你的背包中被移除"
+  Obj_DungeonClearSeal:
+    contents:
+      - text: "试练通过证\n已经从你的背包中被移除"
+  Obj_ElectricArrow_A_02:
+    contents:
+      - text: "电箭 x10\n已经从你的背包中被移除"
+  Obj_ElectricArrow_A_03:
+    contents:
+      - text: "电箭 x5\n已经从你的背包中被移除"
+  Obj_FireArrow_A_02:
+    contents:
+      - text: "火箭 x10\n已经从你的背包中被移除"
+  Obj_FireArrow_A_03:
+    contents:
+      - text: "火箭 x5\n已经从你的背包中被移除"
+  Obj_FireWoodBundle:
+    contents:
+      - text: "木柴捆\n已经从你的背包中被移除"
+  Obj_HeartUtuwa_A_01:
+    contents:
+      - text: "心之容器\n已经从你的背包中被移除"
+  Obj_HeroSoul_Gerudo:
+    contents:
+      - text: "英杰乌尔波扎的愤怒\n已经从你的背包中被移除"
+  Obj_HeroSoul_Goron:
+    contents:
+      - text: "英杰达尔克尔的守护\n已经从你的背包中被移除"
+  Obj_HeroSoul_Rito:
+    contents:
+      - text: "英杰力巴尔的勇猛\n已经从你的背包中被移除"
+  Obj_HeroSoul_Zora:
+    contents:
+      - text: "英杰米法的祈福\n已经从你的背包中被移除"
+  Obj_IceArrow_A_02:
+    contents:
+      - text: "冰箭 x10\n已经从你的背包中被移除"
+  Obj_IceArrow_A_03:
+    contents:
+      - text: "冰箭 x5\n已经从你的背包中被移除"
+  Obj_KorokNuts:
+    contents:
+      - text: "克洛格的果实\n已经从你的背包中被移除"
+  Obj_Maracas:
+    contents:
+      - text: "伯库林的沙球\n已经从你的背包中被移除"
+  Obj_Photo_Animal:
+    contents:
+      - text: "生物的照片\n已经从你的背包中被移除"
+  Obj_Photo_BossEnemy:
+    contents:
+      - text: "强敌的照片\n已经从你的背包中被移除"
+  Obj_Photo_Enemy:
+    contents:
+      - text: "怪物的照片\n已经从你的背包中被移除"
+  Obj_Photo_Material:
+    contents:
+      - text: "材料的照片\n已经从你的背包中被移除"
+  Obj_Photo_Other:
+    contents:
+      - text: "宝物的照片\n已经从你的背包中被移除"
+  Obj_Photo_Weapon:
+    contents:
+      - text: "武器的照片\n已经从你的背包中被移除"
+  Obj_ProofBook:
+    contents:
+      - text: "秘密信封\n已经从你的背包中被移除"
+  Obj_ProofGiantKiller:
+    contents:
+      - text: "西诺克斯屠戮者之证\n已经从你的背包中被移除"
+  Obj_ProofGolemKiller:
+    contents:
+      - text: "岩石巨人屠戮者之证\n已经从你的背包中被移除"
+  Obj_ProofKorok:
+    contents:
+      - text: "伯库林的果实\n已经从你的背包中被移除"
+  Obj_ProofSandwormKiller:
+    contents:
+      - text: "拉吉克屠戮者之证\n已经从你的背包中被移除"
+  Obj_StaminaUtuwa_A_01:
+    contents:
+      - text: "精力容器\n已经从你的背包中被移除"
+  Obj_WarpDLC:
+    contents:
+      - text: "传送标注器\n已经从你的背包中被移除"
+  PutRupee:
+    contents:
+      - text: "绿卢比\n已经从你的背包中被移除"
+  PutRupee_Blue:
+    contents:
+      - text: "蓝卢比\n已经从你的背包中被移除"
+  PutRupee_Gold:
+    contents:
+      - text: "金卢比\n已经从你的背包中被移除"
+  PutRupee_Purple:
+    contents:
+      - text: "紫卢比\n已经从你的背包中被移除"
+  PutRupee_Red:
+    contents:
+      - text: "红卢比\n已经从你的背包中被移除"
+  PutRupee_Silver:
+    contents:
+      - text: "银卢比\n已经从你的背包中被移除"
+  Weapon_Bow_001:
+    contents:
+      - text: "旅人之弓\n已经从你的背包中被移除"
+  Weapon_Bow_002:
+    contents:
+      - text: "士兵之弓\n已经从你的背包中被移除"
+  Weapon_Bow_003:
+    contents:
+      - text: "尖刺波克弓\n已经从你的背包中被移除"
+  Weapon_Bow_004:
+    contents:
+      - text: "波克弓\n已经从你的背包中被移除"
+  Weapon_Bow_006:
+    contents:
+      - text: "蜥蜴弓\n已经从你的背包中被移除"
+  Weapon_Bow_009:
+    contents:
+      - text: "莱尼尔之弓\n已经从你的背包中被移除"
+  Weapon_Bow_011:
+    contents:
+      - text: "强力蜥蜴弓\n已经从你的背包中被移除"
+  Weapon_Bow_013:
+    contents:
+      - text: "森民之弓\n已经从你的背包中被移除"
+  Weapon_Bow_014:
+    contents:
+      - text: "卓拉之弓\n已经从你的背包中被移除"
+  Weapon_Bow_015:
+    contents:
+      - text: "格鲁德之弓\n已经从你的背包中被移除"
+  Weapon_Bow_016:
+    contents:
+      - text: "飞燕弓\n已经从你的背包中被移除"
+  Weapon_Bow_017:
+    contents:
+      - text: "游隼弓\n已经从你的背包中被移除"
+  Weapon_Bow_023:
+    contents:
+      - text: "古代兵装·弓\n已经从你的背包中被移除"
+  Weapon_Bow_026:
+    contents:
+      - text: "兽王弓\n已经从你的背包中被移除"
+  Weapon_Bow_027:
+    contents:
+      - text: "龙骨波克弓\n已经从你的背包中被移除"
+  Weapon_Bow_028:
+    contents:
+      - text: "大鹫弓\n已经从你的背包中被移除"
+  Weapon_Bow_029:
+    contents:
+      - text: "一心之弓\n已经从你的背包中被移除"
+  Weapon_Bow_030:
+    contents:
+      - text: "钢铁蜥蜴弓\n已经从你的背包中被移除"
+  Weapon_Bow_032:
+    contents:
+      - text: "兽神弓\n已经从你的背包中被移除"
+  Weapon_Bow_033:
+    contents:
+      - text: "近卫之弓\n已经从你的背包中被移除"
+  Weapon_Bow_035:
+    contents:
+      - text: "骑士之弓\n已经从你的背包中被移除"
+  Weapon_Bow_036:
+    contents:
+      - text: "王族之弓\n已经从你的背包中被移除"
+  Weapon_Bow_038:
+    contents:
+      - text: "木之弓\n已经从你的背包中被移除"
+  Weapon_Bow_040:
+    contents:
+      - text: "二连弓\n已经从你的背包中被移除"
+  Weapon_Bow_071:
+    contents:
+      - text: "光之弓箭\n已经从你的背包中被移除"
+  Weapon_Bow_072:
+    contents:
+      - text: "黄昏之光弓\n已经从你的背包中被移除"
+  Weapon_Lsword_001:
+    contents:
+      - text: "旅人双手剑\n已经从你的背包中被移除"
+  Weapon_Lsword_002:
+    contents:
+      - text: "士兵双手剑\n已经从你的背包中被移除"
+  Weapon_Lsword_003:
+    contents:
+      - text: "骑士双手剑\n已经从你的背包中被移除"
+  Weapon_Lsword_004:
+    contents:
+      - text: "波克棍\n已经从你的背包中被移除"
+  Weapon_Lsword_005:
+    contents:
+      - text: "尖刺波克棍\n已经从你的背包中被移除"
+  Weapon_Lsword_006:
+    contents:
+      - text: "龙骨波克棍\n已经从你的背包中被移除"
+  Weapon_Lsword_010:
+    contents:
+      - text: "莫力布林棍\n已经从你的背包中被移除"
+  Weapon_Lsword_011:
+    contents:
+      - text: "尖刺莫力布林棍\n已经从你的背包中被移除"
+  Weapon_Lsword_012:
+    contents:
+      - text: "龙骨莫力布林棍\n已经从你的背包中被移除"
+  Weapon_Lsword_013:
+    contents:
+      - text: "守护者之斧\n已经从你的背包中被移除"
+  Weapon_Lsword_014:
+    contents:
+      - text: "守护者之斧+\n已经从你的背包中被移除"
+  Weapon_Lsword_015:
+    contents:
+      - text: "守护者之斧++\n已经从你的背包中被移除"
+  Weapon_Lsword_016:
+    contents:
+      - text: "莱尼尔大剑\n已经从你的背包中被移除"
+  Weapon_Lsword_017:
+    contents:
+      - text: "兽王大剑\n已经从你的背包中被移除"
+  Weapon_Lsword_018:
+    contents:
+      - text: "兽神大剑\n已经从你的背包中被移除"
+  Weapon_Lsword_019:
+    contents:
+      - text: "莫力布林之骨\n已经从你的背包中被移除"
+  Weapon_Lsword_020:
+    contents:
+      - text: "生锈的双手剑\n已经从你的背包中被移除"
+  Weapon_Lsword_023:
+    contents:
+      - text: "古代兵装·大剑\n已经从你的背包中被移除"
+  Weapon_Lsword_024:
+    contents:
+      - text: "王族双手剑\n已经从你的背包中被移除"
+  Weapon_Lsword_027:
+    contents:
+      - text: "卓拉大剑\n已经从你的背包中被移除"
+  Weapon_Lsword_029:
+    contents:
+      - text: "格鲁德双手剑\n已经从你的背包中被移除"
+  Weapon_Lsword_030:
+    contents:
+      - text: "达人斧头\n已经从你的背包中被移除"
+  Weapon_Lsword_031:
+    contents:
+      - text: "铁锤\n已经从你的背包中被移除"
+  Weapon_Lsword_032:
+    contents:
+      - text: "樵夫斧头\n已经从你的背包中被移除"
+  Weapon_Lsword_033:
+    contents:
+      - text: "火焰大剑\n已经从你的背包中被移除"
+  Weapon_Lsword_034:
+    contents:
+      - text: "冰雪大剑\n已经从你的背包中被移除"
+  Weapon_Lsword_035:
+    contents:
+      - text: "雷电大剑\n已经从你的背包中被移除"
+  Weapon_Lsword_036:
+    contents:
+      - text: "劈石剑\n已经从你的背包中被移除"
+  Weapon_Lsword_037:
+    contents:
+      - text: "碎岩剑\n已经从你的背包中被移除"
+  Weapon_Lsword_038:
+    contents:
+      - text: "船桨\n已经从你的背包中被移除"
+  Weapon_Lsword_041:
+    contents:
+      - text: "戒心长刀\n已经从你的背包中被移除"
+  Weapon_Lsword_045:
+    contents:
+      - text: "农用锄头\n已经从你的背包中被移除"
+  Weapon_Lsword_047:
+    contents:
+      - text: "近卫双手剑\n已经从你的背包中被移除"
+  Weapon_Lsword_051:
+    contents:
+      - text: "大飞旋镖\n已经从你的背包中被移除"
+  Weapon_Lsword_054:
+    contents:
+      - text: "碎岩巨剑\n已经从你的背包中被移除"
+  Weapon_Lsword_055:
+    contents:
+      - text: "静心大剑\n已经从你的背包中被移除"
+  Weapon_Lsword_056:
+    contents:
+      - text: "克洛格的团扇\n已经从你的背包中被移除"
+  Weapon_Lsword_057:
+    contents:
+      - text: "六贤者之剑\n已经从你的背包中被移除"
+  Weapon_Lsword_059:
+    contents:
+      - text: "大鼓隆之剑\n已经从你的背包中被移除"
+  Weapon_Lsword_060:
+    contents:
+      - text: "鬼神大剑\n已经从你的背包中被移除"
+  Weapon_Lsword_074:
+    contents:
+      - text: "斩风刀\n已经从你的背包中被移除"
+  Weapon_Shield_001:
+    contents:
+      - text: "木盾\n已经从你的背包中被移除"
+  Weapon_Shield_002:
+    contents:
+      - text: "士兵盾\n已经从你的背包中被移除"
+  Weapon_Shield_003:
+    contents:
+      - text: "骑士盾\n已经从你的背包中被移除"
+  Weapon_Shield_004:
+    contents:
+      - text: "波克盾\n已经从你的背包中被移除"
+  Weapon_Shield_005:
+    contents:
+      - text: "尖刺波克盾\n已经从你的背包中被移除"
+  Weapon_Shield_006:
+    contents:
+      - text: "龙骨波克盾\n已经从你的背包中被移除"
+  Weapon_Shield_007:
+    contents:
+      - text: "蜥蜴盾\n已经从你的背包中被移除"
+  Weapon_Shield_008:
+    contents:
+      - text: "强力蜥蜴盾\n已经从你的背包中被移除"
+  Weapon_Shield_009:
+    contents:
+      - text: "钢铁蜥蜴盾\n已经从你的背包中被移除"
+  Weapon_Shield_013:
+    contents:
+      - text: "守护者之盾\n已经从你的背包中被移除"
+  Weapon_Shield_014:
+    contents:
+      - text: "守护者之盾+\n已经从你的背包中被移除"
+  Weapon_Shield_015:
+    contents:
+      - text: "守护者之盾++\n已经从你的背包中被移除"
+  Weapon_Shield_016:
+    contents:
+      - text: "莱尼尔盾\n已经从你的背包中被移除"
+  Weapon_Shield_017:
+    contents:
+      - text: "兽王盾\n已经从你的背包中被移除"
+  Weapon_Shield_018:
+    contents:
+      - text: "兽神盾\n已经从你的背包中被移除"
+  Weapon_Shield_021:
+    contents:
+      - text: "生锈的盾\n已经从你的背包中被移除"
+  Weapon_Shield_022:
+    contents:
+      - text: "王族盾\n已经从你的背包中被移除"
+  Weapon_Shield_023:
+    contents:
+      - text: "森民盾\n已经从你的背包中被移除"
+  Weapon_Shield_025:
+    contents:
+      - text: "卓拉盾\n已经从你的背包中被移除"
+  Weapon_Shield_026:
+    contents:
+      - text: "格鲁德盾\n已经从你的背包中被移除"
+  Weapon_Shield_030:
+    contents:
+      - text: "海利亚盾\n已经从你的背包中被移除"
+  Weapon_Shield_031:
+    contents:
+      - text: "兔纹盾\n已经从你的背包中被移除"
+  Weapon_Shield_032:
+    contents:
+      - text: "鱼纹盾\n已经从你的背包中被移除"
+  Weapon_Shield_033:
+    contents:
+      - text: "近卫盾\n已经从你的背包中被移除"
+  Weapon_Shield_034:
+    contents:
+      - text: "兽纹盾\n已经从你的背包中被移除"
+  Weapon_Shield_035:
+    contents:
+      - text: "旅人盾\n已经从你的背包中被移除"
+  Weapon_Shield_036:
+    contents:
+      - text: "太阳盾\n已经从你的背包中被移除"
+  Weapon_Shield_037:
+    contents:
+      - text: "七宝盾\n已经从你的背包中被移除"
+  Weapon_Shield_038:
+    contents:
+      - text: "古代兵装·盾\n已经从你的背包中被移除"
+  Weapon_Shield_040:
+    contents:
+      - text: "锅盖\n已经从你的背包中被移除"
+  Weapon_Shield_041:
+    contents:
+      - text: "护心盾\n已经从你的背包中被移除"
+  Weapon_Shield_042:
+    contents:
+      - text: "风筝盾\n已经从你的背包中被移除"
+  Weapon_Shield_057:
+    contents:
+      - text: "勇者盾\n已经从你的背包中被移除"
+  Weapon_Spear_001:
+    contents:
+      - text: "旅人之枪\n已经从你的背包中被移除"
+  Weapon_Spear_002:
+    contents:
+      - text: "士兵之枪\n已经从你的背包中被移除"
+  Weapon_Spear_003:
+    contents:
+      - text: "骑士之枪\n已经从你的背包中被移除"
+  Weapon_Spear_004:
+    contents:
+      - text: "波克枪\n已经从你的背包中被移除"
+  Weapon_Spear_005:
+    contents:
+      - text: "尖刺波克枪\n已经从你的背包中被移除"
+  Weapon_Spear_006:
+    contents:
+      - text: "龙骨波克枪\n已经从你的背包中被移除"
+  Weapon_Spear_007:
+    contents:
+      - text: "蜥蜴枪\n已经从你的背包中被移除"
+  Weapon_Spear_008:
+    contents:
+      - text: "强力蜥蜴枪\n已经从你的背包中被移除"
+  Weapon_Spear_009:
+    contents:
+      - text: "双头蜥蜴枪\n已经从你的背包中被移除"
+  Weapon_Spear_010:
+    contents:
+      - text: "莫力布林枪\n已经从你的背包中被移除"
+  Weapon_Spear_011:
+    contents:
+      - text: "尖刺莫力布林枪\n已经从你的背包中被移除"
+  Weapon_Spear_012:
+    contents:
+      - text: "龙骨莫力布林枪\n已经从你的背包中被移除"
+  Weapon_Spear_013:
+    contents:
+      - text: "守护者之枪\n已经从你的背包中被移除"
+  Weapon_Spear_014:
+    contents:
+      - text: "守护者之枪+\n已经从你的背包中被移除"
+  Weapon_Spear_015:
+    contents:
+      - text: "守护者之枪++\n已经从你的背包中被移除"
+  Weapon_Spear_016:
+    contents:
+      - text: "莱尼尔之枪\n已经从你的背包中被移除"
+  Weapon_Spear_017:
+    contents:
+      - text: "兽王枪\n已经从你的背包中被移除"
+  Weapon_Spear_018:
+    contents:
+      - text: "兽神枪\n已经从你的背包中被移除"
+  Weapon_Spear_021:
+    contents:
+      - text: "生锈的枪\n已经从你的背包中被移除"
+  Weapon_Spear_022:
+    contents:
+      - text: "农用钉耙\n已经从你的背包中被移除"
+  Weapon_Spear_023:
+    contents:
+      - text: "古代兵装·枪\n已经从你的背包中被移除"
+  Weapon_Spear_024:
+    contents:
+      - text: "王族之枪\n已经从你的背包中被移除"
+  Weapon_Spear_025:
+    contents:
+      - text: "森民之枪\n已经从你的背包中被移除"
+  Weapon_Spear_027:
+    contents:
+      - text: "卓拉之枪\n已经从你的背包中被移除"
+  Weapon_Spear_028:
+    contents:
+      - text: "银鳞之枪\n已经从你的背包中被移除"
+  Weapon_Spear_029:
+    contents:
+      - text: "格鲁德之枪\n已经从你的背包中被移除"
+  Weapon_Spear_030:
+    contents:
+      - text: "投枪\n已经从你的背包中被移除"
+  Weapon_Spear_031:
+    contents:
+      - text: "削岩棒\n已经从你的背包中被移除"
+  Weapon_Spear_032:
+    contents:
+      - text: "斩风羽枪\n已经从你的背包中被移除"
+  Weapon_Spear_033:
+    contents:
+      - text: "火焰枪\n已经从你的背包中被移除"
+  Weapon_Spear_034:
+    contents:
+      - text: "冰雪枪\n已经从你的背包中被移除"
+  Weapon_Spear_035:
+    contents:
+      - text: "雷电枪\n已经从你的背包中被移除"
+  Weapon_Spear_036:
+    contents:
+      - text: "木拖把\n已经从你的背包中被移除"
+  Weapon_Spear_037:
+    contents:
+      - text: "蜿蜒之枪\n已经从你的背包中被移除"
+  Weapon_Spear_038:
+    contents:
+      - text: "渔夫的鱼叉\n已经从你的背包中被移除"
+  Weapon_Spear_047:
+    contents:
+      - text: "近卫之枪\n已经从你的背包中被移除"
+  Weapon_Spear_049:
+    contents:
+      - text: "祭祀之枪\n已经从你的背包中被移除"
+  Weapon_Spear_050:
+    contents:
+      - text: "光鳞之枪\n已经从你的背包中被移除"
+  Weapon_Sword_001:
+    contents:
+      - text: "旅人之剑\n已经从你的背包中被移除"
+  Weapon_Sword_002:
+    contents:
+      - text: "士兵之剑\n已经从你的背包中被移除"
+  Weapon_Sword_003:
+    contents:
+      - text: "骑士之剑\n已经从你的背包中被移除"
+  Weapon_Sword_004:
+    contents:
+      - text: "波克棒\n已经从你的背包中被移除"
+  Weapon_Sword_005:
+    contents:
+      - text: "尖刺波克棒\n已经从你的背包中被移除"
+  Weapon_Sword_006:
+    contents:
+      - text: "龙骨波克棒\n已经从你的背包中被移除"
+  Weapon_Sword_007:
+    contents:
+      - text: "蜥蜴飞旋镖\n已经从你的背包中被移除"
+  Weapon_Sword_008:
+    contents:
+      - text: "强力蜥蜴飞旋镖\n已经从你的背包中被移除"
+  Weapon_Sword_009:
+    contents:
+      - text: "三叉蜥蜴飞旋镖\n已经从你的背包中被移除"
+  Weapon_Sword_013:
+    contents:
+      - text: "守护者匕首\n已经从你的背包中被移除"
+  Weapon_Sword_014:
+    contents:
+      - text: "守护者匕首+\n已经从你的背包中被移除"
+  Weapon_Sword_015:
+    contents:
+      - text: "守护者匕首++\n已经从你的背包中被移除"
+  Weapon_Sword_016:
+    contents:
+      - text: "莱尼尔之剑\n已经从你的背包中被移除"
+  Weapon_Sword_017:
+    contents:
+      - text: "兽王剑\n已经从你的背包中被移除"
+  Weapon_Sword_018:
+    contents:
+      - text: "兽神剑\n已经从你的背包中被移除"
+  Weapon_Sword_019:
+    contents:
+      - text: "波克布林之骨\n已经从你的背包中被移除"
+  Weapon_Sword_020:
+    contents:
+      - text: "蜥蜴战士之骨\n已经从你的背包中被移除"
+  Weapon_Sword_021:
+    contents:
+      - text: "生锈的剑\n已经从你的背包中被移除"
+  Weapon_Sword_022:
+    contents:
+      - text: "木汤勺\n已经从你的背包中被移除"
+  Weapon_Sword_023:
+    contents:
+      - text: "古代兵装·剑\n已经从你的背包中被移除"
+  Weapon_Sword_024:
+    contents:
+      - text: "王族之剑\n已经从你的背包中被移除"
+  Weapon_Sword_025:
+    contents:
+      - text: "森民之剑\n已经从你的背包中被移除"
+  Weapon_Sword_027:
+    contents:
+      - text: "卓拉之剑\n已经从你的背包中被移除"
+  Weapon_Sword_029:
+    contents:
+      - text: "格鲁德匕首\n已经从你的背包中被移除"
+  Weapon_Sword_030:
+    contents:
+      - text: "月光匕首\n已经从你的背包中被移除"
+  Weapon_Sword_031:
+    contents:
+      - text: "斩风羽剑\n已经从你的背包中被移除"
+  Weapon_Sword_033:
+    contents:
+      - text: "火焰剑\n已经从你的背包中被移除"
+  Weapon_Sword_034:
+    contents:
+      - text: "冰雪剑\n已经从你的背包中被移除"
+  Weapon_Sword_035:
+    contents:
+      - text: "雷电剑\n已经从你的背包中被移除"
+  Weapon_Sword_040:
+    contents:
+      - text: "弹簧锤\n已经从你的背包中被移除"
+  Weapon_Sword_041:
+    contents:
+      - text: "戒心小刀\n已经从你的背包中被移除"
+  Weapon_Sword_043:
+    contents:
+      - text: "火把\n已经从你的背包中被移除"
+  Weapon_Sword_044:
+    contents:
+      - text: "木枝\n已经从你的背包中被移除"
+  Weapon_Sword_047:
+    contents:
+      - text: "近卫之剑\n已经从你的背包中被移除"
+  Weapon_Sword_048:
+    contents:
+      - text: "陨石杖\n已经从你的背包中被移除"
+  Weapon_Sword_049:
+    contents:
+      - text: "冰冻杖\n已经从你的背包中被移除"
+  Weapon_Sword_050:
+    contents:
+      - text: "雷电杖\n已经从你的背包中被移除"
+  Weapon_Sword_051:
+    contents:
+      - text: "飞旋镖\n已经从你的背包中被移除"
+  Weapon_Sword_052:
+    contents:
+      - text: "七宝匕首\n已经从你的背包中被移除"
+  Weapon_Sword_053:
+    contents:
+      - text: "夺命镰刀\n已经从你的背包中被移除"
+  Weapon_Sword_057:
+    contents:
+      - text: "女神的白刃剑\n已经从你的背包中被移除"
+  Weapon_Sword_058:
+    contents:
+      - text: "长剑\n已经从你的背包中被移除"
+  Weapon_Sword_059:
+    contents:
+      - text: "海风飞旋镖\n已经从你的背包中被移除"
+  Weapon_Sword_060:
+    contents:
+      - text: "火焰杖\n已经从你的背包中被移除"
+  Weapon_Sword_061:
+    contents:
+      - text: "冰雪杖\n已经从你的背包中被移除"
+  Weapon_Sword_062:
+    contents:
+      - text: "电击杖\n已经从你的背包中被移除"
+  Weapon_Sword_070:
+    contents:
+      - text: "大师之剑\n已经从你的背包中被移除"
+  Weapon_Sword_073:
+    contents:
+      - text: "恶魔圆刃\n已经从你的背包中被移除"
+  Weapon_Sword_080:
+    contents:
+      - text: "大师之剑\n已经从你的背包中被移除"
+  Weapon_Sword_081:
+    contents:
+      - text: "大师之剑\n已经从你的背包中被移除"
+  Weapon_Sword_502:
+    contents:
+      - text: "必杀之剑\n已经从你的背包中被移除"
+  dyecolor_01:
+    contents:
+      - text: "蓝色\n已经从你的背包中被移除"
+  dyecolor_02:
+    contents:
+      - text: "红色\n已经从你的背包中被移除"
+  dyecolor_03:
+    contents:
+      - text: "黄色\n已经从你的背包中被移除"
+  dyecolor_04:
+    contents:
+      - text: "黄色\n已经从你的背包中被移除"
+  dyecolor_05:
+    contents:
+      - text: "黑色\n已经从你的背包中被移除"
+  dyecolor_06:
+    contents:
+      - text: "紫色\n已经从你的背包中被移除"
+  dyecolor_07:
+    contents:
+      - text: "绿色\n已经从你的背包中被移除"
+  dyecolor_08:
+    contents:
+      - text: "淡蓝色\n已经从你的背包中被移除"
+  dyecolor_09:
+    contents:
+      - text: "深蓝色\n已经从你的背包中被移除"
+  dyecolor_10:
+    contents:
+      - text: "橙色\n已经从你的背包中被移除"
+  dyecolor_11:
+    contents:
+      - text: "桃红色\n已经从你的背包中被移除"
+  dyecolor_12:
+    contents:
+      - text: "深红色\n已经从你的背包中被移除"
+  dyecolor_13:
+    contents:
+      - text: "淡黄色\n已经从你的背包中被移除"
+  dyecolor_14:
+    contents:
+      - text: "茶色\n已经从你的背包中被移除"
+  dyecolor_15:
+    contents:
+      - text: "灰色\n已经从你的背包中被移除"
+

@@ -1,0 +1,36 @@
+---
+group_count: 4
+atr1_unknown: 4
+entries:
+  QL_Randomizer_GoalMode_Desc:
+    contents:
+      - text: "你决定使用目标模式来游玩。\n完成所有目标以获得击败盖侬的能力。\n这个任务将会在你完成所有目标时更新。\n\n你可以通过"
+      - control:
+          kind: set_colour
+          colour: light_green4
+      - text: 随机mod管理权杖
+      - control:
+          kind: reset_colour
+      - text: "来检查目标的完成状态。\n\n当前状态："
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 目标未全部完成
+  QL_Randomizer_GoalMode_Finish:
+    contents:
+      - text: "干得好！你完成了所有目标！\n你已经可以去击败盖侬。\n\n祝你好运……你将会需要它。\n\n当前状态："
+      - control:
+          kind: set_colour
+          colour: light_green1
+      - text: 目标已全部完成
+  QL_Randomizer_GoalMode_Name:
+    contents:
+      - text: Randomizer Goal模式
+  QL_Randomizer_GoalMode_Ready:
+    contents:
+      - text: "干得好！你完成了所有目标！\n你已经可以去击败盖侬。\n\n祝你好运……你将会需要它。\n\n当前状态："
+      - control:
+          kind: set_colour
+          colour: light_green1
+      - text: 目标已全部完成
+

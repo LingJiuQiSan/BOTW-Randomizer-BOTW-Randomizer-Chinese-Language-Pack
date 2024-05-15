@@ -1,0 +1,119 @@
+---
+group_count: 43
+atr1_unknown: 4
+entries:
+  "0":
+    attributes: Npc_FaronWoods009
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 5
+            - 6
+      - text: "咦？"
+      - control:
+          kind: pause
+          length: short
+      - text: "您有技术来支持\n你的信心吗？"
+      - control:
+          kind: raw
+          zero:
+            four:
+              field_1: 0
+      - text: "没有什么比一个人认为\n自己可以应对最坏的情况，\n到了那个时候却崩溃更危险的了。\n你觉得呢？"
+      - control:
+          kind: pause
+          length: long
+      - text: "你有足够的信心去"
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 证明你得到了正确的东西
+      - control:
+          kind: reset_colour
+      - text: "吗？"
+      - control:
+          kind: choice
+          choice_labels:
+            - 3
+            - 4
+            - 5
+          selected_index: 0
+          cancel_index: 2
+          unknown: 8
+  "1":
+    attributes: Npc_FaronWoods009
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: 年轻人……
+      - control:
+          kind: pause
+          length: long
+      - text: "你是否正在寻找"
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 训练
+      - control:
+          kind: reset_colour
+      - text: "呢？"
+      - control:
+          kind: choice
+          choice_labels:
+            - 3
+            - 6
+            - 5
+          selected_index: 0
+          cancel_index: 2
+          unknown: 8
+  "128":
+    attributes: Npc_FaronWoods009
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 3
+            - 12
+      - text: "那么我很抱歉。"
+      - control:
+          kind: pause
+          length: short
+      - text: "我并不是故意\n不按顺序说话的。"
+      - control:
+          kind: pause
+          length: long
+      - text: "年轻人，祝你在射击中\n获得快乐！"
+  "64":
+    attributes: Npc_FaronWoods009
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 5
+            - 16
+      - text: Hm...
+      - control:
+          kind: pause
+          length: long
+      - text: "我不喜欢这样的声音。\n这边的怪物很强大的怪物。\n你确定你不想和我"
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 训练
+      - control:
+          kind: reset_colour
+      - text: "吗？"
+      - control:
+          kind: choice
+          choice_labels:
+            - 3
+            - 6
+            - 5
+          selected_index: 0
+          cancel_index: 2
+          unknown: 8
+

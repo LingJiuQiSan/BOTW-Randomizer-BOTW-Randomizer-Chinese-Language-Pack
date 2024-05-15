@@ -1,0 +1,376 @@
+---
+group_count: 23
+atr1_unknown: 4
+entries:
+  "128":
+    attributes: Npc_MiniGame_Crosscountry
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 7
+            - 11
+      - control:
+          kind: text_size
+          percent: 125
+      - text: 呀呼！
+      - control:
+          kind: pause
+          length: short
+      - control:
+          kind: text_size
+          percent: 100
+      - text: "这才对嘛！"
+      - control:
+          kind: pause
+          length: short
+      - text: "这真是\n太棒了！"
+      - control:
+          kind: pause
+          length: short
+      - text: "但是每项挑战都必须有\n一些赌注。我敢赌"
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 20卢比
+      - control:
+          kind: reset_colour
+      - control:
+          kind: pause
+          length: long
+      - text: "我能在"
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 比赛
+      - control:
+          kind: reset_colour
+      - text: "中\n击败你。不过，你必须先付款！"
+      - control:
+          kind: choice
+          choice_labels:
+            - 5
+            - 6
+          selected_index: 0
+          cancel_index: 1
+          unknown: 6
+  "129":
+    attributes: Npc_MiniGame_Crosscountry
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 1
+            - 11
+      - control:
+          kind: text_size
+          percent: 125
+      - text: 呀呼！
+      - control:
+          kind: pause
+          length: short
+      - control:
+          kind: text_size
+          percent: 100
+      - text: "这才对嘛！"
+      - control:
+          kind: pause
+          length: short
+      - text: "这真是\n太棒了！"
+      - control:
+          kind: pause
+          length: short
+      - text: "为什么你不拿出\n另外"
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 20卢比
+      - control:
+          kind: reset_colour
+      - text: "然后和我再次"
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 比赛
+      - control:
+          kind: reset_colour
+      - text: "？"
+      - control:
+          kind: choice
+          choice_labels:
+            - 5
+            - 6
+          selected_index: 0
+          cancel_index: 1
+          unknown: 6
+  "256":
+    attributes: Npc_MiniGame_Crosscountry
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 9
+            - 12
+      - control:
+          kind: text_size
+          percent: 125
+      - text: 不!
+      - control:
+          kind: text_size
+          percent: 100
+      - control:
+          kind: pause
+          length: short
+      - text: "多么令人失望啊……"
+      - control:
+          kind: pause
+          length: short
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: "我原以为我终于遇到了一个\n有潜力的硬汉，"
+      - control:
+          kind: pause
+          length: long
+      - control:
+          kind: text_size
+          percent: 80
+      - text: 结果是我可能想错了。
+      - control:
+          kind: text_size
+          percent: 100
+  "320":
+    attributes: Npc_MiniGame_Crosscountry
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 1
+            - 1
+      - control:
+          kind: text_size
+          percent: 125
+      - text: 好！
+      - control:
+          kind: pause
+          length: short
+      - control:
+          kind: text_size
+          percent: 100
+      - text: "现在您已经进入\n事物的本质了！"
+      - control:
+          kind: pause
+          length: long
+      - text: "我将回去准备一些东西。\n请不要离开！"
+  "321":
+    attributes: Npc_MiniGame_Crosscountry
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 4
+      - control:
+          kind: text_size
+          percent: 125
+      - text: 好了！
+      - control:
+          kind: pause
+          length: short
+      - control:
+          kind: text_size
+          percent: 100
+      - text: "感谢你的等待！"
+      - control:
+          kind: pause
+          length: long
+      - text: "我已经准备好了，\n我可能会爆发，我打赌你也是！\n所以让我们开始"
+      - control:
+          kind: pause
+          length: short
+      - text: "……"
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 比赛
+      - control:
+          kind: reset_colour
+      - text: "！"
+  "323":
+    attributes: Npc_MiniGame_Crosscountry
+    contents:
+      - text: "目标是"
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "山顶处的\n旗帜"
+      - control:
+          kind: reset_colour
+      - text: "！"
+      - control:
+          kind: pause
+          length: long
+      - text: " 我们只有两个人，\n所以一旦有人到达终点比赛就结束了！"
+  "324":
+    attributes: Npc_MiniGame_Crosscountry
+    contents:
+      - control:
+          kind: text_size
+          percent: 125
+      - text: 还有一件事！
+      - control:
+          kind: text_size
+          percent: 100
+      - control:
+          kind: pause
+          length: short
+      - text: "你可能已经猜到了这一点，\n但这是一场"
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 马拉松
+      - control:
+          kind: reset_colour
+      - text: "，\n不是一场"
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 赛马
+      - control:
+          kind: reset_colour
+      - text: "。\n如果你骑马或者跑离目标而不是\n跑向目标，你将会"
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 被取消资格
+      - control:
+          kind: reset_colour
+      - text: "！"
+  "327":
+    attributes: Npc_MiniGame_Crosscountry
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 4
+      - control:
+          kind: text_size
+          percent: 125
+      - text: 然后现在……
+      - control:
+          kind: pause
+          length: short
+      - text: "是时候了！"
+      - control:
+          kind: pause
+          length: long
+      - text: "准备……"
+      - control:
+          kind: text_size
+          percent: 100
+  "384":
+    attributes: Npc_MiniGame_Crosscountry
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 3
+            - 12
+      - control:
+          kind: text_size
+          percent: 125
+      - text: 什么？！
+      - control:
+          kind: text_size
+          percent: 100
+      - control:
+          kind: pause
+          length: short
+      - text: "你甚至在我们开始前就\n放弃了比赛？"
+      - control:
+          kind: pause
+          length: short
+      - text: " "
+      - control:
+          kind: text_size
+          percent: 80
+      - text: 哎呀……
+      - control:
+          kind: pause
+          length: long
+      - text: " "
+      - control:
+          kind: text_size
+          percent: 100
+      - text: "抱着这样的态度\n你将会在生活中一事无成！"
+  "768":
+    attributes: Npc_MiniGame_Crosscountry
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 7
+            - 11
+      - control:
+          kind: text_size
+          percent: 125
+      - text: 呜！
+      - control:
+          kind: pause
+          length: short
+      - text: "我喜欢你这家伙！"
+      - control:
+          kind: pause
+          length: short
+      - text: "\n好！"
+      - control:
+          kind: text_size
+          percent: 100
+      - text: "\n\n"
+      - control:
+          kind: pause
+          length: long
+      - text: "规则和之前一样。\n谁先达到目标就获胜！"
+  "832":
+    attributes: Npc_MiniGame_Crosscountry
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 9
+            - 0
+      - control:
+          kind: text_size
+          percent: 125
+      - text: 呜……
+      - control:
+          kind: pause
+          length: short
+      - text: " "
+      - control:
+          kind: text_size
+          percent: 100
+      - text: "那不是"
+      - control:
+          kind: pause
+          length: short
+      - control:
+          kind: text_size
+          percent: 80
+      - text: 我希望的结果……
+      - control:
+          kind: text_size
+          percent: 100
+  "833":
+    attributes: Npc_MiniGame_Crosscountry
+    contents:
+      - control:
+          kind: sound
+          unknown:
+            - 0
+            - 0
+      - text: "利用您所做的所有旅行作为\n增强腿部肌肉的机会！"
+

@@ -1,0 +1,265 @@
+---
+group_count: 30
+atr1_unknown: 0
+entries:
+  ClearDungeon:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Special_ClearDungeon
+      - text: " 神庙"
+  ClearFairyFountain:
+    contents:
+      - text: "激活 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Special_ClearFairyFountain
+      - text: " 大精灵之泉"
+  ClearTower:
+    contents:
+      - text: "激活 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Special_ClearTower
+      - text: " 希卡之塔"
+  Clear_RemainsElectric:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 神兽瓦·娜波力斯
+  Clear_RemainsFire:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 神兽瓦·鲁达尼亚
+  Clear_RemainsWater:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 神兽瓦·露塔
+  Clear_RemainsWind:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 神兽瓦·梅德
+  CollectHeroSoul:
+    contents:
+      - text: "获得 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Special_CollectHeroSoul
+      - text: " 英杰技能"
+  CollectKorok:
+    contents:
+      - text: "收集 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Special_CollectKorok
+      - text: " 克洛格的种子"
+  CollectMemory:
+    contents:
+      - text: "收集 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Special_CollectMemory
+      - text: " 回忆"
+  CompleteMiniGame_Bowling:
+    contents:
+      - text: "完成迷你游戏 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 彭多的雪球保龄球(Snowball Bowling)
+  CompleteMiniGame_Crosscountry:
+    contents:
+      - text: "完成迷你游戏 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 克罗康巴的马拉松(Footrace)
+  CompleteMiniGame_HorseRace:
+    contents:
+      - text: "完成迷你游戏 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 布林喀的障碍训练赛(Horse Race)
+  CompleteMiniGame_HorsebackArchery:
+    contents:
+      - text: "完成迷你游戏 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 吉宁的骑马射箭挑战赛(Horse Race (Targets))
+  CompleteMiniGame_ParasailArchery:
+    contents:
+      - text: "完成迷你游戏 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 特巴与丘栗的飞行训练试验(Flight Range Trial)
+  CompleteMiniGame_ParasailRide:
+    contents:
+      - text: "完成迷你游戏 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 米沫基的滑翔伞课程(Paraglider Course)
+  CompleteMiniGame_ShieldSurfing:
+    contents:
+      - text: "完成迷你游戏 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 丝莱米的滑雪训练(Shield Surfing)
+  CompleteMiniGame_SmashGolf:
+    contents:
+      - text: "完成迷你游戏 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 格力弗特的邦邦高尔夫(Boom Bam Golf)
+  Defeat_Kohga:
+    contents:
+      - text: " - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "伊盖队的队长：可盖大人(Master of the Yiga, Kohga)"
+  FreeNaydra:
+    contents:
+      - text: "完成 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 解放聂耳龙
+  HaveMaxHeart:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Special_HaveMaxHeart
+      - text: " 最大心心值"
+  HaveRupee:
+    contents:
+      - text: "拥有 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Special_HaveRupee
+      - text: " 卢比"
+  KeyItem_Obj_Maracas:
+    contents:
+      - text: "获得 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: "伯库林的沙球(Hestu's Maracas)"
+  KeyItem_Obj_RemoteBombLv2:
+    contents:
+      - text: "获得 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 遥控炸弹+
+  KeyItem_Obj_SheikSensorLv2:
+    contents:
+      - text: "获得 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 希卡感应器+
+  KeyItem_Obj_StopTimerLv2:
+    contents:
+      - text: "获得 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 静止器+
+  KeyItem_Obj_WarpDLC:
+    contents:
+      - text: "获得 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 传送标注器
+  KeyItem_Weapon_Sword_070:
+    contents:
+      - text: "获得 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: 大师之剑
+  SleepBed:
+    contents:
+      - text: "睡 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Special_SleepBed
+      - text: " 床"
+  UpgradeArmor:
+    contents:
+      - text: "升级 - "
+      - control:
+          kind: set_colour
+          colour: red
+      - text: x
+      - control:
+          kind: variable
+          variable_kind: 14
+          name: Randomizer_RG_Special_UpgradeArmor
+      - text: " 服装"
+
