@@ -223,16 +223,16 @@ entries:
       - text: "潜行紧身服\n已经从你的背包中被移除"
   Armor_043_Lower:
     contents:
-      - text: "Well-Worn Trousers\n已经从你的背包中被移除"
+      - text: "老旧的裤子\n已经从你的背包中被移除"
   Armor_043_Upper:
     contents:
-      - text: "Old Shirt\n已经从你的背包中被移除"
+      - text: "老旧的衬衫\n已经从你的背包中被移除"
   Armor_044_Upper:
     contents:
-      - text: "Warm Doublet\n已经从你的背包中被移除"
+      - text: "防寒服\n已经从你的背包中被移除"
   Armor_045_Head:
     contents:
-      - text: "Moblin Mask\n已经从你的背包中被移除"
+      - text: "莫力布林面罩\n已经从你的背包中被移除"
   Armor_046_Head:
     contents:
       - text: "橡胶头盔\n已经从你的背包中被移除"
@@ -256,19 +256,19 @@ entries:
       - text: "沙地靴\n已经从你的背包中被移除"
   Armor_053_Head:
     contents:
-      - text: "Gerudo Veil\n已经从你的背包中被移除"
+      - text: "淑女面罩\n已经从你的背包中被移除"
   Armor_053_Lower:
     contents:
-      - text: "Gerudo Sirwal\n已经从你的背包中被移除"
+      - text: "淑女裤子\n已经从你的背包中被移除"
   Armor_053_Upper:
     contents:
-      - text: "Gerudo Top\n已经从你的背包中被移除"
+      - text: "淑女服\n已经从你的背包中被移除"
   Armor_055_Head:
     contents:
-      - text: "Lizalfos Mask\n已经从你的背包中被移除"
+      - text: "蜥蜴战士面罩\n已经从你的背包中被移除"
   Armor_056_Head:
     contents:
-      - text: "Lynel Mask\n已经从你的背包中被移除"
+      - text: "莱尼尔面罩\n已经从你的背包中被移除"
   Armor_060_Head:
     contents:
       - text: "旷野之勇者帽子\n已经从你的背包中被移除"
