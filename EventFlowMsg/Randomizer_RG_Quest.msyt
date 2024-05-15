@@ -274,14 +274,14 @@ entries:
       - control:
           kind: set_colour
           colour: red
-      - text: Koko Cuisine
+      - text: 珂珂娜的厨房３(Koko Cuisine)
   Kakariko_Ch_Cooking4:
     contents:
       - text: "完成 - "
       - control:
           kind: set_colour
           colour: red
-      - text: "珂珂娜的厨房３(Koko's Specialty)"
+      - text: "珂珂娜的厨房４(Koko's Specialty)"
   Kakariko_Cha_001:
     contents:
       - text: "完成 - "
